@@ -4,6 +4,7 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 
 ## 📖 Documentation
 
-| Documentation   |                                                                |
-| --------------- | -------------------------------------------------------------- |
-| [ChangeLog](CHANGELOG.md)     | Changes and version history.                                   |
+| Documentation                                         |                                                  |
+| ----------------------------------------------------- | ------------------------------------------------ |
+| [ChangeLog](CHANGELOG.md)                             | Changes and version history.                     |
+| [JavaScript API](documentation/JAVASCRIPT_API.md)     | JavaScript API documentation                     |
