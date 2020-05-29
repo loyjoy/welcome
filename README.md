@@ -1,9 +1,9 @@
 # Welcome to LoyJoy
 
-Here you find the public documentation for [https://www.loyjoy.com](LoyJoy Conversational Marketing Cloud).
+Here you find the public documentation for [LoyJoy Conversational Marketing Cloud](https://www.loyjoy.com).
 
 ## 📖 Documentation
 
 | Documentation   |                                                                |
 | --------------- | -------------------------------------------------------------- |
-| [Changelog]     | Changes and version history.                                   |
+| [ChangeLog](CHANGELOG.md)     | Changes and version history.                                   |
