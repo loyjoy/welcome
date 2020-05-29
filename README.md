@@ -1,4 +1,4 @@
-# Welcome to LoyJoy
+# Welcome to LoyJoy!
 
 Here you find the public documentation for [LoyJoy Conversational Marketing Cloud](https://www.loyjoy.com).
 
