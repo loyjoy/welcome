@@ -50,7 +50,9 @@ Every chatbot on the Facebook platform is manually checked by Facebook and only 
 10. A new window will open, here you have to perform several steps. The prerequisite for this is that your company and you as a person / administrator have been personally verified on Facebook. If not already done, please perform the verifications. Then you can read on here.
 
 ![image18](facebook_integration/image18.png)
+
 ![image12](facebook_integration/image12.png)
+
 ![image13](facebook_integration/image13.png)
 
 
@@ -62,6 +64,7 @@ Every chatbot on the Facebook platform is manually checked by Facebook and only 
 12. Now you can copy the three information from Facebook (page ID, app ID and page access key) into your LoyJoy bot. To do this, go to the "Integration" tab in the Bot (really in the Bot, not in an Experience!) and expand the "Facebook" area. Put the three pieces of information in the right place. Then copy the "Webhook URL" from LoyJoy.
 
 ![image16](facebook_integration/image16.png)
+
 ![image1](facebook_integration/image1.png)
 
 
@@ -81,4 +84,5 @@ Every chatbot on the Facebook platform is manually checked by Facebook and only 
 16. Here you must first accept that you will not send any promotional messages via Messenger. You must also describe your chatbot experience in detail and create a screencast if necessary. You will find all information about this there. Please read the information on the Facebook page carefully.
 
 ![image8](facebook_integration/image8.png)
+
 ![image19](facebook_integration/image19.png)
