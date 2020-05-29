@@ -51,7 +51,6 @@ Every chatbot on the Facebook platform is manually checked by Facebook and only 
 
 ![image18](facebook_integration/image18.png)
 ![image12](facebook_integration/image12.png)
-![image3](facebook_integration/image3.png)
 
 
 11. After the verification (which is under review first) you will receive your page access key. Please copy it. Just like the App-ID shown above.
