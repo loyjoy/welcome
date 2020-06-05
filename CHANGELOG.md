@@ -18,6 +18,9 @@ All notable changes to LoyJoy will be documented in this file.
   - customers can chat at 23:50 and on 00:00 the timer will be active
   - allows synchronizing daily giveaways & timers
   - can be used in combination with minute threshold (timer should be active after at least 6 hours & a date change)
+- Date picker for manager preview
+  - Now arbitrary dates can be selected in the manager when working on chat flow.
+  - Useful for designing chat flows of time-dependent chat flows such as advent calendars and date-specific giveaways.
 
 ### Changed
 
