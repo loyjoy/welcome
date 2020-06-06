@@ -21,13 +21,14 @@ All notable changes to LoyJoy will be documented in this file.
 - Date picker for manager preview
   - Now arbitrary dates can be selected in the manager when working on chat flow.
   - Useful for designing chat flows of time-dependent chat flows such as advent calendars and date-specific giveaways.
+- Support for both SQL and NoSQL database repositories.
 
 ### Changed
 
 ### Fixed
 
 
-## release-2020-05-17
+## release-2020-05-30
 
 ### Added
 
