@@ -22,6 +22,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Now arbitrary dates can be selected in the manager when working on chat flow.
   - Useful for designing chat flows of time-dependent chat flows such as advent calendars and date-specific giveaways.
 - Support for both SQL and NoSQL database repositories.
+- Streamlined Web push subscription data model.
 
 ### Changed
 
