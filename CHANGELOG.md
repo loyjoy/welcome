@@ -8,6 +8,15 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+### Changed
+
+### Fixed
+
+
+## release-2020-06-09
+
+### Added
+
 - Integration mappings can read process variables.
   - allows sending e.g. customer variables to ProCampaign, Salesforce, Cleverreach etc.
 - Historization of customer variables and process variables.
