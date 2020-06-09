@@ -32,6 +32,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Useful for designing chat flows of time-dependent chat flows such as advent calendars and date-specific giveaways.
 - Support for both SQL and NoSQL database repositories.
 - Sub processes can be named in a model for better overview.
+- CSV export for free-text messages.
 
 ### Changed
 
