@@ -21,13 +21,13 @@ All notable changes to LoyJoy will be documented in this file.
   - Allows sending e.g. customer variables to ProCampaign, Salesforce, Cleverreach etc.
 - Historization of customer variables and process variables.
   - When adding a new variable, an existing variable of the same name will be archived
-- ⏲️ Timer date change:
+- ⏲️ Timer date change.
   - Previously the timer was listening to a fixed minute interval
   - Now it can be set to be active after a date change (on the next calendar day)
   - Customers can chat at 23:50 and on 00:00 the timer will be active
   - Allows synchronizing daily giveaways & timers
   - Can be used in combination with minute threshold (timer should be active after at least 6 hours & a date change)
-- 📅 Date picker for manager preview:
+- 📅 Date picker for manager preview.
   - Now arbitrary dates can be selected in the manager when working on chat flow.
   - Useful for designing chat flows of time-dependent chat flows such as advent calendars and date-specific giveaways.
 - Support for both SQL and NoSQL database repositories.
