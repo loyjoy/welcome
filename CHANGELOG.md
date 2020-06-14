@@ -8,6 +8,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- Added process groups and refactored the bots manager UI based and those.
+
 ### Changed
 
 ### Fixed
