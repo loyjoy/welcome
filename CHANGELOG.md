@@ -9,6 +9,10 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - Added process groups and refactored the bots manager UI based and those.
+- 🔔 Push conditions
+  - Push can be made dependent on process & customer variables
+  - Customers can be targeted e.g. by entered data or giveaway participations
+  - Shows number of messages to be sent
 
 ### Changed
 
