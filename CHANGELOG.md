@@ -8,15 +8,20 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Added process groups and refactored the bots manager UI based and those.
-- 🔔 Push conditions
-  - Push can be made dependent on process & customer variables
-  - Customers can be targeted e.g. by entered data or giveaway participations
-  - Shows number of messages to be sent
+- 🔔 Push conditions.
+  - Push can be made dependent on process & customer variables.
+  - Customers can be targeted e.g. by entered data or giveaway participations.
+  - Shows number of messages to be sent.
+- Added process groups for structuring processes into roster entries. Refactored the bots management UI around process groups.
+- Integration of Viber REST API for Russian market.
+- Integration of SMS.
+- Barcode scanning for third-party messengers.
 
 ### Changed
 
 ### Fixed
+
+- Multiple choice questions now work on third-party messengers.
 
 
 ## release-2020-06-09
