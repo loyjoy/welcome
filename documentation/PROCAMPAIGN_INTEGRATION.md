@@ -31,6 +31,14 @@ All other customer variables saved in during the chat can also be sent to ProCam
 - Also ProCampaign transactions are triggered automatically e.g. on newsletter single-opt-ins
   - For automatic transactions you only have to fill out the transaction fields in the integration:
   ![integrationfield](procampaign_integration/image4.png)
+  - These automatic transactions are implemented:
+    - Newsletter single-opt-in
+    - Reminder single-opt-in
+    - Giveaway participation
+    - Instant win participation
+    - Postal address entered
+    - PIN 
+    - Advent calendar winner drawn
 
 ### Things to consider
 - The API key for ProCampaign must be set up to allow writing of the attributes you want to send
