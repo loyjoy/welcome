@@ -23,7 +23,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Changed
 
-- Moved coupon codes from experience to process building blocks.
+- Moved coupon codes from experience to process building block.
 
 ### Fixed
 
