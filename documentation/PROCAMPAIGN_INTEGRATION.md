@@ -22,6 +22,8 @@ Here you can set the data mappings for the following transactions that will *aut
   - Postal address
   - PIN email
   
+The following screenshot shows an example for newsletter settings.
+  
 ![integrationfield](procampaign_integration/image4.png)
 
 ## Define custom data points (variables) in LoyJoy
