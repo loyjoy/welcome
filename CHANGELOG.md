@@ -23,6 +23,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Changed
 
+- Moved coupon codes from experience to process building blocks.
+
 ### Fixed
 
 - Multiple choice questions now work on third-party messengers.
