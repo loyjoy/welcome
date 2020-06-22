@@ -22,6 +22,7 @@ There are a number of customer fields that are always accessible:
 All other customer variables saved in during the chat can also be sent to ProCampaign:
 
 ![variable](procampaign_integration/image2.png)
+
 ![questionnaire](procampaign_integration/image3.png)
 
 Things to consider:
