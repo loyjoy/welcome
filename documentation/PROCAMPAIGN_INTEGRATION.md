@@ -41,6 +41,7 @@ Here is an example for a variable set with the "Variable" process brick.
 - As mentioned above, some transactions in LoyJoy send data to ProCampaign automatically based the mappings in settings > integration
 - Additionally, you can trigger to send data to a ProCampaign transaction with the "ProCampaign" building brick
 
+![procampaign](procampaign_integration/image3.png)
   
 ## List of default variables in LoyJoy
 
