@@ -1,6 +1,7 @@
 # ProCampaign Integration
 
 All kinds of data can be flexibly sent to ProCampaign as attributes. The mapping from LoyJoy to ProCampaign is set up in the integration:
+
 ![integration](procampaign_integration/image1.png)
 
 There are a number of customer fields that are always accessible:
@@ -19,6 +20,7 @@ There are a number of customer fields that are always accessible:
 - customer_zipcode
 
 All other customer variables saved in during the chat can also be sent to ProCampaign:
+
 ![variable](procampaign_integration/image2.png)
 ![questionnaire](procampaign_integration/image3.png)
 
