@@ -1,10 +1,51 @@
 # ProCampaign Integration
 
-All kinds of data can be flexibly sent to ProCampaign as attributes. The mapping from LoyJoy to ProCampaign is set up in the integration:
+In this article you'll learn how to transfer data from LoyJoy to ProCampaign. Basically, all kinds of data can be flexibly sent to ProCampaign as attributes.
+
+## Consider before starting
+
+Your API key for ProCampaign must be set up to *allow writing of the attributes that you want to send*. Please also make sure you configured all the required settings in LoyJoy at settings > integration.
+
+## Configure the integration
+
+Start with the mapping from LoyJoy to ProCampaign in LoyJoy's integration section. 
 
 ![integration](procampaign_integration/image1.png)
 
-There are a number of customer fields that are always accessible:
+Here you can set the data mappings for the following transactions that will *automatically* transfer data to ProCampaign:
+
+  - Newsletter opt-in (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
+  - Reminder single-opt-in (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
+  - Giveaway (raffle) participation
+  - Instant win participation
+  - Advent calendar winners
+  - Postal address
+  - PIN email
+  
+![integrationfield](procampaign_integration/image4.png)
+
+## Define custom data points (variables) in LoyJoy
+
+As you know, in LoyJoy you can create custom variables and store them in the customer database. You can pick any customer variable that is stored in LoyJoy and send them to ProCampaign. Variables can be set for example via the "Variable" process building block or in a "Questionnaire".
+
+Here is an example for a variable created in a questionnaire.
+
+![variable](procampaign_integration/image2.png)
+
+Here is an example for a variable set with the "Variable" process brick.
+
+![questionnaire](procampaign_integration/image3.png)
+
+## Send your data to ProCampaign
+
+- As mentioned above, some transactions in LoyJoy send data to ProCampaign automatically based the mappings in settings > integration
+- Additionally, you can trigger to send data to a ProCampaign transaction with the "ProCampaign" building brick
+
+  
+## List of default variables in LoyJoy
+
+The following customer data fields (or variables) are *always* accessible:
+
 - customer_country
 - customer_email
 - customer_firstname
@@ -19,26 +60,3 @@ There are a number of customer fields that are always accessible:
 - customer_surrogate_id
 - customer_zipcode
 
-All other customer variables saved in during the chat can also be sent to ProCampaign. Variables can be set via the Variable process building block or a questionnaire.
-
-![variable](procampaign_integration/image2.png)
-
-![questionnaire](procampaign_integration/image3.png)
-
-### Sending the data to ProCampaign
-- The data will be sent in all transactions to ProCampaign
-- ProCampaign transactions can be triggered manually using a ProCampaign process block
-- Also ProCampaign transactions are triggered automatically e.g. on newsletter single-opt-ins
-  - For automatic transactions you only have to fill out the transaction fields in the integration settings:
-  ![integrationfield](procampaign_integration/image4.png)
-  - These automatic transactions are implemented:
-    - Newsletter single-opt-in
-    - Reminder single-opt-in
-    - Giveaway participation
-    - Instant win participation
-    - Postal address entered
-    - PIN 
-    - Advent calendar winner drawn
-
-### Things to consider
-- The API key for ProCampaign must be set up to allow writing of the attributes you want to send
