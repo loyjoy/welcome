@@ -12,6 +12,9 @@ All notable changes to LoyJoy will be documented in this file.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
+- Customer referrals.
+  - Sharing with customer tokens.
+  - Referring customers get loyalty points for new signups. 
 - Added process groups for structuring processes into roster entries. Refactored the bots management UI around those process groups.
 - Added intent groups for structuring intents. Intent groups can be copied between tenants.
 - Integration of Viber REST API for Russian market.
