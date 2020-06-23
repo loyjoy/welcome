@@ -28,7 +28,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Fixed
 
 - Multiple choice questions now work on third-party messengers.
-- Fix for using LoyJoy inside of cross-origin iframes.
+- Fix for using LoyJoy inside cross-origin iframes.
 
 
 ## release-2020-06-09
