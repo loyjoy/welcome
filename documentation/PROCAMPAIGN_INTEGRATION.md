@@ -17,7 +17,6 @@ Here you can set the data mappings for the following transactions that will *aut
   - Newsletter opt-in (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
   - Reminder single-opt-in (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
   - Giveaway (raffle) participation
-  - Instant win participation
   - Advent calendar winners
   - Postal address
   - PIN email
