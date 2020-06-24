@@ -26,6 +26,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Integration of Viber REST API for Russian market.
 - Integration of SMS.
 - Barcode scanning for third-party messengers.
+- Activated NoSQL database repositories.
 
 ### Changed
 
