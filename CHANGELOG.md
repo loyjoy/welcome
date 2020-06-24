@@ -12,6 +12,12 @@ All notable changes to LoyJoy will be documented in this file.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
+
+
+## release-2020-06-24
+
+### Added
+
 - Customer referrals.
   - Sharing with customer tokens.
   - Referring customers get loyalty points for new signups. 
