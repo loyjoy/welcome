@@ -27,6 +27,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Integration of SMS.
 - Barcode scanning for third-party messengers.
 - Activated NoSQL database repositories.
+- Version indicator in footer of management backend.
 
 ### Changed
 
