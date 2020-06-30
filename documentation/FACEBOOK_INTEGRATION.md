@@ -1,4 +1,4 @@
-# Connect a LoyJoy bot to Facebook Messenger
+# How to connect a LoyJoy bot to Facebook Messenger
 
 Every chatbot on the Facebook platform is manually checked by Facebook and only then is it activated. The steps required to set up and submit a chatbot are explained below. Some steps may have already been completed, so you can simply skip them. Setup is not always self-explanatory. LoyJoy has no influence on this procedure.
 
