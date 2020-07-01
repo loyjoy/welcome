@@ -43,7 +43,9 @@ LoyJoy("boot", {
 })
 ```
 
-Inside LoyJoy, we can then access this parameter and, for example, make an automatic jump based on it:
+The parameter `myparam` is now freely available in LoyJoy. Parameter names can be chosen freely.
+
+Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
 ![condition](dynamic_landing_page/process-jump-condition.png)
 
