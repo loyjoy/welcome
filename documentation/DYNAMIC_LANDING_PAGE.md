@@ -1,9 +1,13 @@
+# How to do an A/B Test in LoyJoy
+
+This guide is right for you if you want run an A/B test with two different chats on the same website. You can also use this guide if you simply want to use the same landing page for two different chats.
+
 There are two ways to have dynamic experiences on one landing page:
 - Switching experiences in JavaScript
 - Switching experiences in LoyJoy
 
 
-# Switching Experiences in JavaScript
+## Switching Experiences in JavaScript
 
 You can `boot` LoyJoy with different processes, depending on conditions you choose. 
 
@@ -29,7 +33,7 @@ LoyJoy("boot", {
 Here, `loyjoy-process` is the URL parameter we chose to determine which process to `boot`. `getParameterByName` is
 simply a function that gets us the value of URL paramter.
 
-# Switching Experiences in LoyJoy
+## Switching Experiences in LoyJoy
 
 When booting LoyJoy, we can hand over arbitrary parameters:
 
