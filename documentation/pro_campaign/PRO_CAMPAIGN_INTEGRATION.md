@@ -10,7 +10,7 @@ Your API key for ProCampaign must be set up to *allow writing of the attributes 
 
 Start with the mapping from LoyJoy to ProCampaign in LoyJoy's integration section. 
 
-![integration](procampaign_integration/image1.png)
+![integration](pro_campaign_integration/image1.png)
 
 Here you can set the data mappings for the following transactions that will *automatically* transfer data to ProCampaign:
 
@@ -23,7 +23,7 @@ Here you can set the data mappings for the following transactions that will *aut
   
 The following screenshot shows an example for newsletter settings.
   
-![integrationfield](procampaign_integration/image4.png)
+![integrationfield](pro_campaign_integration/image4.png)
 
 ## Define custom data points (variables) in LoyJoy
 
@@ -31,18 +31,18 @@ As you know, in LoyJoy you can create custom variables and store them in the cus
 
 Here is an example for a variable created in a questionnaire.
 
-![variable](procampaign_integration/image2.png)
+![variable](pro_campaign_integration/image2.png)
 
 Here is an example for a variable set with the "Variable" process brick.
 
-![questionnaire](procampaign_integration/image3.png)
+![questionnaire](pro_campaign_integration/image3.png)
 
 ## Send your data to ProCampaign
 
 - As mentioned above, some transactions in LoyJoy send data to ProCampaign automatically based the mappings in settings > integration
 - Additionally, you can trigger to send data to a ProCampaign transaction with the "ProCampaign" building brick
 
-![procampaign](procampaign_integration/image5.png)
+![procampaign](pro_campaign_integration/image5.png)
   
 ## List of default variables in LoyJoy
 
