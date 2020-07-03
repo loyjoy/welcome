@@ -15,7 +15,7 @@ Only 2 steps are needed to configure this integration in LoyJoy
 
 Make sure to turn off the single-opt-in email in LoyJoy as this will be sent by ProCampaign.
 
-
+![email_off](newsletter/email_off.png)
 
 2. Configure a ProCampaign integration in LoyJoy.
    1. Enter the API key, list, and transaction into the newsletter fields.
