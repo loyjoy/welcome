@@ -14,9 +14,9 @@ Only 2 steps are needed to configure this integration in LoyJoy
 ![process](newsletter/process.png)
 
 2. Configure a ProCampaign integration in LoyJoy.
-  1. Enter the API key, list, and transaction into the newsletter fields.
-  2. Activate this integration for the Bot you are using.
-  3. Create a mapping for the email field (optional: other fields, all fields present will be sent).
+   1. Enter the API key, list, and transaction into the newsletter fields.
+   2. Activate this integration for the Bot you are using.
+   3. Create a mapping for the email field (optional: other fields, all fields present will be sent).
 
 ![integration](newsletter/integration.png)
 
