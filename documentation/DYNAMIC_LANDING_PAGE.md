@@ -1,4 +1,4 @@
-# How to do an A/B Test in LoyJoy
+# How to do an A/B Test in LoyJoy - Dynamic Landing Page
 
 This guide is right for you if you want run an A/B test with two different chats on the same website. You can also use this guide if you simply want to use the same landing page for two different chats.
 
