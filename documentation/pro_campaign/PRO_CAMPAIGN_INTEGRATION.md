@@ -18,15 +18,15 @@ You need an API key for ProCampaign that must be set up to **allow writing of th
 
 In LoyJoy, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
-![settings](pro_campaign_integration/image6.png)
+<img src="pro_campaign_integration/image6.png" alt="LoyJoy to ProCampaign" width="800" align="center" />
 
 Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
   
-![integration](pro_campaign_integration/image1.png)
+<img src="pro_campaign_integration/image1.png" alt="LoyJoy to ProCampaign" width="800" align="center" />
   
 The following screenshot shows an example for newsletter settings.
   
-![integrationfield](pro_campaign_integration/image4.png)
+<img src="pro_campaign_integration/image4.png" alt="Send newsletter subscribers to ProCampaign" width="400" align="center" />
 
 ## 4. Define custom data points (variables) in LoyJoy
 
