@@ -1,34 +1,41 @@
-# ProCampaign Newsletter Integrations
+# How to add newsletter subscribers from LoyJoy to ProCampaign
 
-LoyJoy can send newsletter single opt-ins (SOI) to ProCampaign automatically. Note: this is a one-way integration.
+## What this solutions will do for you
 
-To start sending newsletter SOIs from LoyJoy to ProCampaign we only need three things:
-- the name of the transaction in ProCampaign
-- the name of the list in ProCampaign 
-- an API key that is allowed to modify the attributes / send the transaction
+LoyJoy can acquire newsletter subscribers within every chat flow that contains the "newsletter opt-in" process brick. By default, new subscribers and their consents are stored in the LoyJoy database. It's also simple to transfer newsletter subscribers to your ProCampaign database automatically. LoyJoy will transfer the single opt-ins (SOI) to ProCampaign, and ProCampaign will then send the double opt-in email to the new subscribers. In LoyJoy you will only see the single opt-ins, while ProCampaign also stores the double opt-ins. Plase note: this is a one-way integration, meaning the subscribers and their consents will be managed in ProCampaign only.
 
-Only 2 steps are needed to configure this integration in LoyJoy
+## What you need for the data connection
 
-1. Create a Bot with a Newsletter sub-process. 
+To start sending newsletter subscribers from LoyJoy to ProCampaign you will need three things:
+
+1. The name of your newsletter transaction in ProCampaign (your ProCampaign admin will know this)
+2. The name of your newsletter list in ProCampaign  (your ProCampaign admin will know this)
+3. An API key that has the needed rights to modify the attributes / send the transaction (your ProCampaign admin will know this)
+
+## How to configure the connection
+
+Three steps are necessary to configure the integration in LoyJoy:
+
+1. Create or copy an experience that contains a "newsletter opt-in" process brick. 
 
 ![process](newsletter/process.png)
 
-Make sure to turn off the single-opt-in email in LoyJoy as this will be sent by ProCampaign (lower in the sub-process settings).
+2. Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
 
 ![email_off](newsletter/email_off.png)
 
-2. Configure a ProCampaign integration in LoyJoy.
-   1. Enter the API key, list, and transaction into the newsletter fields.
-   2. Activate this integration for the Bot you are using.
-   3. Create a mapping for the email field (optional: other fields, all fields present will be sent).
+3. Configure the ProCampaign integration in LoyJoy.
+   1. Go to settings in the top menu, look for the ProCampaign card and click on "Add now".
+   2. Scroll down to "Integrate ProCampaign".
+   1. Fill in your API key, the list name, and the transaction name into the according fields in LoyJoy. There is a section "Fields for newsletter single opt-in".
+   2. Activate this integration for the Bot you are using by choosing the bot from the list "Choose on which bots the integration should be active".
+   3. Click on "Add a mapping" to create a mapping for the email field as pointed out below (you could add more fields of course, but here we are focusing on the email address).
 
 ![integration](newsletter/integration.png)
 
-Note: Please make sure that no fields that your API key has no privileges for are added in the ProCampaign integration settings.
-
 
 ## Optional Fields in the Integration Settings
-- Newsletter consent: If set, will be sent as an attribute and filled with the text the user confirmed in the chat
+- Newsletter consent: If set, the text that the user confirmed to subscribe in the chat will be sent as an attribute to ProCampaign.
 - Ident_long: Ident_long transaction parameter (Defaults to "Newsletter Subscription")
 - Create Account: post data to `Account/Register` instead of `Consumer` endpoint
 
