@@ -24,7 +24,7 @@ Three steps are necessary to configure the integration in LoyJoy:
 
 2. Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
 
-<img src="newsletter/email_off.png" alt="Switch off double opt-in" width="400" align="center" />
+<img src="newsletter/email_off.png" alt="Switch off double opt-in" width="600" align="center" />
 
 3. Configure the ProCampaign integration in LoyJoy.
    1. Go to settings in the top menu, look for the ProCampaign card and click on "Add now".
@@ -33,7 +33,7 @@ Three steps are necessary to configure the integration in LoyJoy:
    2. Activate this integration for the Bot you are using by choosing the bot from the list "Choose on which bots the integration should be active".
    3. Click on "Add a mapping" to create a mapping for the email field as pointed out below (you could add more fields of course, but here we are focusing on the email address).
 
-<img src="newsletter/integration.png" alt="Newsletter settings" width="400" align="center" />
+<img src="newsletter/integration.png" alt="Newsletter settings" width="800" align="center" />
 
 
 ## 4. Optional Fields in the Integration Settings
