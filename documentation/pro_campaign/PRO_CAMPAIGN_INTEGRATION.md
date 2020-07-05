@@ -2,11 +2,11 @@
 
 ## 1. What this solution will do for you
 
-Basically, all kinds of data can be flexibly sent from LoyJoy to ProCampaign as attributes. If you want to transfer newsletter subscribers, [check out our separate docu](https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md).
+Basically, all kinds of data can be flexibly sent from LoyJoy to ProCampaign as attributes. If you want to transfer newsletter subscribers, [check out our separate documentation](https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md).
 
 ## 2. What you need for the data transfer
 
-You need an API key for ProCampaign that must be set up to *allow writing of the attributes (data fields) that you want to send*. Your ProCampaign admin will be able to help you.
+You need an API key for ProCampaign that must be set up to **allow writing of the attributes (data fields) that you want to send**. Your ProCampaign admin will be able to help you.
 
 ## 3. Configure the data transfer
 
