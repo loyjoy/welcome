@@ -2,26 +2,30 @@
 
 ## 1. What this solution will do for you
 
-Basically, all kinds of data can be flexibly sent from LoyJoy to ProCampaign as attributes. If you want to transfer newsletter subscribers, [check out our separate documentation](https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md).
+Basically, all kinds of data can be flexibly sent from LoyJoy to ProCampaign as attributes.
+
+In this article you'll learn how transfer the following data from LoyJoy to ProCampaign:
+
+  - Newsletter subscribers ([check out our separate article](https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md)).
+  - Reminder email subscribers (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
+  - Giveaway (raffle) participations
+  - Advent calendar winners
+  - Postal addresses
+  - PIN emails
 
 ## 2. What you need for the data transfer
 
-You need an API key for ProCampaign that must be set up to **allow writing of the attributes (data fields) that you want to send**. Your ProCampaign admin will be able to help you.
+You need an API key for ProCampaign that must be set up to **allow writing of the data fields that you want to transfer**. Your ProCampaign admin will be able to help you.
 
 ## 3. Configure the data transfer
 
-Start with the mapping from LoyJoy to ProCampaign in LoyJoy's integration section. Go to settings, then choose integration in LoyJoy.
+In LoyJoy, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
+![settings](pro_campaign_integration/image6.png)
+
+Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
+  
 ![integration](pro_campaign_integration/image1.png)
-
-Here you can set the data mappings for the following transactions that will *automatically* transfer data to ProCampaign:
-
-  - Newsletter opt-in (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
-  - Reminder single-opt-in (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
-  - Giveaway (raffle) participation
-  - Advent calendar winners
-  - Postal address
-  - PIN email
   
 The following screenshot shows an example for newsletter settings.
   
