@@ -14,6 +14,7 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | [integration]   | How to transfer giveaway (raffle) participants.                |
 | [integration]   | How to transfer advent calendar winners.                       |
 | [integration]   | How to transfer postal addresses.                              |
+| [integration]   | How to send reminder emails from ProCampaign.                  |
 | [integration]   | How to send PIN emails from ProCampaign.                       |
 | [transaction]   | How to transfer any transaction to ProCampaign.                |
 | [custom_data]   | How to transfer other data than the ones mentioned above.      |
