@@ -2,9 +2,9 @@
 
 ## 1. What this solutions will do for you
 
-LoyJoy can acquire newsletter subscribers within every chat flow that contains the "newsletter opt-in" process brick. By default, new subscribers and their consents are stored in the LoyJoy database.
+LoyJoy can acquire newsletter subscribers within every chat flow that contains the "newsletter opt-in" process brick. 
 
-It's also simple to automatically transfer new newsletter subscribers to your ProCampaign database. LoyJoy will transfer the single opt-ins (SOI) to ProCampaign, and ProCampaign will then send the double opt-in email to the new subscribers. In LoyJoy you will only see the single opt-ins, while ProCampaign also stores the double opt-ins. Plase note: this is a one-way integration, meaning the subscribers and their consents will be managed in ProCampaign only.
+It's easy to automatically transfer new newsletter subscribers to your ProCampaign database. LoyJoy will transfer the single opt-ins to ProCampaign, and ProCampaign will then send the double opt-in email to the new subscribers. In LoyJoy you will only see the single opt-ins, while ProCampaign also stores the double opt-ins. This is a one-way integration, meaning the subscribers and their consents will be managed in ProCampaign only.
 
 ## 2. What you need for the data connection
 
