@@ -1,4 +1,4 @@
-# How to add newsletter subscribers from LoyJoy to ProCampaign
+# How to transfer newsletter subscribers from LoyJoy to ProCampaign
 
 ## 1. What this solutions will do for you
 
