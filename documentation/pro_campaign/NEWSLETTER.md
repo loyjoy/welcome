@@ -20,7 +20,8 @@ Three steps are necessary to configure the integration in LoyJoy:
 
 1. Create or copy an experience that contains a "newsletter opt-in" process brick. 
 
-![process](newsletter/process.png =600px)
+![process](newsletter/process.png)
+<img src="newsletter/process.png" width="600" align="center" />
 
 2. Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
 
