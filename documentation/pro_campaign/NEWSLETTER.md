@@ -1,12 +1,12 @@
 # How to add newsletter subscribers from LoyJoy to ProCampaign
 
-## What this solutions will do for you
+## 1. What this solutions will do for you
 
 LoyJoy can acquire newsletter subscribers within every chat flow that contains the "newsletter opt-in" process brick. By default, new subscribers and their consents are stored in the LoyJoy database.
 
 It's also simple to automatically transfer new newsletter subscribers to your ProCampaign database. LoyJoy will transfer the single opt-ins (SOI) to ProCampaign, and ProCampaign will then send the double opt-in email to the new subscribers. In LoyJoy you will only see the single opt-ins, while ProCampaign also stores the double opt-ins. Plase note: this is a one-way integration, meaning the subscribers and their consents will be managed in ProCampaign only.
 
-## What you need for the data connection
+## 2. What you need for the data connection
 
 To start sending newsletter subscribers from LoyJoy to ProCampaign you will need three things:
 
@@ -14,7 +14,7 @@ To start sending newsletter subscribers from LoyJoy to ProCampaign you will need
 2. The name of your **newsletter list** in ProCampaign  (your ProCampaign admin will know this)
 3. An **API key that has the needed rights** to modify the attributes / send the transaction (your ProCampaign admin will know this)
 
-## How to configure the connection
+## 3. How to configure the connection
 
 Three steps are necessary to configure the integration in LoyJoy:
 
@@ -36,7 +36,7 @@ Three steps are necessary to configure the integration in LoyJoy:
 ![integration](newsletter/integration.png)
 
 
-## Optional Fields in the Integration Settings
+## 4. Optional Fields in the Integration Settings
 - Newsletter consent: If set, the text that the user confirmed to subscribe in the chat will be sent as an attribute to ProCampaign.
 - Ident_long: Ident_long transaction parameter (Defaults to "Newsletter Subscription")
 - Create Account: post data to `Account/Register` instead of `Consumer` endpoint
