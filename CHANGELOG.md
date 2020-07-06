@@ -8,14 +8,13 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-
-## release-2020-07-06
-
 - 🔔 Push conditions.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
 
+
+## release-2020-07-06
 
 ### Added
 
