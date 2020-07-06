@@ -28,9 +28,11 @@ The WebService endpoint has to respond after a few seconds. Optionally, the resp
 
 ```json
 {
-  "variables": {
-    "some_key": "some_value",
-    ...
+  "data": {
+    "variables": {
+      "some_key": "some_value",
+      ...
+    }
   }
 }
 ```
