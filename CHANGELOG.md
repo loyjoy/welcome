@@ -8,14 +8,21 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- New animations.
+
+## release-2020-07-06
+
 - 🔔 Push conditions.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
+
+
+### Added
+
 - Logging is accessible unter settings > log. Unsuccessful integration HTTP calls are logged and can be analyzed there.
 - Enhanced Viber integration.
 - ProCampaign consumer account assurance.
+- New animations.
 
 ### Changed
 
