@@ -1,4 +1,4 @@
-# List of all LoyJoy process bricks
+# List of all LoyJoy process building blocks
 
 ## Advent calendar door
 Let customers open a new door every day in a Christmas countdown.
