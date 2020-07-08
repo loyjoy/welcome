@@ -15,7 +15,7 @@ Create your own pixel integration in three steps:
 2. Ensure the Facebook Pixel integration on your page
 3. Integrate the Facebook Pixel integration with the LoyJoy JavaScript
 
-#### 1: Choose/Create an Event to Track
+## 1. Choose/Create an Event to Track
 
 We could choose one of the [events already present](GOOGLE_TAG_MANAGER.md) in LoyJoy. For example `newsletter_opt_in`
 will be triggered when a customer gives a newsletter single opt-in in the chat.
@@ -27,7 +27,7 @@ define the name of the event to be triggered at this point in the process:
 
 Here, we choose the name `product_tester` as an example. Now we can continue with the integration on the website.
 
-#### 2: Facebook Pixel Page Integration
+## 2. Facebook Pixel Page Integration
 
 This is the basic script. It has to be integrated into the HTML of the website.
 ```html
@@ -48,7 +48,7 @@ fbq('track', 'PageView');
 The script creates the `fbq` function, initialises the tracking and tracks a pageview. We can use this function in the next
 step to track chat events in Facebook.
 
-#### 3: Send Events from LoyJoy to Facebook
+## 3. Send Events from LoyJoy to Facebook
 
 We also have to integrate the `fbq` function into the LoyJoy startup script. This example will trigger the facebook
 tracking whenever a LoyJoy event called `product_tester` is triggered:
