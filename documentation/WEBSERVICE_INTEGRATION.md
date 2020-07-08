@@ -6,11 +6,6 @@ The request body is structured as follows:
 
 ```json
 {
-  "data": {
-    "message": {
-      ...
-    }
-  },
   "params": {
     "referrer": REFERRER,
     "user-agent": USER_AGENT,
