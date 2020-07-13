@@ -13,6 +13,9 @@ All notable changes to LoyJoy will be documented in this file.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
 
+### Fixed
+
+- Customer variables are updated before integration listeners are triggered
 
 ## release-2020-07-06
 
