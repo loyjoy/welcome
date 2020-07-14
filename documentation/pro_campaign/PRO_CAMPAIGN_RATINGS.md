@@ -38,6 +38,8 @@ For this step, you simply add a `ProCampaign` process brick and select `Send rev
 
 In the ProCampaign integration, you only have to add the API key (see below) and a basic mapping, mapping `customer_email` to `Email`.
 
+The integration also has to be activated for the bot you are using.
+
 The requirement for the API keys is different, depending on whether reviews are only allowed for logged in users or for all users:
 
   - if reviews are open (NIVEA X): Only normal API key is needed
