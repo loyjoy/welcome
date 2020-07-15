@@ -23,6 +23,8 @@ In LoyJoy, go to settings, then choose integration. Choose ProCampaign and click
   <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" width="800"/>
 </p>
 
+This will add a new tab with the name "ProCampaign" below the cards.
+
 Scroll down to "General settings".
 
 - Set a name for your integration (since you can have several integrations this will help you keeping track of)
@@ -32,12 +34,13 @@ Scroll down to "General settings".
   <img src="pro_campaign_integration/pro_campaign_integration_general_settings.png" alt="LoyJoy to ProCampaign" width="600"/>
 </p>
 
-Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
+Scroll down until you see a tab called "Add mapping". A mapping maps field names from LoyJoy to field names in ProCampaign.
 
-Make sure that you:
 - Choose the LoyJoy bot(s) that you want to use the integration in
-- Choose the variable (data field) from LoyJoy that you want to transfer (Source)
-- Enter the target name of the data field that you store in ProCampaign (Target)
+- Click "Add mapping" to add a new mapping
+- Choose "Process variable" from the Source dropdown
+- Enter the variable name from LoyJoy that you want to transfer as Source
+- Enter the target name of the data field that you store in ProCampaign
 
 <p align="center">  
   <img src="pro_campaign_integration/pro_campaign_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" width="800"/>
