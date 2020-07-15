@@ -4,7 +4,8 @@
 
 In this article you'll learn how to transfer the following data from LoyJoy to ProCampaign:
 
-  - Reminder email subscribers (single-opt-in is sent to ProCampaign, double-opt-in email sent via ProCampaign)
+  - Newsletter subscribers
+  - Reminder email subscribers
   - Giveaway (raffle) participations
   - Advent calendar winners
   - Postal addresses
@@ -22,24 +23,27 @@ In LoyJoy, go to settings, then choose integration. Choose ProCampaign and click
   <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" width="800"/>
 </p>
 
-Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
+Scroll down to "General settings".
 
-<p align="center">  
-  <img src="pro_campaign_integration/pro_campaign_mapping.png" alt="LoyJoy to ProCampaign" width="800"/>
+- Set a name for your integration (since you can have several integrations this will help you keeping track of)
+- Enter your API key that you got from your ProCampaign admin
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_general_settings.png" alt="LoyJoy to ProCampaign" width="600"/>
 </p>
+
+Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
 
 Make sure that you:
 - Choose the LoyJoy bot(s) that you want to use the integration in
-- Choose the variable (data field) from LoyJoy that you want to transfer
-- Enter the target name of the data field that you store in ProCampaign
-  
-The following screenshot shows an example for newsletter settings.
+- Choose the variable (data field) from LoyJoy that you want to transfer (Source)
+- Enter the target name of the data field that you store in ProCampaign (Target)
 
-<p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_newsletter_settings.png" alt="Send newsletter subscribers to ProCampaign" width="400"/>
+<p align="center">  
+  <img src="pro_campaign_integration/pro_campaign_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" width="800"/>
 </p>
 
-## 4. Define custom data points (variables) in LoyJoy
+## 4. How to set custom data points (variables) in LoyJoy
 
 As you know, in LoyJoy you can create custom variables and store them in the customer database. You can pick any customer variable that is stored in LoyJoy and send them to ProCampaign. Variables can be set for example via the "Variable" process building block or in a "Questionnaire".
 
