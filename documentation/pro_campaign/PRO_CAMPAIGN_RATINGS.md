@@ -42,7 +42,7 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   - Ask your customers if they would recommend the product     
   **procampaign_rating_is_recommended** -`Questionnaire` 
   
-  - Ask your customers to enter their review 
+  - Ask your customers to enter their review  
   **procampaign_rating_text** - `Questionnaire`
   
   - Ask your customers to give their review a title  
