@@ -19,19 +19,19 @@ You need an API key for ProCampaign that must be set up to **allow writing of th
 In LoyJoy, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
 <p align="center">
-  <img src="pro_campaign_integration/image6.png" alt="LoyJoy to ProCampaign" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" width="800"/>
 </p>
 
 Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
 
 <p align="center">  
-  <img src="pro_campaign_integration/image1.png" alt="LoyJoy to ProCampaign" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_mapping.png" alt="LoyJoy to ProCampaign" width="800"/>
 </p>
   
 The following screenshot shows an example for newsletter settings.
 
 <p align="center">
-  <img src="pro_campaign_integration/image4.png" alt="Send newsletter subscribers to ProCampaign" width="400"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_newsletter_settings.png" alt="Send newsletter subscribers to ProCampaign" width="400"/>
 </p>
 
 ## 4. Define custom data points (variables) in LoyJoy
@@ -41,13 +41,13 @@ As you know, in LoyJoy you can create custom variables and store them in the cus
 Here is an example for a variable created in a questionnaire.
 
 <p align="center">
-  <img src="pro_campaign_integration/image2.png" alt="Setting a variable in a questionnaire" width="800"/>
+  <img src="pro_campaign_integration/questionnaire_set_variable.png" alt="Setting a variable in a questionnaire" width="800"/>
 </p>
 
 Here is an example for a variable set with the "Variable" process brick.
 
 <p align="center">
-  <img src="pro_campaign_integration/image3.png" alt="Setting a variable with the 'variable' process brick" width="800"/>
+  <img src="pro_campaign_integration/variable_set_variable.png" alt="Setting a variable with the 'variable' process brick" width="800"/>
 </p>
 
 ## 5. Transfer your data to ProCampaign
@@ -55,5 +55,5 @@ Here is an example for a variable set with the "Variable" process brick.
 You can trigger to send custom data to a ProCampaign transaction with the "ProCampaign" building brick. Add the brick to your process and configure it.
 
  <p align="center">
-  <img src="pro_campaign_integration/image5.png" alt="ProCampaign process brick in LoyJoy chat editor" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_process_brick_transaction.png" alt="ProCampaign process brick in LoyJoy chat editor" width="800"/>
 </p>
