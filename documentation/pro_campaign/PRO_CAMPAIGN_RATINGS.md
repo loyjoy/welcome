@@ -10,7 +10,7 @@ Customers will be able to rate a product within the LoyJoy chat. In this article
 
 ## 2. What you need for this solution to work
 
-You need an API key for ProCampaign that must be set up to **allow writing of the data fields that you want to transfer**. Your ProCampaign admin will be able to help you.
+You need an API key for ProCampaign that must be set up to **allow the data transfer**. Your ProCampaign admin will be able to help you.
 
 ## 3. Set Variables in the LoyJoy Process Flow
 
@@ -22,15 +22,16 @@ We will create a rating `Questionnaire` to let our customers rate our chocolate 
 
 Drag a `Questionnaire` process block to your chatflow and choose the question type `rating`. Than type your question into the question field. Click on the settings button on the process brick and choose the suitable ProCampaign Variable. 
 
-### You need to integrate some variables in the chatflow to create a full review:
+### You need to integrate some components in the chatflow to create a full review:
 
   - A **sign up**  
   Use the sign up process block to get the email adress of the customers. This is required to tranfer a valid rating to ProCampaign. 
   
-  - A product to rate or review
-  This can be identified through a fixed sources such as placing it on a product page. Use a `Variable`at the beginning of your flow to define your object.   **procampaign_rating_product** - `Variable` / `Questionnaire`
+  - A **product**    
+  This can be identified through a fixed sources such as placing it on a product page. Use a Variable at the beginning of your flow to define your object.   
+  **procampaign_rating_product** - `Variable` / `Questionnaire`
   
-  - The link to the product page or origin of the product
+  - The **link to the product page or origin of the product**  
   Add a variable to determine the source and use variable name:  
   **procampaign_rating_url** - `Variable` / `Questionnaire`
   
@@ -38,10 +39,10 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
     <img src="pro_campaign_integration/pro_campaign_url.png" alt="Ratings and review url chatbot in LoyJoy" title="LoyJoy ProCampaign url Ratings Reviews Data Transfer" width="600" />
   </p>
 
-  - Ask your customers if they would recommend the product  
+  - Ask your customers if they would recommend the product     
   **procampaign_rating_is_recommended** -`Questionnaire` 
   
-  - Ask your customers to enter their review  
+  - Ask your customers to enter their review 
   **procampaign_rating_text** - `Questionnaire`
   
   - Ask your customers to give their review a title  
