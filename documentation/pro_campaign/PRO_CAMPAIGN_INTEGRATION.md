@@ -1,7 +1,5 @@
 # How to transfer data from LoyJoy to ProCampaign
 
-## 1. What this solution will do for you
-
 In this article you'll learn how to transfer the following data from LoyJoy to ProCampaign:
 
   - Newsletter subscribers
@@ -10,6 +8,10 @@ In this article you'll learn how to transfer the following data from LoyJoy to P
   - Advent calendar winners
   - Postal addresses
   - PIN emails
+
+## 1. What this solution will do for you
+
+In this article we explain how to transfer a custom data field from LoyJoy to ProCampaign. For this example we use the field "favorite color".
 
 ## 2. What you need for the data transfer
 
@@ -31,36 +33,44 @@ Scroll down to "General settings".
 - Enter your API key that you got from your ProCampaign admin
 
 <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_general_settings.png" alt="LoyJoy to ProCampaign" width="600"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="LoyJoy to ProCampaign" width="600"/>
 </p>
 
 Scroll down until you see a tab called "Add mapping". A mapping maps field names from LoyJoy to field names in ProCampaign.
 
-- Choose the LoyJoy bot(s) that you want to use the integration in
+- Choose the LoyJoy bot(s) that you want to use the integration in (here: "MyBot")
 - Click "Add mapping" to add a new mapping
 - Choose "Process variable" from the Source dropdown
-- Enter the variable name from LoyJoy that you want to transfer as Source
-- Enter the target name of the data field that you store in ProCampaign
+- Enter the variable name from LoyJoy that you want to transfer as Source (here: "favorite_color")
+- Enter the target name of the data field that you store in ProCampaign (here: "Color")
 
 <p align="center">  
-  <img src="pro_campaign_integration/pro_campaign_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" width="800"/>
 </p>
 
 ## 4. How to set custom data points (variables) in LoyJoy
 
-As you know, in LoyJoy you can create custom variables and store them in the customer database. You can pick any customer variable that is stored in LoyJoy and send them to ProCampaign. Variables can be set for example via the "Variable" process building block or in a "Questionnaire".
+In LoyJoy you can create custom data fiels, we call them variables, and store them in the LoyJoy customer database. You can pick any customer variable that is stored in LoyJoy and send it to ProCampaign. Variables can be set for example via the "Variable" process building block or in a "Questionnaire".
 
-Here is an example for a variable created in a questionnaire.
+We will create a variable "favorite color" in a questionnaire.
 
-<p align="center">
-  <img src="pro_campaign_integration/questionnaire_set_variable.png" alt="Setting a variable in a questionnaire" width="800"/>
-</p>
-
-Here is an example for a variable set with the "Variable" process brick.
+Let's build a small process that contains a `Questionnaire` and a `ProCampaign` process block.
 
 <p align="center">
-  <img src="pro_campaign_integration/variable_set_variable.png" alt="Setting a variable with the 'variable' process brick" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_process_bpmn.png" alt="Build a BPMN process in LoyJoy" title="Build a BPMN process in LoyJoy" width="800"/>
 </p>
+
+In the `questionnaire` we ask for the favorite color and offer three options (red, blue, green). We store the answers in a new variable called "favorite color".
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_questionnaire.png" alt="Create a questionnaire in LoyJoy" title="Create a questionnaire in LoyJoy" width="800"/>
+</p>
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_variable.png" alt="Create a variable in a questionnaire in LoyJoy" title="Create a variable in a questionnaire in LoyJoy" width="800"/>
+</p>
+
+
 
 ## 5. Transfer your data to ProCampaign
 
