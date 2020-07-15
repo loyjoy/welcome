@@ -27,6 +27,11 @@ Scroll down until you see the "ProCampaign Integration". In the fields you can c
 <p align="center">  
   <img src="pro_campaign_integration/pro_campaign_mapping.png" alt="LoyJoy to ProCampaign" width="800"/>
 </p>
+
+Make sure that you:
+- Choose the LoyJoy bot(s) that you want to use the integration in
+- Choose the variable (data field) from LoyJoy that you want to transfer
+- Enter the target name of the data field that you store in ProCampaign
   
 The following screenshot shows an example for newsletter settings.
 
