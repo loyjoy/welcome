@@ -1,17 +1,8 @@
 # How to transfer data from LoyJoy to ProCampaign
 
-In this article you'll learn how to transfer the following data from LoyJoy to ProCampaign:
-
-  - Newsletter subscribers
-  - Reminder email subscribers
-  - Giveaway (raffle) participations
-  - Advent calendar winners
-  - Postal addresses
-  - PIN emails
-
 ## 1. What this solution will do for you
 
-In this article we explain how to transfer a custom data field from LoyJoy to ProCampaign. For this example we use the field "favorite color".
+In this article we explain how to generally transfer a custom data field from LoyJoy to ProCampaign. For this example we use the field "favorite color".
 
 ## 2. What you need for the data transfer
 
@@ -22,7 +13,7 @@ You need an API key for ProCampaign that must be set up to **allow writing of th
 In LoyJoy, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
 <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" title="LoyJoy to ProCampaign" width="800"/>
 </p>
 
 This will add a new tab with the name "ProCampaign" below the cards.
@@ -33,7 +24,7 @@ Scroll down to "General settings".
 - Enter your API key that you got from your ProCampaign admin
 
 <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="LoyJoy to ProCampaign" width="600"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="API key for ProCampaign" title="API key for ProCampaign" width="600"/>
 </p>
 
 Scroll down until you see a tab called "Add mapping". A mapping maps field names from LoyJoy to field names in ProCampaign.
@@ -45,10 +36,10 @@ Scroll down until you see a tab called "Add mapping". A mapping maps field names
 - Enter the target name of the data field that you store in ProCampaign (here: "Color")
 
 <p align="center">  
-  <img src="pro_campaign_integration/pro_campaign_integration_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" title="Mapping settings LoyJoy to ProCampaign" width="800"/>
 </p>
 
-## 4. How to set custom data points (variables) in LoyJoy
+## 4. How to set custom data fields (variables) in LoyJoy
 
 In LoyJoy you can create custom data fiels, we call them variables, and store them in the LoyJoy customer database. You can pick any customer variable that is stored in LoyJoy and send it to ProCampaign. Variables can be set for example via the "Variable" process building block or in a "Questionnaire".
 
@@ -66,16 +57,18 @@ In the `questionnaire` we ask for the favorite color and offer three options (re
   <img src="pro_campaign_integration/pro_campaign_integration_questionnaire.png" alt="Create a questionnaire in LoyJoy" title="Create a questionnaire in LoyJoy" width="800"/>
 </p>
 
+In each answer (red, blue, green), we set the value of the variable. Here: red.
+
 <p align="center">
   <img src="pro_campaign_integration/pro_campaign_integration_variable.png" alt="Create a variable in a questionnaire in LoyJoy" title="Create a variable in a questionnaire in LoyJoy" width="800"/>
 </p>
 
-
-
 ## 5. Transfer your data to ProCampaign
 
-You can trigger to send custom data to a ProCampaign transaction with the "ProCampaign" building brick. Add the brick to your process and configure it.
+Now we configure our process block `ProCampaign`to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
 
- <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_process_brick_transaction.png" alt="ProCampaign process brick in LoyJoy chat editor" width="800"/>
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="800"/>
 </p>
+
+Now you can test the data transfer and you are ready to go!
