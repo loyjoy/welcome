@@ -22,8 +22,11 @@ We will create a rating `Questionnaire` to let our customers rate our chocolate 
 
 Drag a `Questionnaire` process block to your chatflow and choose the question type `rating`. Than type your question into the question field. Click on the settings button on the process brick and choose the suitable ProCampaign Variable. 
 
-### You need some key attribute in the chatflow to create a full review:
+### You need to integrate some variables in the chatflow to create a full review:
 
+  - A **sign up**  
+  Use the sign up process block to get the email adress of the customers. This is required to tranfer a valid rating to ProCampaign. 
+  
   - A product to rate or review
   This can be identified through a fixed sources such as placing it on a product page. Use a `Variable`at the beginning of your flow to define your object.   **procampaign_rating_product** - `Variable` / `Questionnaire`
   
