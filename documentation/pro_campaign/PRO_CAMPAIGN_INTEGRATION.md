@@ -24,10 +24,16 @@ Scroll down to "General settings".
 - Enter your API key that you got from your ProCampaign admin
 
 <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="API key for ProCampaign" title="API key for ProCampaign" width="600"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="API key for ProCampaign" title="API key for ProCampaign" width="800"/>
 </p>
 
-Scroll down until you see a tab called "Add mapping". A mapping maps field names from LoyJoy to field names in ProCampaign.
+You might also want to set a Source for the data, so that you can identify where the data originated in ProCampain. This is also a field in general settings, just a bit below the API key setting.
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_source.png" alt="Set a source for ProCampaign" title="Set a source for ProCampaign" width="800"/>
+</p>
+
+Now scroll down until you see a tab called "Add mapping". A mapping maps field names from LoyJoy to field names in ProCampaign.
 
 - Choose the LoyJoy bot(s) that you want to use the integration in (here: "MyBot")
 - Click "Add mapping" to add a new mapping
