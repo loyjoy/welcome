@@ -29,7 +29,7 @@ Scroll down to "General settings".
 - Enter your API key that you got from your ProCampaign admin
 
 <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_general_settings.png" alt="LoyJoy to ProCampaign" width="600"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_general_settings.png" alt="LoyJoy to ProCampaign" width="600"/>
 </p>
 
 Scroll down until you see the "ProCampaign Integration". In the fields you can configure the data transfer.
