@@ -2,7 +2,7 @@
 
 ## 1. What this solutions will do for you
 
-LoyJoy can acquire newsletter subscribers within every chat flow that contains the `newsletter opt-in` process brick. 
+LoyJoy can acquire newsletter subscribers within every chat flow that contains the `Newsletter opt-in` process brick. 
 
 It's easy to **automatically transfer new newsletter subscribers to your ProCampaign database**. LoyJoy will transfer the single opt-ins to ProCampaign, and ProCampaign will then send the double opt-in email to the new subscribers. In LoyJoy you will only see the single opt-ins, while ProCampaign also stores the double opt-ins. This is a one-way integration, meaning the subscribers and their consents will be managed in ProCampaign only.
 
@@ -16,7 +16,7 @@ To start sending newsletter subscribers from LoyJoy to ProCampaign you will need
 
 ## 3. Add the newsletter opt-in process block to your chat flow
 
-Create or copy an new experience and add the `newsletter opt-in` process block. 
+Create or copy an new experience and add the `Newsletter opt-in` process block. 
 
 <p align="center">
   <img src="pro_campaign_integration/procampaign_process.png" alt="newsletter opt-in in LoyJoy" title="LoyJoy to ProCampaign API key" width="800"/>
