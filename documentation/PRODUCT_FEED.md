@@ -1,6 +1,4 @@
 # How to set up a barcode scanner process
----------------------------------------------------
-
 
 ## 1. What this solution will do for you
 In this article we explain how to set up a process where users can scan a product's barcode and get information on it.
@@ -11,6 +9,8 @@ You will need two things to implement this article:
 - Data of your specific products in the feed (prefix, shop-directory, url)
 
 ## 3. Set up the process
+
+You can also copy a finished process from a toolbox. Then you only have to change the specific parameters in webservice process bricks (see below).
 
 ### Add a snapshot process brick
 
