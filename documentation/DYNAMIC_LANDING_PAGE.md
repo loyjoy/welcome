@@ -72,7 +72,7 @@ Let's say your website has the URL `https://www.example.org`. Just use two or mo
 
 and
 
-`https://www.example.org?loyjoy-myparam=value2
+`https://www.example.org?loyjoy-myparam=value2`
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
