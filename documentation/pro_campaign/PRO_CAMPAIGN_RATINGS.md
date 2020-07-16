@@ -10,7 +10,10 @@ Customers will be able to rate a product within the LoyJoy chat. In this article
 
 ## 2. What you need for this solution to work
 
-You need an API key for ProCampaign that must be set up to **allow the data transfer**. Your ProCampaign admin will be able to help you.
+ - You need to **define certain process variables in your chat flow**. You do this to collect the specific data inputs from our customers.  
+ - Add the **ProCampaign Process block** to your chatflow.  
+ - Your ProCampaign admin will provide you with an **API key for ProCampaign** that must be set up to allow the data transfer.  
+
 
 ## 3. Set Variables in the LoyJoy Process Flow
 
@@ -87,8 +90,8 @@ This will add a new tab with the name "ProCampaign" below the cards.
 
 Scroll down to "General settings".
 
-- Set a name for your integration (since you can have several integrations this will help you keeping track of)
-- Enter your API key that you got from your ProCampaign admin
+Set a name for your integration (since you can have several integrations this will help you keeping track of)
+Enter your API key that you got from your ProCampaign admin
 
 <p align="center">
   <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="API key for ProCampaign" title="API key for ProCampaign" width="800"/>
