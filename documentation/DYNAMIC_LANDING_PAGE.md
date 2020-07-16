@@ -1,6 +1,6 @@
 # How to conduct A/B testing in LoyJoy
 
-## 1. What this solution will do for your
+## 1. What this solution will do for you
 
 This article is right for you if you want run an A/B test with two (or more) different chats on the same website.
 
