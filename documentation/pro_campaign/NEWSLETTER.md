@@ -60,9 +60,6 @@ The following fields are optional:
 - Ident_long: Ident_long transaction parameter (Defaults to "Newsletter Subscription")
 - Create Account: post data to `Account/Register` instead of `Consumer` endpoint
 
-From the general settings:
-- `Privacy policy` & `Privacy policy URL`: Content from the URL can be written to an attribute with the name given in the
-  `Privacy policy` field
 
 Scroll down and activate the integration for your bot in the field "Choose on which bots the integration should be active". Click on "Add a mapping" to create a mapping for the email field. Then choose `process variable` and type in `customer_email` to refer to your data field in your chat flow. Now just type in the source name of the data field in ProCampaign `Email`.
 
