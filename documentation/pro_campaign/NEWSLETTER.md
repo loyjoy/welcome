@@ -2,41 +2,60 @@
 
 ## 1. What this solutions will do for you
 
-LoyJoy can acquire newsletter subscribers within every chat flow that contains the "newsletter opt-in" process brick. 
+LoyJoy can acquire newsletter subscribers within every chat flow that contains the `newsletter opt-in` process brick. 
 
 It's easy to automatically transfer new newsletter subscribers to your ProCampaign database. LoyJoy will transfer the single opt-ins to ProCampaign, and ProCampaign will then send the double opt-in email to the new subscribers. In LoyJoy you will only see the single opt-ins, while ProCampaign also stores the double opt-ins. This is a one-way integration, meaning the subscribers and their consents will be managed in ProCampaign only.
 
-## 2. What you need for the data connection
+## 2. What you need for this solution
 
-To start sending newsletter subscribers from LoyJoy to ProCampaign you will need three things:
+To start sending newsletter subscribers from LoyJoy to ProCampaign you will need three things - your ProCampaign admin will help you out with this:
 
-1. The name of your **newsletter transaction** in ProCampaign (your ProCampaign admin will know this)
-2. The name of your **newsletter list** in ProCampaign  (your ProCampaign admin will know this)
-3. An **API key that has the needed rights** to modify the attributes / send the transaction (your ProCampaign admin will know this)
+ - The name of your **newsletter transaction** in ProCampaign.
+ - The name of your **newsletter list** in ProCampaign.
+ - An **API key that has the needed rights** to modify the attributes / send the transaction.
 
-## 3. How to configure the connection
+## 3. Add the newsletter opt-in process block to your chat flow
 
-Three steps are necessary to configure the integration in LoyJoy:
+Create or copy an new experience and add the `newsletter opt-in` process block. 
 
-1. Create or copy an experience that contains a "newsletter opt-in" process brick. 
+<p align="center">
+  <img src="pro_campaign_integration/procampaign_process.png" alt="newsletter opt-in in LoyJoy" title="LoyJoy to ProCampaign API key" width="800"/>
+</p>
 
-<img src="newsletter/process.png" alt="newsletter opt-in in LoyJoy" width="800" align="center" />
+Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
 
-2. Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
+<p align="center">
+  <img src="pro_campaign_integration/procampaign_email_off.png" alt="Switch off double opt-in" width="800"/>
+</p>
 
-<img src="newsletter/email_off.png" alt="Switch off double opt-in" width="600" align="center" />
+## 4. Configure the data transfer
 
-3. Configure the ProCampaign integration in LoyJoy.
-   1. Go to settings in the top menu, look for the ProCampaign card and click on "Add now".
-   2. Scroll down to "Integrate ProCampaign".
-   1. Fill in your API key, the list name, and the transaction name into the according fields in LoyJoy. There is a section "Fields for newsletter single opt-in".
-   2. Activate this integration for the Bot you are using by choosing the bot from the list "Choose on which bots the integration should be active".
-   3. Click on "Add a mapping" to create a mapping for the email field as pointed out below (you could add more fields of course, but here we are focusing on the email address).
+You completed all the configurations within the chat. Now you have to set up the data transfer.
 
-<img src="newsletter/integration.png" alt="Newsletter settings" width="800" align="center" />
+On the LoyJoy platform, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration.png" alt="LoyJoy to ProCampaign" title="LoyJoy to ProCampaign" width="800"/>
+</p>
 
-## 4. Optional Fields in the Integration Settings
+This will add a new tab with the name "ProCampaign" below the cards.
+
+Scroll down to "General settings".
+
+Set a name for your integration (since you can have several integrations this will help you keep an overview).
+Enter **your API key** that you got from your ProCampaign admin.
+
+<p align="center">
+  <img src="pro_campaign_integration/procampaign_api_key.png" alt="LoyJoy to ProCampaign API key section" title="LoyJoy to ProCampaign API key" width="800"/>
+</p>  
+
+Scroll down to the section `Fields for newsletter single opt-in`. Now fill in the `Newsletter list name?` and the `Newsletter transaction name` into the according fields in LoyJoy. 
+
+<p align="center">
+  <img src="newsletter/procampaign_api_newsletter.png" alt="LoyJoy to ProCampaign API newsletter section" title="LoyJoy to ProCampaign API newsletter" width="800"/>
+</p>
+
+The following fields are optional:
 - Newsletter consent: If set, the text that the user confirmed to subscribe in the chat will be sent as an attribute to ProCampaign.
 - Ident_long: Ident_long transaction parameter (Defaults to "Newsletter Subscription")
 - Create Account: post data to `Account/Register` instead of `Consumer` endpoint
@@ -44,3 +63,11 @@ Three steps are necessary to configure the integration in LoyJoy:
 From the general settings:
 - `Privacy policy` & `Privacy policy URL`: Content from the URL can be written to an attribute with the name given in the
   `Privacy policy` field
+
+Scroll down and activate the integration for your bot in the field "Choose on which bots the integration should be active". Click on "Add a mapping" to create a mapping for the email field. Then choose `process variable` and type in `customer_email` to refer to your data field in your chat flow. Now just type in the source name of the data field in ProCampaign `Email`.
+
+<p align="center">
+  <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
+</p>
+
+Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and all Newsletter Opt-ins within the chat will automatically tranferred to ProCampaign.
