@@ -41,7 +41,7 @@ LoyJoy("boot", {
 Here, `loyjoy-process` is the URL parameter we chose to determine which process to `boot`. `getParameterByName` is
 simply a function that gets us the value of URL paramter.
 
-## Second option: switching Experiences in LoyJoy
+## 5. Second option: switching Experiences in LoyJoy
 
 When booting LoyJoy, we can hand over arbitrary parameters:
 
@@ -64,15 +64,15 @@ Inside LoyJoy, we can access this parameter and, for example, make an automatic 
 Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
 to a specific position in the process or to another process altogether.
 
-## Third option: switching experiences with URL parameters
+## 6. Third option: switching experiences with URL parameters
 
-Let's say your website has the URL https://www.example.org. Just use two or more parameters that you can access in LoyJoy like this:
+Let's say your website has the URL `https://www.example.org`. Just use two or more parameters that you can access in LoyJoy like this:
 
-https://www.example.org?loyjoy-myparam=value1
+`https://www.example.org?loyjoy-myparam=value1`
 
 and
 
-https://www.example.org?loyjoy-myparam=value2
+`https://www.example.org?loyjoy-myparam=value2
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
