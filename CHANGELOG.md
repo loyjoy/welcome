@@ -12,6 +12,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
+- ↩️ Restart button added to chat menu
 
 ### Fixed
 
