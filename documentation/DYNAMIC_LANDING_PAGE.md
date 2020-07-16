@@ -1,13 +1,21 @@
-# How to do an A/B Test in LoyJoy - Dynamic Landing Page
+# How to conduct A/B testing in LoyJoy
 
-This guide is right for you if you want run an A/B test with two different chats on the same website. You can also use this guide if you simply want to use the same landing page for two different chats.
+## 1. What this solution will do for your
 
-There are two ways to have dynamic experiences on one landing page:
-- Switching experiences in JavaScript
-- Switching experiences in LoyJoy
+This article is right for you if you want run an A/B test with two (or more) different chats on the same website.
 
+## 2. What you need for this solution to work
 
-## Switching Experiences in JavaScript
+This article offers three different options for A/B testing. The first two options require to modify JavaScript on your website. The third options works by just adding a parameter to the URL.
+
+## 3. There are three options for A/B testing
+
+There are three ways to have dynamic experiences on one landing page:
+- Switching experiences in the website's JavaScript
+- Switching experiences in LoyJoy based on parameters from the website's JavaScript
+- Switching experiences based on freely defined URL parameters
+
+## 4. First option: switching experiences in JavaScript
 
 You can `boot` LoyJoy with different processes, depending on conditions you choose. 
 
@@ -33,7 +41,7 @@ LoyJoy("boot", {
 Here, `loyjoy-process` is the URL parameter we chose to determine which process to `boot`. `getParameterByName` is
 simply a function that gets us the value of URL paramter.
 
-## Switching Experiences in LoyJoy
+## Second option: switching Experiences in LoyJoy
 
 When booting LoyJoy, we can hand over arbitrary parameters:
 
@@ -48,6 +56,23 @@ LoyJoy("boot", {
 ```
 
 The parameter `myparam` is now freely available in LoyJoy. Parameter names can be chosen freely.
+
+Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
+
+![condition](dynamic_landing_page/process-jump-condition.png)
+
+Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
+to a specific position in the process or to another process altogether.
+
+## Third option: switching experiences with URL parameters
+
+Let's say your website has the URL https://www.example.org. Just use two or more parameters that you can access in LoyJoy like this:
+
+https://www.example.org?loyjoy-myparam=value1
+
+and
+
+https://www.example.org?loyjoy-myparam=value2
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
