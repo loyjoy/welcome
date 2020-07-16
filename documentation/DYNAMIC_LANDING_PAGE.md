@@ -59,7 +59,9 @@ The parameter `myparam` is now freely available in LoyJoy. Parameter names can b
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
-![condition](dynamic_landing_page/process-jump-condition.png)
+<p align="center">
+  <img src="dynamic_landing_page/process-jump-condition.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="800"/>
+</p>
 
 Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
 to a specific position in the process or to another process altogether.
@@ -78,7 +80,9 @@ It is required that the param name starts with `loyjoy-` so that LoyJoy can iden
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
-![condition](dynamic_landing_page/process-jump-condition.png)
+<p align="center">
+  <img src="dynamic_landing_page/process-jump-condition.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="800"/>
+</p>
 
 Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
 to a specific position in the process or to another process altogether.
