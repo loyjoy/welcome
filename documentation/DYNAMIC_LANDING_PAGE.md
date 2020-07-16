@@ -74,7 +74,7 @@ and
 
 `https://www.example.org?loyjoy-myparam=value2`
 
-It is required that the param name starts with `loyjoy-` so that LoyJoy can identify it, after the `loyjoy- you can add what you like.
+It is required that the param name starts with `loyjoy-` so that LoyJoy can identify it, after the `loyjoy-` you can add what you like.
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
