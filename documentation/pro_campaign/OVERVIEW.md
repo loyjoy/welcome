@@ -15,7 +15,7 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | [General integration]         | How to transfer advent calendar winners.                       |
 | [General integration]         | How to transfer postal addresses.                              |
 | [General integration]         | How to send reminder emails from ProCampaign.                  |
-| [General integration]         | How to send PIN emails from ProCampaign.                       |
+| [PIN Email]                   | How to send PIN emails from ProCampaign.                       |
 | coming soon                   | How to transfer any transaction to ProCampaign.                |
 | coming soon                   | How to transfer other data than the ones mentioned above.      |
 
@@ -24,3 +24,4 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 [Ratings and reviews]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_RATINGS.md
 [General integration]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md
 [Giveaway participants]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
+[PIN Email]: https://github.com/loyjoy/welcome/documentation/pro_campaign/PRO_CAMPAIGN_PIN_EMAIL.md
