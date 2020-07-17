@@ -17,7 +17,7 @@ To start transfer the participants from LoyJoy to ProCampaign you will need thre
 
 ## 3. Add the Giveaway participation process block to your chat flow
 
-Create or copy an new experience and add the `Giveaway participation` process block. Also add the `sign up`process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation.
+Create or copy an new experience and add the `Giveaway participation` process block. Also add the `Sign up`process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation.
 
 <p align="center">
   <img src="giveaway/giveaway_process_block.png" alt="giveaway process block in LoyJoy" title="Giveaway Process Block in LoyJoy" width="600"/>
@@ -41,7 +41,7 @@ The section `Send winner email` can be used to notify the winner(s) of your give
   <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
-The section `Other texts` lets you define the intro messages to your customers in the chat to invite them to sign up for your newsletter. THen you can define a post-participation message send in the chat to confirm the participation (here: Done. You are now entering the competition. I keep my fingers crossed. :crossed_fingers: :trophy:) You can also 
+The section `Other texts` lets you define the intro messages to your customers in the chat to invite them to sign up for your newsletter. Then you can define a post-participation message send in the chat to confirm the participation (here: Done. You are now entering the competition. I keep my fingers crossed. :crossed_fingers: :trophy:) You can also 
 define a message in case your customer has already participated and you only allow one participation per person. 
 
 <p align="center">
@@ -78,7 +78,7 @@ Scroll down to the section `Fields for giveaway participation`. Now fill in the 
 </p>
 
 
-Scroll down and activate the integration for your bot in the field "Choose on which bots the integration should be active". Click on "Add a mapping" to create a mapping for the email field. Then choose `process variable` and type in `customer_email` to refer to your data field in your chat flow. Now just type in the source name of the data field in ProCampaign `Email`.
+Scroll down and activate the integration for your bot in the field "Choose on which bots the integration should be active". Click on "Add a mapping" to create a mapping for the email field. Then choose `process variable` and type in **customer_email** to refer to your data field in your chat flow. Now just type in the source name of the data field in ProCampaign **Email**.
 
 <p align="center">
   <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
