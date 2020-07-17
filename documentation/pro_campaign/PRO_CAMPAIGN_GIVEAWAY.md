@@ -15,20 +15,31 @@ To start transfer the participants from LoyJoy to ProCampaign you will need thre
  - The **Participation list name** in ProCampaign.
  - The **API key that has the needed rights** to send the transaction.
 
-## 3. Add the `Giveaway participation` process block to your chat flow
+## 3. Add the Giveaway participation process block to your chat flow
 
-Create or copy an new experience and add the `Giveaway participation` process block. 
+Create or copy an new experience and add the `Giveaway participation` process block. Also add the `sign up`process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation.
 
 <p align="center">
   <img src="giveaway/giveaway_process_block.png" alt="giveaway process block in LoyJoy" title="Giveaway Process Block in LoyJoy" width="600"/>
 </p>
 
-Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
+After adding the process block to your chat flow, close the process editor. The process block `Giveaway participation` gives you the opportunity to maintain multiple give aways organized by tabs. Use the `timer button` in the right corner to set different give aways for different days. 
 
 <p align="center">
-  <img src="pro_campaign_integration/procampaign_email_off.png" alt="Switch off double opt-in" width="800"/>
+  <img src="giveaway/giveaway_1.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
+The section `Confirm participation by email`lets you define a confirmation email send to your customer after participating for your give away. Here you can set a subject line and a message to your customers. Use the HTML template field to paste your individual design and brand the confirmation email due to your preferences.
+
+<p align="center">
+  <img src="giveaway/giveaway_2.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
+</p>
+
+
+
+<p align="center">
+  <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
+</p>
 ## 4. Configure the data transfer
 
 You completed all the configurations within the chat. Now you have to set up the data transfer.
