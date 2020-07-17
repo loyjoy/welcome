@@ -24,4 +24,4 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 [Ratings and reviews]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_RATINGS.md
 [General integration]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md
 [Giveaway participants]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
-[PIN Email]: https://github.com/loyjoy/welcome/documentation/pro_campaign/PRO_CAMPAIGN_PIN_EMAIL.md
+[PIN Email]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_PIN_EMAIL.md
