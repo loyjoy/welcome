@@ -27,7 +27,7 @@ Scroll down to `Other texts` and if you wish edit the following fields. You can 
   <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="600"/>
 </p>
 
-Awesome! :tada: You just created your first giveaway in the LoyJoy chat. One more step to go!
+Awesome! :tada: You are one step closer to sending PIN emails from ProCampaign. One more step to go!
 
 ## 4. Configure the data transfer
 
