@@ -13,7 +13,7 @@ To start transfer the participants from LoyJoy to ProCampaign you will need two 
 
 ## 3. Add the Sign In process block to your chat flow
 
-Create or copy an new experience and add the `Sign In` process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation.
+Create or copy an new experience and add the `Sign In` process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers as a registration for the individual customer. In case of a Loyalty chatbot, the `Loyalty Points` process block requires a `Sign in` to identify the customer and assign the points. When the individual customer returns to the chat from a different device, he can access his point account by typing in his email address and the PIN email, which will automatically send to him. 
 
 <p align="center">
   <img src="PIN/SignUp.png" alt="sign in process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
@@ -22,7 +22,7 @@ Create or copy an new experience and add the `Sign In` process block if your cha
 After adding the process block to your chat flow, close the process editor. The process block `Giveaway participation` gives you the opportunity to maintain multiple give aways organized by tabs. Use the `timer button` in the right corner to set different give aways for different days. You can decide how many times one customer can participate to your giveaway and set a date to automatically draw a winner from your participants. Also set the number of winners that should be picked.
 
 <p align="center">
-  <img src="giveaway/giveaway_1.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
+  <img src="PIN/api_PIN_email.png" alt="API PIN Email" title="API PIN Email in LoyJoy" width="600"/>
 </p>
 
 The section `Confirm participation by email` lets you define a confirmation email send to your customer after participating for your give away. If you wish to send a confirmation email, activate the button. Here you can set a subject line and a message to your customers. Use the HTML template field to paste your individual design and brand the confirmation email due to your preferences.
