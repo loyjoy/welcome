@@ -23,22 +23,28 @@ Create or copy an new experience and add the `Giveaway participation` process bl
   <img src="giveaway/giveaway_process_block.png" alt="giveaway process block in LoyJoy" title="Giveaway Process Block in LoyJoy" width="600"/>
 </p>
 
-After adding the process block to your chat flow, close the process editor. The process block `Giveaway participation` gives you the opportunity to maintain multiple give aways organized by tabs. Use the `timer button` in the right corner to set different give aways for different days. 
+After adding the process block to your chat flow, close the process editor. The process block `Giveaway participation` gives you the opportunity to maintain multiple give aways organized by tabs. Use the `timer button` in the right corner to set different give aways for different days. You can decide how many times one customer can participate to your giveaway and set a date to automatically draw a winner from your participants. Also set the number of winners that should be picked.
 
 <p align="center">
   <img src="giveaway/giveaway_1.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
-The section `Confirm participation by email`lets you define a confirmation email send to your customer after participating for your give away. Here you can set a subject line and a message to your customers. Use the HTML template field to paste your individual design and brand the confirmation email due to your preferences.
+The section `Confirm participation by email` lets you define a confirmation email send to your customer after participating for your give away. If you wish to send a confirmation email, activate the button. Here you can set a subject line and a message to your customers. Use the HTML template field to paste your individual design and brand the confirmation email due to your preferences.
 
 <p align="center">
   <img src="giveaway/giveaway_2.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
-
+The section `Send winner email` can be used to notify the winner(s) of your giveaway. Here you can configure the winner email to inform the lucky participants about their price.
 
 <p align="center">
   <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
+</p>
+
+
+
+<p align="center">
+  <img src="giveaway/giveaway_4.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 ## 4. Configure the data transfer
 
