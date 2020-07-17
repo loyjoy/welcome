@@ -21,18 +21,10 @@ Create or copy an new experience and add the `Sign In` process block if your cha
 
 Make sure to activate the `Do not send PIN email` button to deactive LoyJoys build-in PIN email service.
 
-Scroll down to `Other texts` and if you wish edit the following fields:
+Scroll down to `Other texts` and if you wish edit the following fields. You can define the messages which will be displayed within the chat in certain cases. The text in the field `sign_in_enter_pin` will appear, when a customer tries to sign in with the same email address again. He will than receive the PIN by ProCampaign triggered by LoyJoy. You can keep the default texts here, if you want.
 
 <p align="center">
   <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="600"/>
-</p>
-
-
-The section `Other texts` lets you define the intro messages to your customers in the chat to invite them to sign up for your newsletter. Then you can define a post-participation message send in the chat to confirm the participation (here: Done. You are now entering the competition. I keep my fingers crossed. :crossed_fingers: :trophy:) You can also 
-define a message in case your customer has already participated and you only allow one participation per person. 
-
-<p align="center">
-  <img src="giveaway/giveaway_4.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
 Awesome! :tada: You just created your first giveaway in the LoyJoy chat. One more step to go!
