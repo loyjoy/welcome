@@ -11,7 +11,7 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | [Newsletter subscriptions]    | Want to transfer newsletter subscribers? Read this.            |
 | coming soon                   | How to transfer customers to a list in ProCampaign.            |
 | [Ratings and reviews]         | How to transfer ratings and reviews.                           |
-| [General integration]         | How to transfer giveaway (raffle) participants.                |
+| [Giveaway participants]       | How to transfer giveaway (raffle) participants.                |
 | [General integration]         | How to transfer advent calendar winners.                       |
 | [General integration]         | How to transfer postal addresses.                              |
 | [General integration]         | How to send reminder emails from ProCampaign.                  |
@@ -23,3 +23,4 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 [Newsletter subscriptions]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/NEWSLETTER.md
 [Ratings and reviews]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_RATINGS.md
 [General integration]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md
+[Giveaway participants]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
