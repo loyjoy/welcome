@@ -53,7 +53,7 @@ Enter **your API key** that you got from your ProCampaign admin.
 Scroll down to the section `Fields for giveaway participation`. Now fill in the **Newsletter list name** and the **Newsletter transaction name** into the according fields in LoyJoy. The field Participation privacy is not required and meant for special cases (to transfer the privacy attribute).
 
 <p align="center">
-  <img src="PIN/api_PIN_email.png" alt="API PIN Email" title="API PIN Email in LoyJoy" width="600"/>
+  <img src="PIN/api_PIN_email.png" alt="API PIN Email" title="API PIN Email in LoyJoy" width="800"/>
 </p>
 
 
@@ -63,4 +63,4 @@ Scroll down and activate the integration for your bot in the field "Choose on wh
   <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
 </p>
 
-Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and all giveaway participants within the chat will automatically tranferred to ProCampaign.:tada:
+Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and fronm now on all PIN emails will be automatically send by ProCampaign. Good job! :tada:
