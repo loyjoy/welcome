@@ -41,11 +41,15 @@ The section `Send winner email` can be used to notify the winner(s) of your give
   <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
-
+The section `Other texts` lets you define the intro messages to your customers in the chat to invite them to sign up for your newsletter. THen you can define a post-participation message send in the chat to confirm the participation (here: Done. You are now entering the competition. I keep my fingers crossed. :crossed_fingers: :trophy:) You can also 
+define a message in case your customer has already participated and you only allow one participation per person. 
 
 <p align="center">
   <img src="giveaway/giveaway_4.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
+
+Awesome! :tada: You just created your first giveaway in the LoyJoy chat. One more step to go!
+
 ## 4. Configure the data transfer
 
 You completed all the configurations within the chat. Now you have to set up the data transfer.
@@ -67,15 +71,11 @@ Enter **your API key** that you got from your ProCampaign admin.
   <img src="pro_campaign_integration/procampaign_api_key.png" alt="LoyJoy to ProCampaign API key section" title="LoyJoy to ProCampaign API key" width="800"/>
 </p>  
 
-Scroll down to the section `Fields for newsletter single opt-in`. Now fill in the `Newsletter list name` and the `Newsletter transaction name` into the according fields in LoyJoy. 
+Scroll down to the section `Fields for giveaway participation`. Now fill in the `Newsletter list name` and the `Newsletter transaction name` into the according fields in LoyJoy. The field `Participation policy`is not required and meant for special cases (to transfer the privacy attribute).
 
 <p align="center">
-  <img src="newsletter/procampaign_api_newsletter.png" alt="LoyJoy to ProCampaign API newsletter section" title="LoyJoy to ProCampaign API newsletter" width="800"/>
+  <img src="giveaway/api_giveaway.png" alt="LoyJoy to ProCampaign API giveaway section" title="LoyJoy to ProCampaign API giveaway" width="600"/>
 </p>
-
-The following fields are optional:
-- `Newsletter consent`: If set, the text that the user confirmed to subscribe in the chat will be sent as an attribute to ProCampaign.
-- `Newsletter Ident_long`: Ident_long transaction parameter (Defaults to "Newsletter Subscription")
 
 
 Scroll down and activate the integration for your bot in the field "Choose on which bots the integration should be active". Click on "Add a mapping" to create a mapping for the email field. Then choose `process variable` and type in `customer_email` to refer to your data field in your chat flow. Now just type in the source name of the data field in ProCampaign `Email`.
@@ -84,4 +84,4 @@ Scroll down and activate the integration for your bot in the field "Choose on wh
   <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
 </p>
 
-Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and all Newsletter Opt-ins within the chat will automatically tranferred to ProCampaign.:tada:
+Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and all giveaway participants within the chat will automatically tranferred to ProCampaign.:tada:
