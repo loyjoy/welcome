@@ -19,23 +19,14 @@ Create or copy an new experience and add the `Sign In` process block if your cha
   <img src="PIN/SignIn.png" alt="sign in process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
-After adding the process block to your chat flow, close the process editor. The process block `Giveaway participation` gives you the opportunity to maintain multiple give aways organized by tabs. Use the `timer button` in the right corner to set different give aways for different days. You can decide how many times one customer can participate to your giveaway and set a date to automatically draw a winner from your participants. Also set the number of winners that should be picked.
+Make sure to activate the `Do not send PIN email` button to deactive LoyJoys build-in PIN email service.
+
+Scroll down to `Other texts` and if you wish edit the following fields:
 
 <p align="center">
-  <img src="PIN/api_PIN_email.png" alt="API PIN Email" title="API PIN Email in LoyJoy" width="600"/>
+  <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="600"/>
 </p>
 
-The section `Confirm participation by email` lets you define a confirmation email send to your customer after participating for your give away. If you wish to send a confirmation email, activate the button. Here you can set a subject line and a message to your customers. Use the HTML template field to paste your individual design and brand the confirmation email due to your preferences.
-
-<p align="center">
-  <img src="giveaway/giveaway_2.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
-</p>
-
-The section `Send winner email` can be used to notify the winner(s) of your giveaway. Here you can configure the winner email to inform the lucky participants about their price.
-
-<p align="center">
-  <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
-</p>
 
 The section `Other texts` lets you define the intro messages to your customers in the chat to invite them to sign up for your newsletter. Then you can define a post-participation message send in the chat to confirm the participation (here: Done. You are now entering the competition. I keep my fingers crossed. :crossed_fingers: :trophy:) You can also 
 define a message in case your customer has already participated and you only allow one participation per person. 
@@ -70,7 +61,7 @@ Enter **your API key** that you got from your ProCampaign admin.
 Scroll down to the section `Fields for giveaway participation`. Now fill in the **Newsletter list name** and the **Newsletter transaction name** into the according fields in LoyJoy. The field Participation privacy is not required and meant for special cases (to transfer the privacy attribute).
 
 <p align="center">
-  <img src="giveaway/api_giveaway.png" alt="LoyJoy to ProCampaign API giveaway section" title="LoyJoy to ProCampaign API giveaway" width="800"/>
+  <img src="PIN/api_PIN_email.png" alt="API PIN Email" title="API PIN Email in LoyJoy" width="600"/>
 </p>
 
 
