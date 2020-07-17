@@ -81,7 +81,7 @@ It is required that the param name starts with `loyjoy-` so that LoyJoy can iden
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
 <p align="center">
-  <img src="dynamic_landing_page/process-jump-condition.png" alt="LoyJoy A/B testing" title="LoyJoy A/B testing" width="800"/>
+  <img src="dynamic_landing_page/url-params.png" alt="LoyJoy A/B testing with URL params" title="LoyJoy A/B testing with URL parameters" width="800"/>
 </p>
 
 Here, we trigger an automatic jump, if the given parameter is has the value `true`. This jump can lead
