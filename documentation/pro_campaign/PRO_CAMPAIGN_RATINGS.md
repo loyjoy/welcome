@@ -66,7 +66,7 @@ This is how the 5-star rating looks like for the user.
 
 Make sure you included all `ProCampaign` process variables mentioned above in your chat flow.
 
-## 4. Set up ProCampaign process brick
+## 4. Set up the ProCampaign process block
 
 After you defined your variables of the rating data which you would like to transfer to ProCampaign, you simply add a `ProCampaign` process block to your flow.
 
