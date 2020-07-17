@@ -1,26 +1,22 @@
-# How to transfer giveaway participants from LoyJoy to ProCampaign
+# How to send PIN emails from ProCampaign
 
 ## 1. What this solutions will do for you
 
-LoyJoy lets you create a giveaway or raffle for your customers within the chat experience. Your customers will be asked to enter their email address in order to participate. 
-In addition you can draw the winners on the platform and export them.
-
-You can **automatically transfer your new giveaway participants to your ProCampaign database**. LoyJoy will transfer your participants' email addresses to ProCampaign.
+Some of your chatbots will aim to let your customers return to the chatbot after a certain time. Especially loyalty experiences or an Advent Calender are use cases in which your customers will ideally come back to the chatbot. LoyJoy will remember the customer and can identify him without asking for an email address again. Sometimes a customer will return to the chatbot from a differnt device or delete his browser history. In that case, LoyJoy will send a PIN email to the customer to verify the identity. This article describes **how you can send PIN emails to your customers through ProCampaign** with your individual sender address and branding. LoyJoy will automatically transfer your PIN email data to ProCampaign.
 
 ## 2. What you need for this solution
 
-To start transfer the participants from LoyJoy to ProCampaign you will need three things - your ProCampaign admin will help you out with this:
+To start transfer the participants from LoyJoy to ProCampaign you will need two things - your ProCampaign admin will help you out with this:
 
- - The **Participation transaction name** in ProCampaign.
- - The **Participation list name** in ProCampaign.
+ - The **PIN email transaction name** in ProCampaign.
  - The **API key that has the needed rights** to send the transaction.
 
-## 3. Add the Giveaway participation process block to your chat flow
+## 3. Add the Sign In process block to your chat flow
 
-Create or copy an new experience and add the `Giveaway participation` process block. Also add the `Sign up`process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation.
+Create or copy an new experience and add the `Sign In` process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation.
 
 <p align="center">
-  <img src="giveaway/giveaway_process_block.png" alt="giveaway process block in LoyJoy" title="Giveaway Process Block in LoyJoy" width="600"/>
+  <img src="PIN/SignUp.png" alt="sign in process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
 After adding the process block to your chat flow, close the process editor. The process block `Giveaway participation` gives you the opportunity to maintain multiple give aways organized by tabs. Use the `timer button` in the right corner to set different give aways for different days. You can decide how many times one customer can participate to your giveaway and set a date to automatically draw a winner from your participants. Also set the number of winners that should be picked.
