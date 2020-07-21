@@ -1,8 +1,8 @@
-# How to transfer Advent Calender Winners from LoyJoy to ProCampaign
+# How to transfer advent calendar winners from LoyJoy to ProCampaign
 
 ## 1. What this solutions will do for you
 
-LoyJoy lets you create advent calender giveaways for your customers in the chat experience. Your customers will be asked to enter their email address in order to participate. In addition you can draw the winners on the platform and export them to ProCampaign to then, send winner emails through ProCampaign with your particular branding.
+LoyJoy lets you create advent calendar giveaways for your customers in the chat experience. Your customers will be asked to enter their email address in order to participate. In addition you can draw the winners on the platform and export them to ProCampaign to then, send winner emails through ProCampaign with your particular branding.
 
 You can **automatically transfer your new advent calendar participants to your ProCampaign database**. LoyJoy will forward the email addresses of your participants to ProCampaign. In addition, you can notify the winners from ProCampaign as they will be transfered from LoyJoy.
 
