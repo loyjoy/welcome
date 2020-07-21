@@ -22,22 +22,19 @@ Create or copy a new experience and add the **`Postal Address`** process block t
 Close the process editor and go to the `Postal Address` process brick. Here you can edit the texts displayed in the chat. 
 
 <p align="center">
-  <img src="giveaway/postal1.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
+  <img src="giveaway/postal1.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="800"/>
 </p>
 
 In the `Reminder double opt-in email` section, you can configure the email which will be send to your customers as a reminder email for your chat experience. Because we want to send our reminder emails from ProCampaign, we will activate the button `Do not send double opt-in email` in order to deactivate the LoyJoy build-in email service.
 
 <p align="center">
-  <img src="PIN/reminder_double.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
-</p>
-<p align="center">
-  <img src="PIN/reminder_double_off.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
+  <img src="giveaway/postal2.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
 Scroll down to `Other texts` and edit the field `If the customer is not yet logged in` to configure the message which will ask your customer to enter his email to be reminded via email.
 
 <p align="center">
-  <img src="PIN/reminder_othertexts.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
+  <img src="giveaway/postal3.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
 Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
