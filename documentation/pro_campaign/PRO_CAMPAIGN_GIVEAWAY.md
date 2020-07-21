@@ -5,11 +5,11 @@
 LoyJoy lets you create a giveaway or raffle for your customers within the chat experience. Your customers will be asked to enter their email address in order to participate. 
 In addition you can draw the winners on the platform and export them.
 
-You can **automatically transfer your new giveaway participants to your ProCampaign database**. LoyJoy will transfer your participants' email addresses to ProCampaign.
+You can **automatically transfer your new giveaway participants to your ProCampaign database**. LoyJoy will forward the email addresses of your participants to ProCampaign.
 
 ## 2. What you need for this solution
 
-To start transfer the participants from LoyJoy to ProCampaign you will need three things - your ProCampaign admin will help you out with this:
+To start transferring participants from LoyJoy to ProCampaign you will need three things - your ProCampaign administrator will help you with these:
 
  - The **Participation transaction name** in ProCampaign.
  - The **Participation list name** in ProCampaign.
