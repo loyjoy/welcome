@@ -78,4 +78,4 @@ Scroll down and activate the integration for your bot in the field "Choose on wh
   <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
 </p>
 
-Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and from now on all reminder emails will be automatically send by ProCampaign. Good job! :tada:
+Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and from now on all collected postal addresses within the LoyJoy chat will be automatically send to ProCampaign. Good job! :tada:
