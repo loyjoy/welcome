@@ -34,7 +34,7 @@ The section `Confirm participation by email` lets you define a confirmation emai
   <img src="giveaway/giveaway_2.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
 </p>
 
-The section `Send winner email` can be used to notify the winner(s) of your giveaway. Here you can configure the winner email to inform the lucky participants about their price.
+The section `Send winner email` can be used to notify the winner(s) of your giveaway. Here you can configure the winner email to inform the lucky participants about their price. Make sure to activate the **`Do not send winner email`** button as you want to send these emails from ProCampaign.
 
 <p align="center">
   <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
