@@ -2,7 +2,7 @@
 
 ## 1. What this solutions will do for you
 
-Some of your chatbots will aim to let your customers return to the chatbot after a certain time. Especially loyalty experiences or an Advent Calender are use cases in which your customers will ideally come back to the chatbot. LoyJoy will remember the customer and can identify him without asking for an email address again. Sometimes a customer will return to the chatbot from a differnt device or delete his browser history. In that case, LoyJoy will send a PIN email to the customer to verify the identity. This article describes **how you can send PIN emails to your customers through ProCampaign** with your individual sender address and branding. LoyJoy will automatically transfer your PIN email data to ProCampaign.
+Some of your chat bots aim to make your customers return to the chat bot after a certain time. Especially loyalty experiences or an advent calendars are use cases where your customers ideally return to the chatbot. LoyJoy will remember the customer and can identify them without asking for an email address again. Occasionally a customer will return to the chatbot from another device or delete their browsing history. In this case LoyJoy will send a PIN email to the customer to verify the customer's identity. This article describes **how to send PIN emails to your customers from ProCampaign** with your unique sender address and branding. LoyJoy will automatically transfer your PIN email details to ProCampaign.
 
 ## 2. What you need for this solution
 
