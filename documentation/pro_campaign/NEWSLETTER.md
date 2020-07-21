@@ -28,13 +28,13 @@ Create or copy an new experience and add the following three process blocks:
 Close the process editor and open the `Newsletter opt-in` process block.
 
 <p align="center">
-  <img src="newsletter/process.png" alt="newsletter opt-in in LoyJoy" title="LoyJoy Newsletter Process Block" width="600"/>
+  <img src="newsletter/process.png" alt="newsletter opt-in in LoyJoy" title="LoyJoy Newsletter Process Block" width="800"/>
 </p>
 
 Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
 
 <p align="center">
-  <img src="pro_campaign_integration/procampaign_email_off.png" alt="Switch off double opt-in" width="600"/>
+  <img src="pro_campaign_integration/procampaign_email_off.png" alt="Switch off double opt-in" width="800"/>
 </p>
 
 Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
