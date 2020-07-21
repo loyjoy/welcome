@@ -43,7 +43,7 @@ Now we configure our process block `ProCampaign` to transfer the data from LoyJo
   <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="800"/>
 </p>
 
-Now you can test the data transfer and you are ready to go!
+Now you can test the data transfer and you are ready to go! :tada:
 
 ## 4. Configure the data transfer
 
