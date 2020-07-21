@@ -16,7 +16,7 @@ To start transferring participants from LoyJoy to ProCampaign you will need thre
 
 ## 3. Add the Giveaway participation process block to your chat flow
 
-Create or copy an new experience and add the `Giveaway participation` process block. Also add the `Sign up` process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation. Please add the `ProCampaign` process block to your process flow too.
+Create or copy an new experience and add the **`Giveaway participation`** process block. Also add the **`Sign up`** process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers and is required for a valid giveaway participation. Please add the **`ProCampaign`** process block to your process flow too.
 
 <p align="center">
   <img src="giveaway/giveaway_processblock.png" alt="giveaway process block in LoyJoy" title="Giveaway Process Block in LoyJoy" width="600"/>
@@ -38,6 +38,10 @@ The section `Send winner email` can be used to notify the winner(s) of your give
 
 <p align="center">
   <img src="giveaway/giveaway_3.png" alt="Give away process brick part 1" title="Give away process brick in LoyJoy" width="600"/>
+</p>
+
+<p align="center">
+  <img src="giveaway/winner_notification.png" alt="giveaway process block in LoyJoy" title="Giveaway Process Block in LoyJoy" width="600"/>
 </p>
 
 The section `Other texts` lets you define the intro messages to your customers in the chat to invite them to sign up for your newsletter. Then you can define a post-participation message send in the chat to confirm the participation (here: Done. You are now entering the competition. I keep my fingers crossed. :crossed_fingers: :trophy:) You can also 
