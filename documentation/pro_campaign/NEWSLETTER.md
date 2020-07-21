@@ -16,10 +16,10 @@ To start sending newsletter subscribers from LoyJoy to ProCampaign you will need
 
 ## 3. Add the newsletter opt-in process block to your chat flow
 
-Create or copy an new experience and add the `Newsletter opt-in` process block. 
+Create or copy an new experience and add the `Newsletter opt-in` process block. Please add the `sign in` process block as well as the `ProCampaign` process block.
 
 <p align="center">
-  <img src="pro_campaign_integration/procampaign_process.png" alt="newsletter opt-in in LoyJoy" title="LoyJoy to ProCampaign API key" width="800"/>
+  <img src="newsletter/add_newsletter-block.png.png" alt="newsletter opt-in in LoyJoy" title="LoyJoy Newsletter Process Block" width="800"/>
 </p>
 
 Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCampaign).
@@ -27,6 +27,14 @@ Turn off the double-opt-in email in LoyJoy (as this email will be sent by ProCam
 <p align="center">
   <img src="pro_campaign_integration/procampaign_email_off.png" alt="Switch off double opt-in" width="800"/>
 </p>
+
+Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="800"/>
+</p>
+
+Now you can test the data transfer and you are ready to go!
 
 ## 4. Configure the data transfer
 
