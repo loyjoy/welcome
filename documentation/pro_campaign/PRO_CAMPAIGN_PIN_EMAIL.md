@@ -27,6 +27,12 @@ Scroll down to `Other texts` and if you wish edit the following fields. You can 
   <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="600"/>
 </p>
 
+Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="800"/>
+</p>
+
 Awesome! :tada: You are one step closer to sending PIN emails from ProCampaign. One more step to go!
 
 ## 4. Configure the data transfer
