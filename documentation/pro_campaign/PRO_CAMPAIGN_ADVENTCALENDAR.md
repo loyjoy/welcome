@@ -93,4 +93,4 @@ Scroll down and activate the integration for your bot in the field "Choose on wh
   <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
 </p>
 
-Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and all giveaway participants within the chat will automatically tranferred to ProCampaign.:christmas_tree:
+Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and all advent calendar participants and all winners within the chat will automatically tranferred to ProCampaign.:christmas_tree:
