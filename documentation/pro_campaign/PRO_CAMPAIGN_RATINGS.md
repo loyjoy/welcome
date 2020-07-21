@@ -58,12 +58,6 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
     <img src="pro_campaign_integration/procampaign_integration_5star_rating.png" alt="Ratings and review  5stars chatbot in LoyJoy" title="LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer" width="600"/>
   </p>
 
-This is how the 5-star rating looks like for the user.
-
-<p align="center">  
-  <img src="pro_campaign_integration/procampaign_rating_closeup.png" alt="Ratings and review chatbot in LoyJoy" title="LoyJoy ProCampaign Ratings Reviews Data Transfer" width="300"/>
-</p>
-
 Make sure you included all `ProCampaign` process variables mentioned above in your chat flow.
 
 ## 4. Set up the ProCampaign process block
