@@ -34,7 +34,7 @@ In the `Reminder double opt-in email` section, you can configure the email which
 Scroll down to `Other texts` and edit the field `If the customer is not yet logged in` to configure the message which will ask your customer to enter his email to be reminded via email.
 
 <p align="center">
-  <img src="giveaway/postal_UX.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
+  <img src="giveaway/postalUX.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
 Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
