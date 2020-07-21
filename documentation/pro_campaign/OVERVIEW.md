@@ -9,7 +9,7 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | Documentation                 |                                                                |
 | ----------------------------- | -------------------------------------------------------------- |
 | [General integration]         | How to transfer data from LoyJoy to ProCampaign.               |
-| [Newsletter subscriptions]    | Want to transfer newsletter subscribers? Read this.            |
+| [Newsletter subscriptions]    | How to transfer newsletter subscribers.                        |
 | [Ratings and reviews]         | How to transfer ratings and reviews.                           |
 | [Giveaway participants]       | How to transfer giveaway (raffle) participants.                |
 | [Advent Calendar winners]     | How to transfer advent calendar winners.                       |
