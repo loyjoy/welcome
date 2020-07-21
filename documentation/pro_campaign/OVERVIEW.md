@@ -13,7 +13,7 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | [Ratings and reviews]         | How to transfer ratings and reviews.                           |
 | [Giveaway participants]       | How to transfer giveaway (raffle) participants.                |
 | [General integration]         | How to transfer advent calendar winners.                       |
-| [General integration]         | How to transfer postal addresses.                              |
+| [Postal Address]              | How to transfer postal addresses.                              |
 | [Reminder Email]              | How to send reminder emails from ProCampaign.                  |
 | [PIN Email]                   | How to send PIN emails from ProCampaign.                       |
 | coming soon                   | How to transfer any transaction to ProCampaign.                |
@@ -26,4 +26,4 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 [Giveaway participants]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
 [PIN Email]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_PIN_EMAIL.md
 [Reminder Email]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_REMINDER.md
-
+[Postal Address]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_POSTAL_ADDRESS.md
