@@ -80,7 +80,7 @@ Enter **your API key** that you got from your ProCampaign admin.
   <img src="pro_campaign_integration/procampaign_api_key.png" alt="LoyJoy to ProCampaign API key section" title="LoyJoy to ProCampaign API key" width="800"/>
 </p>  
 
-Scroll down to the section `Fields for giveaway participation`. Now fill in the **Newsletter list name** and the **Newsletter transaction name** into the according fields in LoyJoy. The field Participation privacy is not required and meant for special cases (to transfer the privacy attribute).
+Scroll down to the section `Fields for giveaway participation`. Now fill in the **Participation transaction name** and the **Participation list name** into the according fields in LoyJoy. The field Participation privacy is not required and meant for special cases (to transfer the privacy attribute).
 
 <p align="center">
   <img src="giveaway/api_giveaway.png" alt="LoyJoy to ProCampaign API giveaway section" title="LoyJoy to ProCampaign API giveaway" width="800"/>
