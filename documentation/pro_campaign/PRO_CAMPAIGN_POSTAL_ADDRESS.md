@@ -13,7 +13,7 @@ To start transfer the participants from LoyJoy to ProCampaign you will need two 
 
 ## 3. Add particular process block to your chat flow
 
-Create or copy a new experience and add the **`Postal Address`** process block to your chat flow. Also add the **`Sign In`** process block if your chat flow does not already have it. The login process block collects your customers' email addresses as a registration for each customer. At last add the process block **`ProCampaign**. This bundles your data and sends it to ProCampaign.
+Create or copy a new experience and add the **`Postal Address`** process block to your chat flow. Also add the **`Sign In`** process block if your chat flow does not already have it. The login process block collects your customers' email addresses as a registration for each customer. At last add the process block **`ProCampaign`**. This bundles your data and sends it to ProCampaign.
 
 <p align="center">
   <img src="giveaway/postal_overview.png" alt="postal address process block in LoyJoy" title="Postal Address Process Block in LoyJoy" width="600"/>
