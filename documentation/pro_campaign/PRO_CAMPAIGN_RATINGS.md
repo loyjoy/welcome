@@ -39,7 +39,7 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   **procampaign_rating_url** - `Variable` / `Questionnaire`
   
   <p align="center">  
-    <img src="pro_campaign_integration/pro_campaign_url.png" alt="Ratings and review url chatbot in LoyJoy" title="LoyJoy ProCampaign url Ratings Reviews Data Transfer" width="600" />
+    <img src="pro_campaign_integration/pro_campaign_url.png" alt="Ratings and review url chatbot in LoyJoy" title="LoyJoy ProCampaign url Ratings Reviews Data Transfer" width="800" />
   </p>
 
   - Ask your customers if they would recommend the product     
@@ -55,7 +55,7 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   **procampaign_rating_value** - `Questionnaire`
 
   <p align="center">  
-    <img src="pro_campaign_integration/procampaign_integration_5star_rating.png" alt="Ratings and review  5stars chatbot in LoyJoy" title="LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer" width="600"/>
+    <img src="pro_campaign_integration/procampaign_integration_5star_rating.png" alt="Ratings and review  5stars chatbot in LoyJoy" title="LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer" width="800"/>
   </p>
 
 This is how the 5-star rating looks like for the user.
@@ -73,7 +73,7 @@ After you defined your variables of the rating data which you would like to tran
 In the process block, select `Rating - Review a product`.
 
 <p align="center">  
-  <img src="pro_campaign_integration/procampaign_process_brick.png" alt="Ratings and review chatbot in LoyJoy" title="LoyJoy ProCampaign Ratings Reviews Data Transfer" width="600"/>
+  <img src="pro_campaign_integration/procampaign_process_brick.png" alt="Ratings and review chatbot in LoyJoy" title="LoyJoy ProCampaign Ratings Reviews Data Transfer" width="800"/>
 </p>
 
 ## 5. Configure the data transfer
@@ -111,7 +111,7 @@ Now scroll down until you see a tab called "Add mapping". A mapping maps field n
 - Enter the target name of the data field that you store in ProCampaign (here: "Email")
 
 <p align="center">  
-  <img src="pro_campaign_integration/procampaign_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" title="Mapping settings LoyJoy to ProCampaign" width="600"/>
+  <img src="pro_campaign_integration/procampaign_mapping.png" alt="Mapping settings LoyJoy to ProCampaign" title="Mapping settings LoyJoy to ProCampaign" width="800"/>
 </p>
 
 
