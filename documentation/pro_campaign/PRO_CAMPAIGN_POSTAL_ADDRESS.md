@@ -69,7 +69,7 @@ Enter **your API key** that you got from your ProCampaign admin.
 Scroll down to the section 'Cases where only the transaction name to be sent can be set'. Now enter the **Postal address transaction name** in the corresponding fields in LoyJoy. This will trigger the associated action in ProCampaign.
 
 <p align="center">
-  <img src="giveaway/api_giveaway.png" alt="API PIN Email" title="API PIN Email in LoyJoy" width="800"/>
+  <img src="giveaway/postal_api.png" alt="API Postal Address" title="API Postal Address in LoyJoy" width="800"/>
 </p>
 
 Scroll down and activate the integration for your bot in the field "Choose on which bots the integration should be active". Click on "Add a mapping" to create a mapping for the email field. Then choose `process variable` and type in **customer_email** to refer to your data field in your chat flow. Now just type in the source name of the data field in ProCampaign **Email**.
