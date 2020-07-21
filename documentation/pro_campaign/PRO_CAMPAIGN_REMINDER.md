@@ -41,6 +41,12 @@ Scroll down to `Other texts` and edit the field `If the customer is not yet logg
   <img src="PIN/reminder_othertexts.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
+Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
+
+<p align="center">
+  <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="800"/>
+</p>
+
 Cool! :tada: You just created your reminder email option in the LoyJoy chat. Congrats!
 
 ## 4. Configure the data transfer
