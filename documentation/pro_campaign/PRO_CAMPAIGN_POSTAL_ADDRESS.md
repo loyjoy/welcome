@@ -1,4 +1,4 @@
-# How to send postal addresses from LoyJoy to ProCampaign
+# How to transfer postal addresses from LoyJoy to ProCampaign
 
 ## 1. What this solutions will do for you
 
