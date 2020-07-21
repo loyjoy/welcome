@@ -22,7 +22,7 @@ Create or copy a new experience and add the **`Postal Address`** process block t
 Close the process editor and go to the `Postal Address` process brick.
 
 <p align="center">
-  <img src="giveaway/postal1.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="800"/>
+  <img src="giveaway/postal1.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
 In `Other texts` you can edit the texts displayed in the chat. 
