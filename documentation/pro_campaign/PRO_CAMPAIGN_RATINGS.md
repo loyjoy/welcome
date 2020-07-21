@@ -39,7 +39,7 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   **procampaign_rating_url** - `Variable` / `Questionnaire`
   
   <p align="center">  
-    <img src="pro_campaign_integration/pro_campaign_url.png" alt="Ratings and review url chatbot in LoyJoy" title="LoyJoy ProCampaign url Ratings Reviews Data Transfer" width="800" />
+    <img src="pro_campaign_integration/pro_campaign_url.png" alt="Ratings and review url chatbot in LoyJoy" title="LoyJoy ProCampaign url Ratings Reviews Data Transfer" width="600" />
   </p>
 
   - Ask your customers if they would recommend the product     
@@ -55,7 +55,7 @@ Drag a `Questionnaire` process block to your chatflow and choose the question ty
   **procampaign_rating_value** - `Questionnaire`
 
   <p align="center">  
-    <img src="pro_campaign_integration/procampaign_integration_5star_rating.png" alt="Ratings and review  5stars chatbot in LoyJoy" title="LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer" width="800"/>
+    <img src="pro_campaign_integration/procampaign_integration_5star_rating.png" alt="Ratings and review  5stars chatbot in LoyJoy" title="LoyJoy ProCampaign 5 stars Ratings Reviews Data Transfer" width="600"/>
   </p>
 
 This is how the 5-star rating looks like for the user.
