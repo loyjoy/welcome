@@ -2,8 +2,7 @@
 
 ## 1. What this solutions will do for you
 
-LoyJoy lets you create a giveaway or raffle for your customers within the chat experience. Your customers will be asked to enter their email address in order to participate. 
-In addition you can draw the winners on the platform and export them.
+LoyJoy lets you create a giveaway or raffle for your customers within the chat experience. Your customers will be asked to enter their email address in order to participate. In addition you can draw the winners on the platform and export them.
 
 You can **automatically transfer your new giveaway participants to your ProCampaign database**. LoyJoy will forward the email addresses of your participants to ProCampaign.
 
