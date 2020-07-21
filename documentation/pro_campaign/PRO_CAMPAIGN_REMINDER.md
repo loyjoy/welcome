@@ -23,7 +23,7 @@ Create or copy an new experience and add the **`Reminder Opt-in`** process block
 Close the process editor and go to the `Reminder opt-in` process brick. Here you can edit the texts displayed in the chat. Only the `Ask your customers if they opt-in for the reminder`field is required.
 
 <p align="center">
-  <img src="PIN/reminder_main.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="800"/>
+  <img src="PIN/reminder_main.png" alt="reminder optin process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
 </p>
 
 In the `Reminder double opt-in email` section, you can configure the email which will be send to your customers as a reminder email for your chat experience. Because we want to send our reminder emails from ProCampaign, we will activate the button `Do not send double opt-in email` in order to deactivate the LoyJoy build-in email service.
@@ -44,7 +44,7 @@ Scroll down to `Other texts` and edit the field `If the customer is not yet logg
 Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
 
 <p align="center">
-  <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="800"/>
+  <img src="pro_campaign_integration/pro_campaign_integration_transaction.png" alt="Configure a ProCampaign transaction" title="Configure a ProCampaign transaction" width="600"/>
 </p>
 
 Cool! :tada: You just created your reminder email option in the LoyJoy chat. Congrats!
