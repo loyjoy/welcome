@@ -20,7 +20,7 @@ We have compiled several articles that describe how to connect LoyJoy and ProCam
 | coming soon                   | How to transfer other data than the ones mentioned above.      |
 
 
-[Newsletter subscriptions]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/NEWSLETTER.md
+[Newsletter subscriptions]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_NEWSLETTER.md
 [Ratings and reviews]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_RATINGS.md
 [General integration]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_INTEGRATION.md
 [Giveaway participants]: https://github.com/loyjoy/welcome/blob/master/documentation/pro_campaign/PRO_CAMPAIGN_GIVEAWAY.md
