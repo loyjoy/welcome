@@ -2,7 +2,7 @@
 
 ## 1. What this solution will do for you
 
-In this article we explain how to generally transfer a custom data field from LoyJoy to ProCampaign. For this example we use the field "favorite color".
+In this article you will learn how to generally transfer a custom data field from LoyJoy to ProCampaign. For this example we use the field "favorite color".
 
 ## 2. What you need for this solution to work
 
@@ -47,7 +47,7 @@ Now scroll down until you see a tab called "Add mapping". A mapping maps field n
 
 ## 4. How to set the custom data fields (variables) in LoyJoy
 
-In LoyJoy you can create custom data fiels, we call them variables, and store them in the LoyJoy customer database. You can pick any customer variable that is stored in LoyJoy and send it to ProCampaign. Variables can be set for example via the "Variable" process building block or in a "Questionnaire".
+In LoyJoy you can create custom data fiels, we call them **`variables`**, and store them in the LoyJoy customer database. You can pick any customer variable that is stored in LoyJoy and send it to ProCampaign. Variables can be set for example via the `Variable` process building block or in a `Questionnaire`.
 
 We will create a variable "favorite color" in a questionnaire.
 
