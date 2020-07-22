@@ -6,10 +6,10 @@ Some of your chat bots aim to make your customers return to the chat bot after a
 
 ## 2. What you need for this solution
 
-To start transfer the participants from LoyJoy to ProCampaign you will need two things - your ProCampaign admin will help you out with this:
+To start transfer the participants from LoyJoy to ProCampaign you will need two things - your ProCampaign admin will help you with this:
 
  - The **PIN email transaction name** in ProCampaign.
- - The **API key that has the needed rights** to send the transaction.
+ - The **API key** that has the needed rights to send the transaction.
 
 ## 3. Add the Sign In process block to your chat flow
 
