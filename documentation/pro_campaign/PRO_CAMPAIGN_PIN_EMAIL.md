@@ -16,7 +16,7 @@ To start transfer the participants from LoyJoy to ProCampaign you will need two 
 Create or copy an new experience and add the `Sign In` process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers as a registration for the individual customer. In case of a Loyalty chatbot, the `Loyalty Points` process block requires a `Sign in` to identify the customer and assign the points. When the individual customer returns to the chat from a different device, he can access his point account by typing in his email address and the PIN email, which will automatically send to him. 
 
 <p align="center">
-  <img src="PIN/SignIn.png" alt="sign in process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="600"/>
+  <img src="PIN/SignIn.png" alt="sign in process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="800"/>
 </p>
 
 Make sure to activate the `Do not send PIN email` button to deactive LoyJoys build-in PIN email service.
