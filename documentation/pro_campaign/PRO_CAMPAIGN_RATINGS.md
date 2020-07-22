@@ -13,13 +13,14 @@ Customers will be able to rate a product within the LoyJoy chat. In this article
 To start sending ratings from LoyJoy to ProCampaign you will need two things:
 
  - You need to **define certain process variables in your chat flow**. You do this to collect the specific data inputs from our customers.
- - Add the **ProCampaign Process block** to your chatflow.
+ - Add the **`ProCampaign`** process block to your chatflow.
+ - It also adds a **`Sign in`** process block to your flow if it does not already exist. 
  - Your ProCampaign admin will provide you with an **API key for ProCampaign** that must be set up to allow the data transfer.  
 
 
 ## 3. Set Variables in the LoyJoy Process Flow
 
-To build a chatbot which collects ratings and reviews from your customers, we have to add a `Questionnaire` process block to our chat flow. A `Questionnaire` should be used when user input is needed. In case your data is not influenced by the customers' input, you can add a `Variable` process block to your flow. Please add the **ProCampaign Process block** to your chatflow too.  
+To build a chatbot which collects ratings and reviews from your customers, we have to add a **`Questionnaire`** process block to our chat flow. A `Questionnaire` should be used when user input is needed. In case your data is not influenced by the customers' input, you can add a **`Variable`** process block to your flow. Please add the **`ProCampaign`** and the **`Sign in`** process block to your chatflow too.  
 
   <p align="center">  
     <img src="pro_campaign_integration/variable_process.png" alt="Ratings and review process block chatbot in LoyJoy" title="Ratings and review process block chatbot in LoyJoy" width="600" />
