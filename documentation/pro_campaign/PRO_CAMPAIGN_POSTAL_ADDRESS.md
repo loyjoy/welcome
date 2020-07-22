@@ -9,7 +9,7 @@ Some of your chat bots aim to collect address data from the customers. Potential
 To start transfer the participants from LoyJoy to ProCampaign you will need two things - **your ProCampaign admin will help you** with this:
 
  - The **Postal address transaction name** in ProCampaign
- - The **API key that has the needed rights** to send the transaction
+ - The **API key** that has the needed rights to send the transaction
 
 ## 3. Add particular process block to your chat flow
 
