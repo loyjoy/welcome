@@ -10,7 +10,7 @@ Customers will be able to rate a product within the LoyJoy chat. In this article
 
 ## 2. What you need for this solution to work
 
-To start sending ratings from LoyJoy to ProCampaign you will need two things:
+To start sending ratings from LoyJoy to ProCampaign you will need the following things:
 
  - You need to **define certain process variables in your chat flow**. You do this to collect the specific data inputs from our customers.
  - Add the **`ProCampaign`** process block to your chatflow.
