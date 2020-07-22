@@ -24,7 +24,7 @@ Make sure to activate the `Do not send PIN email` button to deactive LoyJoys bui
 Scroll down to `Other texts` and if you wish edit the following fields. You can define the messages which will be displayed within the chat in certain cases. The text in the field `sign_in_enter_pin` will appear, when a customer tries to sign in with the same email address again. He will than receive the PIN by ProCampaign triggered by LoyJoy. You can keep the default texts here, if you want.
 
 <p align="center">
-  <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="600"/>
+  <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="500"/>
 </p>
 
 Now we configure our process block `ProCampaign` to transfer the data from LoyJoy to a corresponding transaction and data field in ProCampaign.
