@@ -2,13 +2,15 @@
 
 ## 1. What this solution will do
  
-Customers will be able to rate a product within the LoyJoy chat. In this article we explain how to then automatically tranfer the ratings to ProCampaign.
+Customers will be able to rate a product within the LoyJoy chat. In this article you will learn how to then automatically tranfer the ratings to ProCampaign.
 
 <p align="center">  
   <img src="pro_campaign_integration/pro_campaign_ratings.png" alt="Ratings and review chatbot in LoyJoy" title="LoyJoy ProCampaign Ratings Reviews Data Transfer" width="800"/>
 </p>
 
 ## 2. What you need for this solution to work
+
+To start sending ratings from LoyJoy to ProCampaign you will need three things:
 
  - You need to **define certain process variables in your chat flow**. You do this to collect the specific data inputs from our customers.  
  - Add the **ProCampaign Process block** to your chatflow.  
