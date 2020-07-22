@@ -21,6 +21,10 @@ To start sending ratings from LoyJoy to ProCampaign you will need three things:
 
 To build a chatbot which collects ratings and reviews from your customers, we have to add a `Questionnaire` process block to our chat flow. A `Questionnaire` should be used when user input is needed. In case your data is not influenced by the customers' input, you can add a `Variable` process block to your flow.
 
+  <p align="center">  
+    <img src="pro_campaign_integration/variable_process.png" alt="Ratings and review process block chatbot in LoyJoy" title="Ratings and review process block chatbot in LoyJoy" width="600" />
+  </p>
+
 In LoyJoy you can create custom data fiels, we call them variables, and store them in the LoyJoy customer database. All the data we send to ProCampaign for the review must first be defined as variables.
 
 We will create a rating `Questionnaire` to let our customers rate our chocolate on a 5-star scale.
