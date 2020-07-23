@@ -8,6 +8,9 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- Sign in process brick reworked
+  - Text before login can now be changed here.
+  - PIN-E-Mail reworked.
 - 🔔 Push conditions.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
