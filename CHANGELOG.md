@@ -8,14 +8,21 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Sign in process brick reworked
-  - Text before login can now be changed here.
-  - PIN-E-Mail reworked.
 - 🔔 Push conditions.
   - Push can be made dependent on process & customer variables.
   - Customers can be targeted e.g. by entered data or giveaway participations.
   - Shows number of messages to be sent.
 - ↩️ Restart button added to chat menu
+
+### Changed
+
+- Texts tab revised
+  - Search updates only when search text changes.
+  - Search also works on placeholder texts.
+  - Adjusted layout.
+- Sign in process brick reworked
+  - Text before login can now be changed here.
+  - PIN-E-Mail reworked.
 
 ### Fixed
 
