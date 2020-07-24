@@ -76,7 +76,7 @@ and
 
 `https://www.example.org?loyjoy-myparam=value2`
 
-It is required that the param name starts with `loyjoy-` so that LoyJoy can identify it, after the `loyjoy-` you can add a custom name for your parameter.
+It is required that the param name starts with `loyjoy-` so that LoyJoy can identify it, after the `loyjoy-` you can add a custom name for your parameter. If you need more than one parameter, connect the parameters with an `&`, for example `https://www.example.org?loyjoy-myparam=value1&my-tracking=trackig-code`
 
 Inside LoyJoy, we can access this parameter and, for example, make an automatic jump based on it:
 
