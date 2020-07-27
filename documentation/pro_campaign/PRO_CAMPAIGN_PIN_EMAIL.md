@@ -53,8 +53,8 @@ Set a name for your integration (since you can have several integrations this wi
 Enter **your API key** that you got from your ProCampaign admin.
 
 <p align="center">
-  <img src="pro_campaign_integration/procampaign_api_key.png" alt="LoyJoy to ProCampaign API key section" title="LoyJoy to ProCampaign API key" width="800"/>
-</p>  
+  <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="LoyJoy to ProCampaign API key section" title="LoyJoy to ProCampaign API key" width="800"/>
+</p>   
 
 Scroll down to the section `Cases were only the transaction name to be sent can be set`. Now fill in the **PIN email transaction name** into the according fields in LoyJoy. This will trigger the connected action in ProCampaign and send the requested PIN email to your customer.
 
