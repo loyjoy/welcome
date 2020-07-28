@@ -6,14 +6,6 @@ All notable changes to LoyJoy will be documented in this file.
 
 ## Unreleased
 
-### Added
-
-- 🔔 Push conditions.
-  - Push can be made dependent on process & customer variables.
-  - Customers can be targeted e.g. by entered data or giveaway participations.
-  - Shows number of messages to be sent.
-- ↩️ Restart button added to chat menu
-
 ### Changed
 
 - Texts tab revised
@@ -24,9 +16,29 @@ All notable changes to LoyJoy will be documented in this file.
   - Text before login can now be changed here.
   - PIN-E-Mail reworked.
 
+
+## release-2020-07-26
+
+### Added
+
+- Replaced roster view of Web chat with new home view.
+  - Content of home view is based on process groups
+  - Home view can be themed according to multi-brand / multi-bot Web chat app.
+  - Roster is now component in home view.
+- 🔔 Push conditions.
+  - Push can be made dependent on process & customer variables.
+  - Customers can be targeted e.g. by entered data or giveaway participations.
+  - Shows number of messages to be sent.
+- ↩️ Restart button added to chat menu.
+
+### Changed
+
+- Unified database backend for campaign notifications and reminder notifications, preparing push capabilities for Web chat.
+
 ### Fixed
 
 - Customer variables are updated before integration listeners are triggered
+
 
 ## release-2020-07-06
 
