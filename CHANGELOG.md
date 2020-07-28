@@ -17,7 +17,7 @@ All notable changes to LoyJoy will be documented in this file.
   - PIN-E-Mail reworked.
 
 
-## release-2020-07-26
+## release-2020-07-28
 
 ### Added
 
