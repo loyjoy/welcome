@@ -32,24 +32,24 @@ You can choose from a range of different question types according to your object
 ### List of Question Types 
 
 - [Accordion](#Accordion)
-- Address query
-- Categorical slider
-- Date input
-- Dropdown select
-- File upload
-- Gallery image select
-- Horizontal slider
-- IBAN input
-- Image upload
-- Multiple choice
-- Numerical input
-- Numerical slider
-- Ordering/prioritize
-- Phone number
-- Quick reply
-- Rating
-- Single choice
-- Text input
+- [Address query](#Address query)
+- [Categorical slider](#Categorical slider)
+- [Date input](#Date input)
+- [Dropdown select](#Dropdown select)
+- [File upload](#File upload)
+- [Gallery image select](#Gallery image select)
+- [Horizontal slider](#Horizontal slider)
+- [IBAN input](#IBAN input)
+- [Image upload](#Image upload)
+- [Multiple choice](#Multiple choice)
+- [Numerical input](#Numerical input)
+- [Numerical slider](#Numerical slider)
+- [Ordering/prioritize](#Ordering/prioritize)
+- [Phone number](#Phone number)
+- [Quick reply](#Quick reply)
+- [Rating](#Rating)
+- [Single choice](#Single choice)
+- [Text input](#Text input)
 
 ### Accordion
 
