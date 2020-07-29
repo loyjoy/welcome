@@ -29,9 +29,9 @@ You can add questions here and select the `Question type`. Give your question an
 
 You can choose from a range of different question types according to your objectives. You will gain an insight into the functions and the design of the possible questions.
 
-<center>
-### List of Question Types 
 
+### List of Question Types 
+<center>
 - [Accordion](#Accordion)
 - [Address query](#Address-query)
 - [Categorical slider](#Categorical-slider)
@@ -50,9 +50,8 @@ You can choose from a range of different question types according to your object
 - [Quick reply](#Quick-reply)
 - [Rating](#Rating)
 - [Single choice](#Single-choice)
-- [Text input](#Text-input)
+- [Text input](#Text-input) </center>
 
-</center>
 ### Accordion
 
 If your answer option are a little bit longer, use the Accordion to provide more complex answer options and have your customer unfold the answers.
