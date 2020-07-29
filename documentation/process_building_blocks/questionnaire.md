@@ -29,6 +29,7 @@ You can add questions here and select the `Question type`. Give your question an
 
 You can choose from a range of different question types according to your objectives. You will gain an insight into the functions and the design of the possible questions.
 
+<center>
 ### List of Question Types 
 
 - [Accordion](#Accordion)
@@ -51,6 +52,7 @@ You can choose from a range of different question types according to your object
 - [Single choice](#Single-choice)
 - [Text input](#Text-input)
 
+</center>
 ### Accordion
 
 If your answer option are a little bit longer, use the Accordion to provide more complex answer options and have your customer unfold the answers.
