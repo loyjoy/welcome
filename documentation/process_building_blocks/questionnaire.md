@@ -73,7 +73,7 @@ Your customer is asked to enter his address. This is supported by Google Maps an
 Define categories and ask the customer to find his opinion on the slider.
 
 <p align="center">
-  <img src="rating.png" alt="Process Building Blocks Rating" title="Process Building Blocks Rating" width="300"/>
+  <img src="scale2.png" alt="Process Building Blocks categorical Slider" title="Process Building Blocks categorical Slider" width="300"/>
 </p>
 
 ### Date input
