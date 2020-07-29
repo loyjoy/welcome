@@ -18,11 +18,11 @@ Now close the process editor to access the process building block `Questionnaire
 You can add questions here and select the `Question type`. Give your question an (optional) introduction text while using the text field ´Intro´ to post a simple message before your question. Enter your question in the `Question` field. You can also set an (optional) message that will be sent regardless of the response from your customers with the text field `React to an answer`. `Add answer` options if your type of question requires pre-set answers. 
 
 <p align="center">
-  <img src="questionnaire1.png" alt="Questionnaire Process Block Detail 1" title="LoyJoy Questionnaire Process Block in Detail" width="800"/>
+  <img src="questionnaire1.png" alt="Questionnaire Process Block Detail 1" title="LoyJoy Questionnaire Process Block in Detail" width="500"/>
 </p>
 
 <p align="center">
-  <img src="questionnaire2.png" alt="Questionnaire Process Block Detail 1" title="LoyJoy Questionnaire Process Block in Detail" width="800"/>
+  <img src="questionnaire2.png" alt="Questionnaire Process Block Detail 1" title="LoyJoy Questionnaire Process Block in Detail" width="500"/>
 </p>
 
 ## Let's look at the **different question types** of the Questionnaire.
