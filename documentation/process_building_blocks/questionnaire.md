@@ -1,6 +1,6 @@
 # Questionnaire 
 
-A powerful process building block to collect different types of customer data and to interact with customers.
+The **`Questionnaire`** is a powerful process building block to collect different types of customer data and to interact with customers.
 
 ## The process building block Questionnaire
 Add a new chatbot experience or copy an excisting experience. Then add the process block **`Questionnaire`** in the process editor.
