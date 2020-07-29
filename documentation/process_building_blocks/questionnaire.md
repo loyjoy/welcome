@@ -31,7 +31,7 @@ You can choose from a range of different question types according to your object
 
 
 ### List of Question Types 
-<center>
+
 - [Accordion](#Accordion)
 - [Address query](#Address-query)
 - [Categorical slider](#Categorical-slider)
@@ -50,7 +50,7 @@ You can choose from a range of different question types according to your object
 - [Quick reply](#Quick-reply)
 - [Rating](#Rating)
 - [Single choice](#Single-choice)
-- [Text input](#Text-input) </center>
+- [Text input](#Text-input)
 
 ### Accordion
 
