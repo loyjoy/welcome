@@ -31,7 +31,7 @@ You can choose from a range of different question types according to your object
 
 ### List of Question Types 
 
-- Accordion
+- [Accordion](#Accordion)
 - Address query
 - Categorical slider
 - Date input
