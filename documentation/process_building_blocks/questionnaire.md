@@ -52,6 +52,14 @@ You can choose from a range of different question types according to your object
 - [Single choice](#Single-choice)
 - [Text input](#Text-input)
 
+### Quick reply
+
+One of the most used question type. This question type creates the famous button design. 
+
+<p align="center">
+  <img src="quick_reply.png" alt="Process Building Blocks Quick Reply" title="Process Building Blocks Quick Reply" width="300"/>
+</p>
+
 ### Accordion
 
 If your answer option are a little bit longer, use the Accordion to provide more complex answer options and have your customer unfold the answers.
@@ -170,14 +178,6 @@ Ask your customer for a phone number.
 
 <p align="center">
   <img src="phone_number.png" alt="Process Building Blocks Phone Number" title="Process Building Blocks Phone Number" width="300"/>
-</p>
-
-### Quick reply
-
-One of the most used question type. This question type creates the famous button design. 
-
-<p align="center">
-  <img src="quick_reply.png" alt="Process Building Blocks Quick Reply" title="Process Building Blocks Quick Reply" width="300"/>
 </p>
 
 ### Rating
