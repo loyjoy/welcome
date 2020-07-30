@@ -15,7 +15,9 @@ All notable changes to LoyJoy will be documented in this file.
 - Sign in process brick reworked
   - Text before login can now be changed here.
   - PIN-E-Mail reworked.
-
+- Rewards
+  - Message if reward is not available
+  - Reward redemption counts in analytics
 
 ## release-2020-07-28
 
