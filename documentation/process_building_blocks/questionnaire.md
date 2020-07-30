@@ -121,7 +121,7 @@ Let your customer choose one picture from multiple provided.
 The horizontal slider gives you the possiblity to present content and have your customer select from the options.
 
 <p align="center">
-  <img src="rating.png" alt="Process Building Blocks Rating" title="Process Building Blocks Rating" width="300"/>
+  <img src="selection.png" alt="Process Building Blocks Horizontal Slider" title="Process Building Blocks Horizontal Slider" width="300"/>
 </p>
 
 ### IBAN input
