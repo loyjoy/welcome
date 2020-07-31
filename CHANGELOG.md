@@ -6,18 +6,23 @@ All notable changes to LoyJoy will be documented in this file.
 
 ## Unreleased
 
+### Added
+
+- Support for SMS and WhatsApp via Twilio.
+
 ### Changed
 
 - Texts tab revised
   - Search updates only when search text changes.
   - Search also works on placeholder texts.
   - Adjusted layout.
-- Sign in process brick reworked
-  - Text before login can now be changed here.
+- Sign in process building block reworked
+  - Text before login can now be changed at sign in process building block.
   - PIN-E-Mail reworked.
 - Rewards
   - Message if reward is not available
   - Reward redemption counts in analytics
+
 
 ## release-2020-07-28
 
