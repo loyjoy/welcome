@@ -2,26 +2,26 @@
 
 ## 1. What this solutions will do for you
 
-Some of your chat bots aim to make your customers return to the chat bot after a certain time. Especially loyalty experiences or an advent calendars are use cases where your customers ideally return to the chatbot. LoyJoy will remember the customer and can identify them without asking for an email address again. Occasionally a customer will return to the chatbot from another device or delete their browsing history. In this case LoyJoy will send a PIN email to the customer to verify the customer's identity. This article describes **how to send PIN emails to your customers from ProCampaign** with your unique sender address and branding. LoyJoy will automatically transfer your PIN email details to ProCampaign.
+Some of your chatbots aim to make your customers return to the chatbot after a certain time. Especially loyalty experiences or an advent calendars are use cases where your customers ideally return to the chatbot. LoyJoy will remember the customer and can identify them without asking for an email address again. Occasionally a customer will return to the chatbot from another device or delete their browsing history. In this case, LoyJoy sends a 6-digit code (PIN) via email to customers, which has to be entered in the chat. This article describes **how to send PIN emails to your customers from ProCampaign**. LoyJoy will automatically transfer your PIN email details to ProCampaign.
 
 ## 2. What you need for this solution
 
-To start transfer the participants from LoyJoy to ProCampaign you will need two things - your ProCampaign admin will help you with this:
+To begin transferring the participants from LoyJoy to ProCampaign you will need two things - your ProCampaign admin will help you with this:
 
  - The **PIN email transaction name** in ProCampaign.
  - The **API key** that has the needed rights to send the transaction.
 
 ## 3. Add the Sign In process block to your chat flow
 
-Create or copy an new experience and add the `Sign In` process block if your chat flow does not have one yet. The sign up process block collects the email adresses from your customers as a registration for the individual customer. In case of a Loyalty chatbot, the `Loyalty Points` process block requires a `Sign in` to identify the customer and assign the points. When the individual customer returns to the chat from a different device, he can access his point account by typing in his email address and the PIN email, which will automatically send to him. 
+Create or copy a new experience and add the `Sign In` process block if your chatflow does not have one yet. The sign up process block collects the email adresses from your customers. For example, in a Loyalty chatbot, the `Loyalty Points` process block requires a `Sign in` to identify the customer and assign the points. When the individual customer returns to the chat from a different device, he can access his point account by typing in his email address and the 6-digit PIN from the PIN email, which will automatically be sent to him. 
 
 <p align="center">
   <img src="PIN/SignIn.png" alt="sign in process block in LoyJoy" title="Sign In Process Block in LoyJoy" width="800"/>
 </p>
 
-Make sure to activate the `Do not send PIN email` button to deactive LoyJoys build-in PIN email service.
+Make sure to activate the `Do not send PIN email` button to deactive LoyJoys built-in PIN email service.
 
-Scroll down to `Other texts` and if you wish edit the following fields. You can define the messages which will be displayed within the chat in certain cases. The text in the field `sign_in_enter_pin` will appear, when a customer tries to sign in with the same email address again. He will than receive the PIN by ProCampaign triggered by LoyJoy. You can keep the default texts here, if you want.
+Scroll down to `Other texts` and if you wish edit the following fields. You can define the messages which will be displayed within the chat in certain cases. The text in the field `sign_in_enter_pin` will appear when a customer tries to sign in with the same email address again. He will then receive the PIN email by ProCampaign triggered by LoyJoy. You can keep the default texts here, if you like.
 
 <p align="center">
   <img src="PIN/PIN_fields.png" alt="API PIN fields" title="API PIN Email fields in LoyJoy" width="500"/>
@@ -49,12 +49,13 @@ This will add a new tab with the name "ProCampaign" below the cards.
 
 Scroll down to "General settings".
 
-Set a name for your integration (since you can have several integrations this will help you keep an overview).
+Set a name for your integration (since you can have several integrations this will help you keeping an overview).
+
 Enter **your API key** that you got from your ProCampaign admin.
 
 <p align="center">
   <img src="pro_campaign_integration/pro_campaign_integration_api_key.png" alt="LoyJoy to ProCampaign API key section" title="LoyJoy to ProCampaign API key" width="800"/>
-</p>   
+</p>
 
 Scroll down to the section `Cases were only the transaction name to be sent can be set`. Now fill in the **PIN email transaction name** into the according fields in LoyJoy. This will trigger the connected action in ProCampaign and send the requested PIN email to your customer.
 
