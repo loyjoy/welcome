@@ -2,7 +2,7 @@
 
 ## 1. What this solutions will do for you
 
-Some of your chatbots aim to make your customers return to the chatbot after a certain time. Especially loyalty experiences or an advent calendars are use cases where your customers ideally return to the chatbot. LoyJoy will remember the customer and can identify them without asking for an email address again. Occasionally a customer will return to the chatbot from another device or delete their browsing history. In this case, LoyJoy sends a 6-digit code (PIN) via email to customers, which has to be entered in the chat. This article describes **how to send PIN emails to your customers from ProCampaign**. LoyJoy will automatically transfer your PIN email details to ProCampaign.
+Some of your chatbots aim to get customers to return again and again. Especially Loyalty experiences or an Advent Calendar are use cases where your customers ideally return. LoyJoy will remember the customer and can identify them without asking for an email address again. Occasionally a customer will return to the chatbot from another device or delete their browsing history. In this case, LoyJoy sends a 6-digit code (PIN) via email to customers, which has to be entered in the chat. This article describes **how to send PIN emails to your customers from ProCampaign**. LoyJoy will automatically transfer your PIN email details to ProCampaign.
 
 ## 2. What you need for this solution
 
@@ -37,7 +37,7 @@ Awesome! :tada: You are one step closer to sending PIN emails from ProCampaign. 
 
 ## 4. Configure the data transfer
 
-You completed all the configurations within the chat. Now you have to set up the data transfer.
+You've completed all the configurations within the chat. Now you have to set up the data transfer.
 
 On the LoyJoy platform, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
@@ -69,4 +69,4 @@ Scroll down and activate the integration for your bot in the field "Choose on wh
   <img src="newsletter/procampaign_newsletter_customer_email_api.png" alt="LoyJoy to ProCampaign API newsletter section mapping" title="LoyJoy to ProCampaign API newsletter mapping" width="800"/>
 </p>
 
-Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and from now on all PIN emails will be automatically send by ProCampaign. Good job! :tada:
+Congratulations! You just have successfully connected your LoyJoy chatbot with ProCampaign and from now on all PIN emails will be automatically sent by ProCampaign. Good job! :tada:
