@@ -8,6 +8,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- Extended process variable picker, providing process selection and information about variable declarations.
 - Support for SMS and WhatsApp via Twilio.
 
 ### Changed
