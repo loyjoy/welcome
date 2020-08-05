@@ -2,11 +2,11 @@
 
 ## 1. What this solution will do for you
 
-In this article you will learn how to generally transfer a custom data field from LoyJoy to ProCampaign. For this example we use the field "favorite color".
+This article explains how to generally transfer a custom data field from LoyJoy to ProCampaign. For this example, we will use the "Favourite Colour" field.
 
-## 2. What you need for this solution to work
+## 2 What you need to make this solution work
 
-You need an API key for ProCampaign that must be set up to **allow writing of the data fields that you want to transfer**. Your ProCampaign admin will be able to help you.
+You will need an API key for ProCampaign, which must be set up to **allow writing the data fields you want to transfer**. Your ProCampaign administrator will be able to help you with this.
 
 ## 3. Configure the data transfer
 
