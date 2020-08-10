@@ -9,7 +9,8 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - Extended process variable picker, providing process selection and information about variable declarations.
-- Support for SMS and WhatsApp via Twilio.
+- Added support for SMS and WhatsApp via Twilio.
+- Extended Web service integrations with URLs for process variables, customer variables and session variables. This enables you to listen for any changes to such variables via HTTP POST requests to an API provided by you.
 
 ### Changed
 
@@ -20,9 +21,11 @@ All notable changes to LoyJoy will be documented in this file.
 - Sign in process building block reworked
   - Text before login can now be changed at sign in process building block.
   - PIN-E-Mail reworked.
-- Rewards
+- Rewards process building block
   - Message if reward is not available
   - Reward redemption counts in analytics
+- Web service process building block
+  - Moved HTTP header authorization details to separate field, which can be configured in the Web service process building block.
 
 
 ## release-2020-07-28
