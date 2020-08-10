@@ -26,7 +26,7 @@ The WebService endpoint has to respond after a few seconds. Optionally, the resp
   "data": {
     "variables": {
       "some_key": "some_value",
-      ...
+      "some_other_key": "[\"some_value_1\", \"some_value_2\"]",
     }
   }
 }
