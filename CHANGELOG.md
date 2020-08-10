@@ -8,6 +8,11 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+
+## release-2018-08-10
+
+### Added
+
 - Extended process variable picker, providing process selection and information about variable declarations.
 - Added support for SMS and WhatsApp via Twilio.
 - Extended Web service integrations with URLs for process variables, customer variables and session variables. This enables you to listen for any changes to such variables via HTTP POST requests to an API provided by you.
