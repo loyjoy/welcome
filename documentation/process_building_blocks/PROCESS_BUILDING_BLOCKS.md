@@ -105,7 +105,7 @@ Display products within the chat and link to PDP. Fill dynamically by using our 
 ## Profiling opt-in
 Ask customers to opt-in for profiling, GDPR compliant double-opt-in.
 
-## [Questionnaire](/QUESTIONNAIRE.md)  
+## [Questionnaire](QUESTIONNAIRE.md)  
 Collect information from your customers. With this full-blown questionnaire solution you can ask for single choice, multiple choice, prioritize, IBAN, phone numbers, sliders, drop-down, addresses (with Google Maps connection), file upload, image select and more. Store any information as variables and into the database. Also directly into the customer CRM history for later use, e. g. to send personalized push messages.
 
 ## Quiz
