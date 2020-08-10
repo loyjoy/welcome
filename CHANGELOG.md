@@ -7,7 +7,8 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
-
+- Updated names for sub-processes
+  - Show type and name together
 
 ## release-2018-08-10
 
@@ -30,8 +31,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Message if reward is not available
   - Reward redemption counts in analytics
 - Web service process building block
-  - Moved HTTP header authorization details to separate field, which can be configured in the Web service process building block.
-
+  - Moved HTTP header authorization details to separate field, which can be configured in the Web service process building block
 
 ## release-2020-07-28
 
