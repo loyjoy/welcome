@@ -10,7 +10,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Updated names for sub-processes
   - Show type and name together
 
-## release-2018-08-10
+## release-2020-08-10
 
 ### Added
 
