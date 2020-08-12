@@ -160,7 +160,7 @@ LoyJoy('boot', {
 
 ## Locale
 
-A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the user’s region and language.
+A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the user’s language and region.
 
 ```
 <script>
