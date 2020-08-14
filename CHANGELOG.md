@@ -9,6 +9,14 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 - Updated names for sub-processes
   - Show type and name together
+  
+### Changed
+- 🎟️ Coupon Codes
+  - Message if no coupon codes left
+  - Number of uploaded / redeemed coupon codes in analytics
+  - Allow GS-1 Databar Expanded coupon codes
+- Mini-Program
+  - Add action to close Mini-Program via API
 
 ## release-2020-08-10
 
