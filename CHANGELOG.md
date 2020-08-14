@@ -15,6 +15,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Message if no coupon codes left
   - Number of uploaded / redeemed coupon codes in analytics
   - Allow GS-1 Databar Expanded coupon codes
+- Beta-API
 - Mini-Program
   - Add action to close Mini-Program via API
 
