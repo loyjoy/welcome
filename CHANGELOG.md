@@ -11,7 +11,8 @@ All notable changes to LoyJoy will be documented in this file.
 - The home view is now based on widgets, which can be added flexibly:
   - Widget types to choose from are `hero`, `stories`, `groups`, `notifications`, `roster`. This list will grow in the future.
   - The widget type `stories` enables you to build AMP stories e.g. with https://makestories.io/ and publish them in the home view.
-  - As customers can jump from stories into experiences, stories are an exciting way to engage your customers to start chats. 
+  - As customers can jump from stories into experiences, stories are an exciting way to engage your customers to start chats.
+- ✨ Sparkle animation for quiz answer options.
 - Mini-program
   - Added action to close Mini-Program via API.
 - 🎟️ Coupon Codes
