@@ -9,7 +9,7 @@ This is some link [link text](https://www.example.org) to example.org.
 For the Web chat, such Markdown links will be transformed to normal HTML links, i.e. HTML anchor tags. In case of other channels such as Facebook and WhatsApp the link automatically will be formatted as needed by the channel.
 
 
-## Trigger events from links
+## Trigger events with links instead of following links
 
 Most Web browsers will open a new tab, when the customer clicks on a link generated in the format `[link text](https://www.example.org)`. Thus, this format is best for sending the customer out of the chat to a separate Web browser tab, e.g. for jumping to a separate Web page with terms and conditions.
 
