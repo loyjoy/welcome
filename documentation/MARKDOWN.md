@@ -11,7 +11,7 @@ For the Web chat, such Markdown links will be transformed to normal HTML links, 
 
 ## Trigger events with links instead of following links
 
-Most Web browsers will open a new tab, when the customer clicks on a link generated in the format `[link text](https://www.example.org)`. Thus, this format is best for sending the customer out of the chat to a separate Web browser tab, e.g. for jumping to a separate Web page with terms and conditions.
+Most Web browsers will open a new tab, when the customer clicks on a link generated with the format `[link text](https://www.example.org)`. Thus, this format is best for sending the customer out of the chat to a separate Web browser tab, e.g. for jumping to a separate Web page with terms and conditions.
 
 However, if you want to trigger some JavaScript written by you on a Web page hosting the LoyJoy Web chat, you can use the following format:
 
