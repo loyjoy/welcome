@@ -36,9 +36,7 @@ The chat emits events for chat events (open, close, sign-up, etc.) that can be r
 <script>
 LoyJoy('boot', {
   bot: BOT_ID,
-  eventListeners: [function (evt, obj) {
-    // e.g. dataLayer.push({ 'evt': evt, 'bot_id': obj && obj.bot_id, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })
-  }],
+  eventListeners: [function (evt, obj) {}],
   process: OPTIONAL_PROCESS_ID,
   serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
