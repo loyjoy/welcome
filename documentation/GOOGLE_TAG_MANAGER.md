@@ -32,7 +32,7 @@ Using the following code to integrate a LoyJoy chat in your site, LoyJoy events 
 LoyJoy('boot', {
   bot: BOT_ID,
   eventListeners: [function (evt, obj) {
-    dataLayer && dataLayer.push({ 'event': 'loyjoy', 'gaEventCategory': 'loyjoy', 'gaEventAction': obj && obj.process_name, 'gaEventLabel': evt })
+    dataLayer && dataLayer.push({ 'evt': evt, 'bot_id': obj && obj.bot_id, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })  
   }],
   process: OPTIONAL_PROCESS_ID,
   serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
