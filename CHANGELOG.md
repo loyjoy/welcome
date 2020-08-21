@@ -7,17 +7,21 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
-- Updated names for sub-processes
-  - Show type and name together
-  
-### Changed
+
+- The home view is now based on widgets, which can be added flexibly:
+  - Widget types to choose from are `hero`, `stories`, `groups`, `notifications`, `roster`. This list will grow in the future.
+  - The widget type `stories` enables you to build AMP stories e.g. with https://makestories.io/ and publish them in the home view.
+  - As customers can jump from stories into experiences, stories are an exciting way to engage your customers to start chats. 
+- Mini-program
+  - Added action to close Mini-Program via API.
 - 🎟️ Coupon Codes
-  - Message if no coupon codes left
-  - Number of uploaded / redeemed coupon codes in analytics
-  - Allow GS-1 Databar Expanded coupon codes
-- Beta-API
-- Mini-Program
-  - Add action to close Mini-Program via API
+  - Message, if no coupon codes left.
+  - Number of uploaded / redeemed coupon codes in analytics.
+  - Allow GS-1 Databar Expanded coupon codes.
+- Updated names for sub-processes
+  - Show both type and name of a process building block together.
+- Beta REST API for reading and writing customer variables and process variables programmatically.
+
 
 ## release-2020-08-10
 
@@ -41,6 +45,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Reward redemption counts in analytics
 - Web service process building block
   - Moved HTTP header authorization details to separate field, which can be configured in the Web service process building block
+
 
 ## release-2020-07-28
 
