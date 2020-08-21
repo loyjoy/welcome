@@ -30,7 +30,7 @@ LoyJoy('boot', {
 
 ## Events
 
-The chat emits events for chat events (open, close, sign-up, etc.) that can be registered for with event listeners. The registration takes place as catch-all or for specific events.
+The chat emits events for chat events (open, close, sign-up, etc.) that can be registered for with event listeners. The registration takes place either as a catch-all ...
 
 ```
 <script>
@@ -43,6 +43,8 @@ LoyJoy('boot', {
 })
 </script>
 ```
+
+... or for specific events:
 
 ```
 <script>
