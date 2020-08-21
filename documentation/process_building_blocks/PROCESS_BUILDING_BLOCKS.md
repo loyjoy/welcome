@@ -72,7 +72,7 @@ Provide a sharing link for your loyalty program. If a new member signs up, the r
 ## Main prize
 Show a main prize. For use in raffles and advent calendars.
 
-## Mini programm
+## Mini program
 This feature allows you to add any existing web application or website into the chat. It will open within the chat window. Via API even data can be exchanged with the external application.
 
 ## Newsletter opt-in
@@ -156,8 +156,8 @@ Add videos to your chat, playing in the chat window.
 ## Web push opt-in
 Collect opt-ins for push notifications and send personalized push messages to your customers. GDPR compliant.
 
-## Web-Service
+## Web service
 Add external web services to exchange information and add rich features to the chat. Ask for our weather API to personalize your experience.
 
-## Welcoming
+## Welcome
 Welcome customers, returning customers and use the customer name anywhere.
