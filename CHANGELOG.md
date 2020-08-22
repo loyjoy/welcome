@@ -21,6 +21,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Allow GS-1 Databar Expanded coupon codes.
 - Updated names for sub-processes
   - Show both type and name of a process building block together.
+- Added copy option for i18n texts to copy texts of an BPMN process from one locale to another.
 - Beta REST API for reading and writing customer variables and process variables programmatically.
 
 
