@@ -73,25 +73,25 @@ To copy the experience of your choice, you must click on the three dots. Then ch
 Then copy the link.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="300"/>
 </p>
 
 Afterward, you have to scroll down and click on "create experience". 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="create_experience.png" alt="Create experience" title="Create experience" width="300"/>
 </p>
 
 Again, scroll down and then paste the copied link. Finally, click on "Paste experience". Immediately you have your own experience. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="300"/>
 </p>
 
 Give the copy a new name so you know which version is the new one.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="300"/>
 </p>
 
 Now you have done it and can start with your copied experience.
@@ -101,7 +101,7 @@ Now you have done it and can start with your copied experience.
 To create your own experience, you must first click on "create experience".
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="create_experience.png" alt="Create new experience" title="create new experience" width="300"/>
 </p>
 
  Then you have to decide whether you want to create an experience all by yourself or whether you want to work with an example. 
