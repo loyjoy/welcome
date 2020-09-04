@@ -303,3 +303,66 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
   <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="300"/>
 </p>
 
+### How to go live
+
+You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
+
+BILD
+
+By clicking on "Open landing page" you can view the chatbot on a landing page. You can also share the link and make it available to your colleagues. 
+
+BILD
+
+Our example could look like this:
+
+BILD
+
+You also can view the chatbot on your smartphone. Just scan the QR code.  
+
+BILD
+
+If you enter the URL of your homepage here, you will see the bot already there.
+
+BILD
+
+When the chatbot is completely finished and you want to add it to the code of your website, you can find the corresponding HTML codes here. 
+All three codes must be used.
+
+BILD
+
+BILD
+
+BILD
+
+BILD
+
+BILD
+
+The chatbot can be used not only on one website but also on various social media channels. 
+To use the chatbot on Instagram, use this link:
+
+BILD
+
+For all other channels contact the LoyJoy Team.
+
+BILD
+
+You have different settings for the chat window and the chat bubble. Here you can see our standard settings:
+
+BILD
+
+You might have noticed in the example that the landing page and the chat bubble is adapted to LoyJoy. You can also do this for your company. Here you can insert a logo, which will be used as a chat bubble:
+
+BILD
+
+The image that you insert here will be your landing page:
+
+BILD
+
+It is also up to you if and how the chat bubble should be animated. These are the different possibilities you have:
+
+BILD
+
+
+
+
