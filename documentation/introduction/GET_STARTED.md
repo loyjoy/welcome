@@ -219,3 +219,59 @@ Then click on the button in the bottom corner.
 Every time you change something and want to see the chatbot afterward, you have to click on refresh preview. If you don't do this, you will always see the old version. 
 
 The chatbot saves automatically! There is no action needed.
+
+### How to adjust the branding
+
+Make your chatbot special by giving it your individual style.
+You can give the chat your own name, attract customers with a slogan, and choose a placeholder for the chat input field. 
+
+BILD
+
+Here are some examples:
+
+BILD
+
+After that, you can add your own logo. 
+
+BILD
+
+BILD
+
+You can also choose the color for the notifications. Choose one that you like or that fits your company.
+
+BILD
+
+BILD
+
+If you wish so, you can use your own CSS template. Please contact the LoyJoy team for further information.
+
+BILD
+
+An email address must be provided so that feedback etc. from the customer can be forwarded to you.
+
+BILD
+
+For bot content where the date is relevant (birthdays, time, etc.), the correct time zone must be set 
+
+BILD
+
+Before a chatbot goes live, an imprint must be added.
+
+BILD
+
+If you want to email through Loyjoy with your own domain, you must fill out this form. 
+Contact the LoyJoy Team beforehand
+
+BILD
+
+There are some phrases to which the chatbot automatically has an answer. But if the customer types something that the bot has no answer to, you can set the automatic answer here.
+It is also possible to have the customer fill out a contact form so that the questions can be answered personally. (Link to NLU)
+
+BILD
+
+Offer persistent quick replies on the bottom of the chat. Your customers can use these to jump into another experience or to a process brick.
+
+BIld
+
+BIld
+
