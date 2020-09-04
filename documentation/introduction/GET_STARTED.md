@@ -41,7 +41,7 @@ Afterward, there will open another page of LoyJoy. Here you must type in your em
 Next, you will get another message which tells you that you have received another email with a magic link. Open this email and click on “Sign in to LoyJoy”
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="300"/>
 </p>
 
 Then you are on our start screen.
@@ -49,14 +49,14 @@ Then you are on our start screen.
 ### How to set up a chatbot from scratch
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="300"/>
 </p>
 
 Now it's up to you whether you want to create a new experience or modify an existing one.
 To discover the existing experience you need to click on the bar.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="which_bot.png" alt="Choose a bot" title="Choose a bot" width="300"/>
 </p>
 
 As you want to start you have different options: You can create your personal experience or you copy an existing experience and change or test it. 
@@ -73,25 +73,25 @@ To copy the experience of your choice, you must click on the three dots. Then ch
 Then copy the link.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Afterward, you have to scroll down and click on "create experience". 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Again, scroll down and then paste the copied link. Finally, click on "Paste experience". Immediately you have your own experience. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Give the copy a new name so you know which version is the new one.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Now you have done it and can start with your copied experience.
@@ -101,17 +101,17 @@ Now you have done it and can start with your copied experience.
 To create your own experience, you must first click on "create experience".
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
  Then you have to decide whether you want to create an experience all by yourself or whether you want to work with an example. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Once you have chosen a template, click on "start now" at the experience of your choice. When you have decided to start over, click on "Custom experience".
@@ -125,95 +125,95 @@ Here you can choose how your flow should look like. On the left side, you can se
 that are available to you. On the right side, you can see how your current flow looks like.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 First, you choose which building block you would like to have in your flow. You then drag it to the right side.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 If you have made a mistake, you can simply drag it back again.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Even a wrong order is no problem. If you want to swap individual building blocks, simply drag them into the correct order. Don't worry, texts that you have already inserted will remain.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Once you have added a process block, you can edit it. To do this, you click on "Close process editor". 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Now you can enter whatever you want in the text fields. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 If you want to add links, smileys, or variables you have to click on the small button at the end of the text field. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 With the first button, you can add links. With the button, you get a template that you have to fill in. In the square brackets is the text that will be displayed by the chatbot. In the round brackets, the link is placed. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 You will not see this link afterward.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 With the second button you can select smileys. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 > If you click on the last button you can add variables. If, for example, a customer has already entered his or her name, it can be used in the greeting
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 To make your flow clearer, you should give the individual building blocks appropriate names. This is especially helpful in the Process editor, because there you don't see the contents, but only the names. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Then click on the button in the bottom corner.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
  This opens your chatbot. 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Every time you change something and want to see the chatbot afterward, you have to click on refresh preview. If you don't do this, you will always see the old version. 
