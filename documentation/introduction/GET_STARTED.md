@@ -226,13 +226,13 @@ Make your chatbot special by giving it your individual style.
 You can give the chat your own name, attract customers with a slogan, and choose a placeholder for the chat input field. 
 
 <p align="center">
-  <img src="branding_header.png" alt="Branding Header" title="Branding Header" width="300"/>
+  <img src="branding_header.png" alt="Branding Header" title="Branding Header" width="500"/>
 </p>
 
 Here are some examples:
 
 <p align="center">
-  <img src="branding_examples.png" alt="Examples for branding" title="Example for branding" width="300"/>
+  <img src="branding_examples.png" alt="Examples for branding" title="Example for branding" width="500"/>
 </p>
 
 After that, you can add your own logo. 
@@ -248,7 +248,7 @@ After that, you can add your own logo.
 You can also choose the color for the notifications. Choose one that you like or that fits your company.
 
 <p align="center">
-  <img src="change_colour.png" alt="Change colour" title="Change colour" width="300"/>
+  <img src="change_colour.png" alt="Change colour" title="Change colour" width="400"/>
 </p>
 
 <p align="center">
@@ -258,45 +258,45 @@ You can also choose the color for the notifications. Choose one that you like or
 If you wish so, you can use your own CSS template. Please contact the LoyJoy team for further information.
 
 <p align="center">
-  <img src="css_template.png" alt="CSS template" title="CSS template" width="300"/>
+  <img src="css_template.png" alt="CSS template" title="CSS template" width="500"/>
 </p>
 
 An email address must be provided so that feedback etc. from the customer can be forwarded to you.
 
 <p align="center">
-  <img src="branding_email.png" alt="email" title="email" width="300"/>
+  <img src="branding_email.png" alt="email" title="email" width="500"/>
 </p>
 
 For chatbot content where the date is relevant (birthdays, time, etc.), the correct time zone must be set 
 
 <p align="center">
-  <img src="timezone.png" alt="Customer timezone" title="Customer timezone" width="300"/>
+  <img src="timezone.png" alt="Customer timezone" title="Customer timezone" width="500"/>
 </p>
 
 Before a chatbot goes live, an imprint must be added.
 
 <p align="center">
-  <img src="imprint.png" alt="imprint" title="Imprint" width="300"/>
+  <img src="imprint.png" alt="imprint" title="Imprint" width="400"/>
 </p>
 
 If you want to email through Loyjoy with your own domain, you must fill out this form. 
 Contact the LoyJoy Team beforehand
 
 <p align="center">
-  <img src="configure_outgoing_emails.png" alt="Configure outgoing emails" title="Configure outgoing emails" width="300"/>
+  <img src="configure_outgoing_emails.png" alt="Configure outgoing emails" title="Configure outgoing emails" width="500"/>
 </p>
 
 There are some phrases to which the chatbot automatically has an answer. But if the customer types something that the bot has no answer to, you can set the automatic answer here.
 It is also possible to have the customer fill out a contact form so that the questions can be answered personally. (Link to NLU)
 
 <p align="center">
-  <img src="reaction_unrecognised_intents.png" alt="Reaction to unrecognised intents" title="Reaction to unrecognised intents" width="300"/>
+  <img src="reaction_unrecognised_intents.png" alt="Reaction to unrecognised intents" title="Reaction to unrecognised intents" width="500"/>
 </p>
 
 Offer persistent quick replies on the bottom of the chat. Your customers can use these to jump into another experience or to a process brick.
 
 <p align="center">
-  <img src="persitent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
+  <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
 </p>
 
 <p align="center">
