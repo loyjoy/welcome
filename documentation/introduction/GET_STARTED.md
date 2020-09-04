@@ -73,7 +73,7 @@ To copy the experience of your choice, you must click on the three dots. Then ch
 Then copy the link.
 
 <p align="center">
-  <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="300"/>
+  <img src="copy_link.png" alt="copy link of existing experience" title="copy link of existing experience" width="500"/>
 </p>
 
 Afterward, you have to scroll down and click on "create experience". 
@@ -85,13 +85,13 @@ Afterward, you have to scroll down and click on "create experience".
 Again, scroll down and then paste the copied link. Finally, click on "Paste experience". Immediately you have your own experience. 
 
 <p align="center">
-  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
+  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="600"/>
 </p>
 
 Give the copy a new name so you know which version is the new one.
 
 <p align="center">
-  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="300"/>
+  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="400"/>
 </p>
 
 Now you have done it and can start with your copied experience.
@@ -107,11 +107,11 @@ To create your own experience, you must first click on "create experience".
  Then you have to decide whether you want to create an experience all by yourself or whether you want to work with an example. 
 
 <p align="center">
-  <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="300"/>
+  <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="400"/>
 </p>
 
 <p align="center">
-  <img src="pick_experience.png" alt="Pick a ready-to-use experience" title="Pick a ready-to-use experience" width="300"/>
+  <img src="pick_experience.png" alt="Pick a ready-to-use experience" title="Pick a ready-to-use experience" width="500"/>
 </p>
 
 Once you have chosen a template, click on "start now" at the experience of your choice. When you have decided to start over, click on "Custom experience".
@@ -125,25 +125,25 @@ Here you can choose how your flow should look like. On the left side, you can se
 that are available to you. On the right side, you can see how your current flow looks like.
 
 <p align="center">
-  <img src="process_editor.png" alt="Process editor" title="Process editor" width="300"/>
+  <img src="process_editor.png" alt="Process editor" title="Process editor" width="500"/>
 </p>
 
 First, you choose which building block you would like to have in your flow. You then drag it to the right side.
 
 <p align="center">
-  <img src="add_to_editor.gif" alt="Add bricks to editor" title="Add bricks to editor" width="300"/>
+  <img src="add_to_editor.gif" alt="Add bricks to editor" title="Add bricks to editor" width="500"/>
 </p>
 
 If you have made a mistake, you can simply drag it back again.
 
 <p align="center">
-  <img src="remove_from_editor.gif" alt="Remove from editor" title="Remove from editor" width="300"/>
+  <img src="remove_from_editor.gif" alt="Remove from editor" title="Remove from editor" width="500"/>
 </p>
 
 Even a wrong order is no problem. If you want to swap individual building blocks, simply drag them into the correct order. Don't worry, texts that you have already inserted will remain.
 
 <p align="center">
-  <img src="change_edit_order.gif" alt="Change order of editor" title="Change order of editor" width="300"/>
+  <img src="change_edit_order.gif" alt="Change order of editor" title="Change order of editor" width="200"/>
 </p>
 
 Once you have added a process block, you can edit it. To do this, you click on "Close process editor". 
