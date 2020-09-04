@@ -67,7 +67,7 @@ If there is already an experience that you like or that you want to change, you 
 To copy the experience of your choice, you must click on the three dots. Then choose "copy experience". 
 
 <p align="center">
-  <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="300"/>
+  <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="500"/>
 </p>
 
 Then copy the link.
@@ -85,7 +85,7 @@ Afterward, you have to scroll down and click on "create experience".
 Again, scroll down and then paste the copied link. Finally, click on "Paste experience". Immediately you have your own experience. 
 
 <p align="center">
-  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="300"/>
+  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
 </p>
 
 Give the copy a new name so you know which version is the new one.
@@ -131,19 +131,19 @@ that are available to you. On the right side, you can see how your current flow 
 First, you choose which building block you would like to have in your flow. You then drag it to the right side.
 
 <p align="center">
-  <img src="add_to_editor.png" alt="Add bricks to editor" title="Add bricks to editor" width="300"/>
+  <img src="add_to_editor.gif" alt="Add bricks to editor" title="Add bricks to editor" width="300"/>
 </p>
 
 If you have made a mistake, you can simply drag it back again.
 
 <p align="center">
-  <img src="remove_from_editor.png" alt="Remove from editor" title="Remove from editor" width="300"/>
+  <img src="remove_from_editor.gif" alt="Remove from editor" title="Remove from editor" width="300"/>
 </p>
 
 Even a wrong order is no problem. If you want to swap individual building blocks, simply drag them into the correct order. Don't worry, texts that you have already inserted will remain.
 
 <p align="center">
-  <img src="change_edit_order.png" alt="Change order of editor" title="Change order of editor" width="300"/>
+  <img src="change_edit_order.gif" alt="Change order of editor" title="Change order of editor" width="300"/>
 </p>
 
 Once you have added a process block, you can edit it. To do this, you click on "Close process editor". 
