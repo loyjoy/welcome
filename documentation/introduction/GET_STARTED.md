@@ -35,7 +35,7 @@ First of all, you get an email with a link from the LoyJoy team. Our System work
 Afterward, there will open another page of LoyJoy. Here you must type in your email address.
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="Sign_in.png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Next, you will get another message which tells you that you have received another email with a magic link. Open this email and click on “Sign in to LoyJoy”
