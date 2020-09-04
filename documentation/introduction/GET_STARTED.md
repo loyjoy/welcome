@@ -29,7 +29,7 @@ Dig deeper into your consumer's experience and track your success. Find out what
 First of all, you get an email with a link from the LoyJoy team. Our System works without a password. Instead of that, you will receive a “Magic Link”. In the email you have received, you must click on “Confirm my account”.
 
 <p align="center">
-  <img src="confirm_account.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="confirm_account.png" alt="How to log in" title="How to log in" width="400"/>
 </p>
 
 Afterward, there will open another page of LoyJoy. Here you must type in your email address.
@@ -41,7 +41,7 @@ Afterward, there will open another page of LoyJoy. Here you must type in your em
 Next, you will get another message which tells you that you have received another email with a magic link. Open this email and click on “Sign in to LoyJoy”
 
 <p align="center">
-  <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="300"/>
+  <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="400"/>
 </p>
 
 Then you are on our start screen.
@@ -49,7 +49,7 @@ Then you are on our start screen.
 ### How to set up a chatbot from scratch
 
 <p align="center">
-  <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="600"/>
+  <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="500"/>
 </p>
 
 Now it's up to you whether you want to create a new experience or modify an existing one.
@@ -67,7 +67,7 @@ If there is already an experience that you like or that you want to change, you 
 To copy the experience of your choice, you must click on the three dots. Then choose "copy experience". 
 
 <p align="center">
-  <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="600"/>
+  <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="300"/>
 </p>
 
 Then copy the link.
@@ -201,19 +201,19 @@ To make your flow clearer, you should give the individual building blocks approp
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="300"/>
 </p>
 
 Then click on the button in the bottom corner.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="300"/>
 </p>
 
  This opens your chatbot. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="first_flow.png" alt="First flow example" title="First flow example" width="300"/>
 </p>
 
 Every time you change something and want to see the chatbot afterward, you have to click on refresh preview. If you don't do this, you will always see the old version. 
