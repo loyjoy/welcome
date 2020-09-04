@@ -143,53 +143,53 @@ If you have made a mistake, you can simply drag it back again.
 Even a wrong order is no problem. If you want to swap individual building blocks, simply drag them into the correct order. Don't worry, texts that you have already inserted will remain.
 
 <p align="center">
-  <img src="change_edit_order.gif" alt="Change order of editor" title="Change order of editor" width="200"/>
+  <img src="change_edit_order.gif" alt="Change order of editor" title="Change order of editor" width="100"/>
 </p>
 
 Once you have added a process block, you can edit it. To do this, you click on "Close process editor". 
 
 <p align="center">
-  <img src="close_editor.png" alt="CLose process editor" title="Close process editor" width="300"/>
+  <img src="close_editor.png" alt="CLose process editor" title="Close process editor" width="500"/>
 </p>
 
 Now you can enter whatever you want in the text fields. 
 
 <p align="center">
-  <img src="choose_message.png" alt="Choose message" title="Choose message" width="300"/>
+  <img src="choose_message.png" alt="Choose message" title="Choose message" width="500"/>
 </p>
 
 If you want to add links, smileys, or variables you have to click on the small button at the end of the text field. 
 
 <p align="center">
-  <img src="links_smileys_variables.png" alt="Add links, smileys or variables" title="Add links, smileys or variables" width="300"/>
+  <img src="links_smileys_variables.png" alt="Add links, smileys or variables" title="Add links, smileys or variables" width="500"/>
 </p>
 
 With the first button, you can add links. With the button, you get a template that you have to fill in. In the square brackets is the text that will be displayed by the chatbot. In the round brackets, the link is placed. 
 
 <p align="center">
-  <img src="explanation_link.png" alt="Explanation link" title="Explanation link" width="300"/>
+  <img src="explanation_link.png" alt="Explanation link" title="Explanation link" width="500"/>
 </p>
 
 You will not see this link afterward.
 
 <p align="center">
-  <img src="link_example.png" alt="Example of using links" title="Example of using links" width="300"/>
+  <img src="link_example.png" alt="Example of using links" title="Example of using links" width="500"/>
 </p>
 
 <p align="center">
-  <img src="link_example_flow.png" alt="Example of using links" title="Example of using links" width="300"/>
+  <img src="link_example_flow.png" alt="Example of using links" title="Example of using links" width="400"/>
 </p>
 
 With the second button you can select smileys. 
 
 <p align="center">
-  <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="300"/>
+  <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="500"/>
 </p>
 
 > If you click on the last button you can add variables. If, for example, a customer has already entered his or her name, it can be used in the greeting
 
 <p align="center">
-  <img src="explain_variables.png" alt="Explain variables" title="Explain variables" width="300"/>
+  <img src="explain_variables.png" alt="Explain variables" title="Explain variables" width="500"/>
 </p>
 
 To make your flow clearer, you should give the individual building blocks appropriate names. This is especially helpful in the Process editor, because there you don't see the contents, but only the names. 
@@ -201,13 +201,13 @@ To make your flow clearer, you should give the individual building blocks approp
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
 
 <p align="center">
-  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="300"/>
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="400"/>
 </p>
 
 Then click on the button in the bottom corner.
 
 <p align="center">
-  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="300"/>
+  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="200"/>
 </p>
 
  This opens your chatbot. 
