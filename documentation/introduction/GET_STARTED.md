@@ -131,71 +131,71 @@ that are available to you. On the right side, you can see how your current flow 
 First, you choose which building block you would like to have in your flow. You then drag it to the right side.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="add_to_editor.png" alt="Add bricks to editor" title="Add bricks to editor" width="300"/>
 </p>
 
 If you have made a mistake, you can simply drag it back again.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="remove_from_editor.png" alt="Remove from editor" title="Remove from editor" width="300"/>
 </p>
 
 Even a wrong order is no problem. If you want to swap individual building blocks, simply drag them into the correct order. Don't worry, texts that you have already inserted will remain.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="change_edit_order.png" alt="Change order of editor" title="Change order of editor" width="300"/>
 </p>
 
 Once you have added a process block, you can edit it. To do this, you click on "Close process editor". 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="close_editor.png" alt="CLose process editor" title="Close process editor" width="300"/>
 </p>
 
 Now you can enter whatever you want in the text fields. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="choose_message.png" alt="Choose message" title="Choose message" width="300"/>
 </p>
 
 If you want to add links, smileys, or variables you have to click on the small button at the end of the text field. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="links_smileys_variables.png" alt="Add links, smileys or variables" title="Add links, smileys or variables" width="300"/>
 </p>
 
 With the first button, you can add links. With the button, you get a template that you have to fill in. In the square brackets is the text that will be displayed by the chatbot. In the round brackets, the link is placed. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="explanation_link.png" alt="Explanation link" title="Explanation link" width="300"/>
 </p>
 
 You will not see this link afterward.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="link_example.png" alt="Example of using links" title="Example of using links" width="300"/>
 </p>
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="link_example_flow.png" alt="Example of using links" title="Example of using links" width="300"/>
 </p>
 
 With the second button you can select smileys. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="300"/>
 </p>
 
 > If you click on the last button you can add variables. If, for example, a customer has already entered his or her name, it can be used in the greeting
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="explain_variables.png" alt="Explain variables" title="Explain variables" width="300"/>
 </p>
 
 To make your flow clearer, you should give the individual building blocks appropriate names. This is especially helpful in the Process editor, because there you don't see the contents, but only the names. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="name_bricks.png" alt="Give bricks a name" title="Give bricks a name" width="300"/>
 </p>
 
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
