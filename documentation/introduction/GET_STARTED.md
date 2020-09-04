@@ -125,7 +125,7 @@ Here you can choose how your flow should look like. On the left side, you can se
 that are available to you. On the right side, you can see how your current flow looks like.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="process_editor.png" alt="Process editor" title="Process editor" width="300"/>
 </p>
 
 First, you choose which building block you would like to have in your flow. You then drag it to the right side.
