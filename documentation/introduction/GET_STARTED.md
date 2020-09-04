@@ -67,7 +67,7 @@ If there is already an experience that you like or that you want to change, you 
 To copy the experience of your choice, you must click on the three dots. Then choose "copy experience". 
 
 <p align="center">
-  <img src="sign_in.png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="introduction/sign_in.png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Then copy the link.
