@@ -47,7 +47,7 @@ Cool! :tada: You just created your postal address transfer in the LoyJoy chat. O
 
 ## 4. Configure the data transfer
 
-You completed all the configurations within the chat. Now you have to set up the data transfer.
+You've completed all the configurations within the chat. Now you have to set up the data transfer.
 
 On the LoyJoy platform, go to settings, then choose integration. Choose ProCampaign and click on "Add now".
 
