@@ -201,19 +201,19 @@ To make your flow clearer, you should give the individual building blocks approp
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="300"/>
 </p>
 
 Then click on the button in the bottom corner.
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="300"/>
 </p>
 
  This opens your chatbot. 
 
 <p align="center">
-  <img src=".png" alt="How to log in" title="How to log in" width="300"/>
+  <img src="first_flow.png" alt="First flow example" title="First flow example" width="300"/>
 </p>
 
 Every time you change something and want to see the chatbot afterward, you have to click on refresh preview. If you don't do this, you will always see the old version. 
