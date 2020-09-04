@@ -307,61 +307,89 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
 
 You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
 
-BILD
+<p align="center">
+  <img src="publish_first_page.png" alt="" title="" width="300"/>
+</p>
 
 By clicking on "Open landing page" you can view the chatbot on a landing page. You can also share the link and make it available to your colleagues. 
 
-BILD
+<p align="center">
+  <img src="share_landing_page.png" alt="" title="" width="300"/>
+</p>
 
 Our example could look like this:
 
-BILD
+<p align="center">
+  <img src="example_landing_page.png" alt="" title="" width="300"/>
+</p>
 
 You also can view the chatbot on your smartphone. Just scan the QR code.  
 
-BILD
+<p align="center">
+  <img src="view_on_mobile.png" alt="" title="" width="300"/>
+</p>
 
 If you enter the URL of your homepage here, you will see the bot already there.
 
-BILD
+<p align="center">
+  <img src="test_on_website.png" alt="" title="" width="300"/>
+</p>
 
 When the chatbot is completely finished and you want to add it to the code of your website, you can find the corresponding HTML codes here. 
 All three codes must be used.
 
-BILD
+<p align="center">
+  <img src="html_website.png" alt="" title="" width="300"/>
+</p>
 
-BILD
+<p align="center">
+  <img src="html_chat_script.png" alt="" title="" width="300"/>
+</p>
 
-BILD
+<p align="center">
+  <img src="html_button_script.png" alt="" title="" width="300"/>
+</p>
 
-BILD
-
-BILD
+<p align="center">
+  <img src="html_button_button.png" alt="" title="" width="300"/>
+</p>
 
 The chatbot can be used not only on one website but also on various social media channels. 
 To use the chatbot on Instagram, use this link:
 
-BILD
+<p align="center">
+  <img src="instagram.png" alt="" title="" width="300"/>
+</p>
 
 For all other channels contact the LoyJoy Team.
 
-BILD
+<p align="center">
+  <img src="social_media.png" alt="" title="" width="300"/>
+</p>
 
 You have different settings for the chat window and the chat bubble. Here you can see our standard settings:
 
-BILD
+<p align="center">
+  <img src="standard_settings.png" alt="" title="" width="300"/>
+</p>
 
 You might have noticed in the example that the landing page and the chat bubble is adapted to LoyJoy. You can also do this for your company. Here you can insert a logo, which will be used as a chat bubble:
 
-BILD
+<p align="center">
+  <img src="image_chat_bubble.png" alt="" title="" width="300"/>
+</p>
 
 The image that you insert here will be your landing page:
 
-BILD
+<p align="center">
+  <img src="add_landing_page.png" alt="" title="" width="300"/>
+</p>
 
 It is also up to you if and how the chat bubble should be animated. These are the different possibilities you have:
 
-BILD
+<p align="center">
+  <img src="animation.gif" alt="" title="" width="300"/>
+</p>
 
 
 
