@@ -308,87 +308,87 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
 You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
 
 <p align="center">
-  <img src="publish_first_page.png" alt="" title="" width="300"/>
+  <img src="publish_first_page.png" alt="First page publish" title="First page publish" width="500"/>
 </p>
 
 By clicking on "Open landing page" you can view the chatbot on a landing page. You can also share the link and make it available to your colleagues. 
 
 <p align="center">
-  <img src="share_landing_page.png" alt="" title="" width="300"/>
+  <img src="share_landing_page.png" alt="Share landing page" title="Share landing page" width="500"/>
 </p>
 
 Our example could look like this:
 
 <p align="center">
-  <img src="example_landing_page.png" alt="" title="" width="300"/>
+  <img src="example_landing_page.png" alt="Example for landing page" title="Example for landing page" width="400"/>
 </p>
 
 You also can view the chatbot on your smartphone. Just scan the QR code.  
 
 <p align="center">
-  <img src="view_on_mobile.png" alt="" title="" width="300"/>
+  <img src="view_on_mobile.png" alt="Test version mobile" title="Test version mobile" width="400"/>
 </p>
 
 If you enter the URL of your homepage here, you will see the bot already there.
 
 <p align="center">
-  <img src="test_on_website.png" alt="" title="" width="300"/>
+  <img src="test_on_website.png" alt="Test version website" title="Test version website" width="500"/>
 </p>
 
 When the chatbot is completely finished and you want to add it to the code of your website, you can find the corresponding HTML codes here. 
 All three codes must be used.
 
 <p align="center">
-  <img src="html_website.png" alt="" title="" width="300"/>
+  <img src="html_website.png" alt="HTML Website" title="HTML Website" width="300"/>
 </p>
 
 <p align="center">
-  <img src="html_chat_script.png" alt="" title="" width="300"/>
+  <img src="html_chat_script.png" alt="HTML Chat" title="HTML Chat" width="300"/>
 </p>
 
 <p align="center">
-  <img src="html_button_script.png" alt="" title="" width="300"/>
+  <img src="html_button_script.png" alt="HTML Button" title="HTML Button" width="300"/>
 </p>
 
 <p align="center">
-  <img src="html_button_button.png" alt="" title="" width="300"/>
+  <img src="html_button_button.png" alt="HTML Button" title="HTML Button" width="300"/>
 </p>
 
 The chatbot can be used not only on one website but also on various social media channels. 
 To use the chatbot on Instagram, use this link:
 
 <p align="center">
-  <img src="instagram.png" alt="" title="" width="300"/>
+  <img src="instagram.png" alt="Instagram" title="Instagram" width="400"/>
 </p>
 
 For all other channels contact the LoyJoy Team.
 
 <p align="center">
-  <img src="social_media.png" alt="" title="" width="300"/>
+  <img src="social_media.png" alt="Social Media" title="Social Media" width="500"/>
 </p>
 
 You have different settings for the chat window and the chat bubble. Here you can see our standard settings:
 
 <p align="center">
-  <img src="standard_settings.png" alt="" title="" width="300"/>
+  <img src="standard_settings.png" alt="Standard settings" title="Standard settings" width="500"/>
 </p>
 
 You might have noticed in the example that the landing page and the chat bubble is adapted to LoyJoy. You can also do this for your company. Here you can insert a logo, which will be used as a chat bubble:
 
 <p align="center">
-  <img src="image_chat_bubble.png" alt="" title="" width="300"/>
+  <img src="image_chat_bubble.png" alt="Chat bubble" title="Chat bubble" width="400"/>
 </p>
 
 The image that you insert here will be your landing page:
 
 <p align="center">
-  <img src="add_landing_page.png" alt="" title="" width="300"/>
+  <img src="add_landing_page.png" alt="Add landing page" title="Add landing page" width="400"/>
 </p>
 
 It is also up to you if and how the chat bubble should be animated. These are the different possibilities you have:
 
 <p align="center">
-  <img src="animation.gif" alt="" title="" width="300"/>
+  <img src="animation.gif" alt="Animation" title="Animation" width="500"/>
 </p>
 
 
