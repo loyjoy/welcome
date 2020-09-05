@@ -25,7 +25,7 @@ Use your individual landing page to test and discover your options to publish yo
 Dig deeper into your consumer's experience and track your success. Find out what your consumers have to say.
 
 ### How to log in
-<a name="howToLogin"/a>
+<a id="howToLogin"/a>
 
 First of all, you get an email with a link from the LoyJoy team. Our System works without a password. Instead of that, you will receive a “Magic Link”. In the email you have received, you must click on “Confirm my account”.
 
