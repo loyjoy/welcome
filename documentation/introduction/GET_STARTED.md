@@ -283,7 +283,7 @@ It is also possible to have the customer fill out a contact form so that the que
 
 Offer persistent quick replies on the bottom of the chat. Your customers can use these to jump into another experience or to a process brick.
 
-<p align="left">
+<p align="center">
   <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
   <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="300"/>
 </p>
@@ -305,7 +305,7 @@ By clicking on "Open landing page" you can view the chatbot on a landing page. Y
 Our example could look like this:
 
 <p align="center">
-  <img src="example_landing_page.png" alt="Example for landing page" title="Example for landing page" width="300"/>
+  <img src="example_landing_page.png" alt="Example for landing page" title="Example for landing page" width="500"/>
 </p>
 
 You also can view the chatbot on your smartphone. Just scan the QR code.  
@@ -317,7 +317,7 @@ You also can view the chatbot on your smartphone. Just scan the QR code.
 If you enter the URL of your homepage here, you will see the bot already there.
 
 <p align="center">
-  <img src="test_on_website.png" alt="Test version website" title="Test version website" width="500"/>
+  <img src="test_on_website.png" alt="Test version website" title="Test version website" width="300"/>
 </p>
 
 When the chatbot is completely finished and you want to add it to the code of your website, you can find the corresponding HTML codes here. 
@@ -325,17 +325,8 @@ All three codes must be used.
 
 <p align="center">
   <img src="html_website.png" alt="HTML Website" title="HTML Website" width="300"/>
-</p>
-
-<p align="center">
   <img src="html_chat_script.png" alt="HTML Chat" title="HTML Chat" width="300"/>
-</p>
-
-<p align="center">
   <img src="html_button_script.png" alt="HTML Button" title="HTML Button" width="300"/>
-</p>
-
-<p align="center">
   <img src="html_button_button.png" alt="HTML Button" title="HTML Button" width="300"/>
 </p>
 
