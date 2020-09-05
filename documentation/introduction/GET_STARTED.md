@@ -369,9 +369,14 @@ It is also up to you if and how the chat bubble should be animated. These are th
 
 ### How to measure success
 
-With the chatbot, you also hope of course that you can learn more about your customers. Under the point "Analytics" this is easily possible. General information 
-such as the screen time, participants, and newsletter subscribers can be found here. But also in which language your chatbot is used, at which time most customers 
-use the offer, or how many customers have logged in with a code can be found under "Analytics".
+With the chatbot, you also hope of course that you can learn more about your customers. Under the point "Analytics" this is easily possible.
+
+<p align="center">
+  <img src="anayltics.png" alt="Analytics Start" title="Analytics Start" width="400"/>
+</p>
+
+General information such as the screen time, participants, and newsletter subscribers can be found here. But also in which language your chatbot is used, at which 
+time most customers use the offer, or how many customers have logged in with a code can be found under "Analytics".
 
 
 
