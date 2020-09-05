@@ -106,12 +106,9 @@ To create your own experience, you must first click on "create experience".
 
  Then you have to decide whether you want to create an experience all by yourself or whether you want to work with an example. 
 
-<p align="center">
+<p align="left">
   <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="400"/>
-</p>
-
-<p align="center">
-  <img src="pick_experience.png" alt="Pick a ready-to-use experience" title="Pick a ready-to-use experience" width="500"/>
+ <img src="pick_experience.png" alt="Pick a ready-to-use experience" title="Pick a ready-to-use experience" width="500"/>
 </p>
 
 Once you have chosen a template, click on "start now" at the experience of your choice. When you have decided to start over, click on "Custom experience".
