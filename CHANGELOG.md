@@ -8,7 +8,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 
-## release-2020-09-05
+## release-2020-09-07
 
 ### Added
 
