@@ -4,7 +4,7 @@ Welcome to the LoyJoy Conversation Marketing Cloud! We are excited to have you o
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
-## How to log in
+## [How to log in](howToLogin)
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
@@ -25,6 +25,7 @@ Use your individual landing page to test and discover your options to publish yo
 Dig deeper into your consumer's experience and track your success. Find out what your consumers have to say.
 
 ### How to log in
+<a name="howToLogin"/a>
 
 First of all, you get an email with a link from the LoyJoy team. Our System works without a password. Instead of that, you will receive a “Magic Link”. In the email you have received, you must click on “Confirm my account”.
 
