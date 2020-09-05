@@ -14,8 +14,8 @@ Find out how you will grant access to the LoyJoy platform, why we do not use pas
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
 ## How to adjust the branding
-
-Brand your chatbot, add a logo and define the chat style.
+[https://github.com/loyjoy/welcome/blob/master/documentation/introduction/GET_STARTED.md#how-to-adjust-the-branding-1
+Brand your chatbot, add a logo and define the chat style.] (#How-to-adjust-the-branding)
 
 ## How to go live
 
