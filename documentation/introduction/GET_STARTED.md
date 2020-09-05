@@ -12,7 +12,7 @@ Find out how you will grant access to the LoyJoy platform, why we do not use pas
 
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
-## How to adjust the branding
+## [How to adjust the branding](#test)
 
 Brand your chatbot, add a logo and define the chat style.
 
@@ -215,7 +215,7 @@ Every time you change something and want to see the chatbot afterward, you have 
 The chatbot saves automatically! There is no action needed.
 
 ### How to adjust the branding
-
+<a name="test" id="test"/a>
 Make your chatbot special by giving it your individual style.
 You can give the chat your own name, attract customers with a slogan, and choose a placeholder for the chat input field. 
 
