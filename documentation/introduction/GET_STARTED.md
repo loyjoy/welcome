@@ -20,7 +20,7 @@ Brand your chatbot, add a logo and define the chat style.
 
 Use your individual landing page to test and discover your options to publish your chatbot.
 
-## How to measure success
+## [How to measure success](#how-to-measure-success-1)
 
 Dig deeper into your consumer's experience and track your success. Find out what your consumers have to say.
 
@@ -366,6 +366,13 @@ It is also up to you if and how the chat bubble should be animated. These are th
 <p align="center">
   <img src="animation.gif" alt="Animation" title="Animation" width="500"/>
 </p>
+
+### How to measure success
+
+With the chatbot, you also hope of course that you can learn more about your customers. Under the point "Analytics" this is easily possible. General information 
+such as the screen time, participants, and newsletter subscribers can be found here. But also in which language your chatbot is used, at which time most customers 
+use the offer, or how many customers have logged in with a code can be found under "Analytics".
+
 
 
 
