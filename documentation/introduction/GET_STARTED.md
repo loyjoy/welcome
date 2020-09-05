@@ -5,7 +5,6 @@ Welcome to the LoyJoy Conversation Marketing Cloud! We are excited to have you o
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
 ## How to log in
-[https://github.com/loyjoy/welcome/blob/master/documentation/introduction/GET_STARTED.md#how-to-log-in] (#How-to-log-in)
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
@@ -14,8 +13,8 @@ Find out how you will grant access to the LoyJoy platform, why we do not use pas
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
 ## How to adjust the branding
-[https://github.com/loyjoy/welcome/blob/master/documentation/introduction/GET_STARTED.md#how-to-adjust-the-branding-1
-Brand your chatbot, add a logo and define the chat style.] (#How-to-adjust-the-branding)
+
+Brand your chatbot, add a logo and define the chat style.
 
 ## How to go live
 
