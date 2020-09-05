@@ -372,7 +372,7 @@ It is also up to you if and how the chat bubble should be animated. These are th
 With the chatbot, you also hope of course that you can learn more about your customers. Under the point "Analytics" this is easily possible.
 
 <p align="center">
-  <img src="analytics.png" alt="Analytics Start" title="Analytics Start" width="400"/>
+  <img src="analytics.png" alt="Analytics Start" title="Analytics Start" width="200"/>
 </p>
 
 General information such as the screen time, participants, and newsletter subscribers can be found here. But also in which language your chatbot is used, at which 
