@@ -8,6 +8,16 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 
+## release-2020-09-05
+
+### Added
+
+- Complete switch to NoSQL database repositories for scalability.
+- Timers are checked on all experiences, not only default experiences.
+- Support for Google Data Studio.
+- Extended customer cleansing logic.
+
+
 ## release-2020-08-26
 
 ### Added
