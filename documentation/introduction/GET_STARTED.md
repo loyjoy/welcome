@@ -8,7 +8,7 @@ This article will guide you through your very first access to the LoyJoy platfor
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
-## [How to set up a chatbot from scratch](#how-to-set-up-a-chatbot-from-scratch)
+### [How to set up a chatbot from scratch](#how-to-set-up-a-chatbot-from-scratch)
 
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
@@ -46,7 +46,7 @@ Next, you will get another message which tells you that you have received anothe
 
 Then you are on our start screen.
 
-### How to set up a chatbot from scratch
+## How to set up a chatbot from scratch
 
 <p align="center">
   <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="500"/>
