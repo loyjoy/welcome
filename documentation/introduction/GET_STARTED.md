@@ -299,7 +299,7 @@ You are done with your chatbot and want to show it to your colleagues? Or you wa
 By clicking on "Open landing page" you can view the chatbot on a landing page. You can also share the link and make it available to your colleagues. 
 
 <p align="center">
-  <img src="share_landing_page.png" alt="Share landing page" title="Share landing page" width="500"/>
+  <img src="share_landing_page.png" alt="Share landing page" title="Share landing page" width="300"/>
 </p>
 
 Our example could look like this:
