@@ -4,7 +4,7 @@ Welcome to the LoyJoy Conversation Marketing Cloud! We are excited to have you o
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
-## [How to log in](#how-to-log-in)
+## [How to log in](#how-to-log-in-1)
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
@@ -12,11 +12,11 @@ Find out how you will grant access to the LoyJoy platform, why we do not use pas
 
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
-## [How to adjust the branding](#test)
+## [How to adjust the branding](#how-to-adjust-the-branding-1)
 
 Brand your chatbot, add a logo and define the chat style.
 
-## How to go live
+## [How to go live](#how-to-go-live-1)
 
 Use your individual landing page to test and discover your options to publish your chatbot.
 
@@ -215,7 +215,7 @@ Every time you change something and want to see the chatbot afterward, you have 
 The chatbot saves automatically! There is no action needed.
 
 ### How to adjust the branding
-<a name="test" id="test"/a>
+
 Make your chatbot special by giving it your individual style.
 You can give the chat your own name, attract customers with a slogan, and choose a placeholder for the chat input field. 
 
