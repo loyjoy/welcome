@@ -231,21 +231,15 @@ Here are some examples:
 
 After that, you can add your own logo. 
 
-<p align="center">
+<p align="left">
   <img src="upload_logo.png" alt="Upload logo" title="Upload logo" width="300"/>
-</p>
-
-<p align="center">
   <img src="branding_example_logo.png" alt="Example logo" title="Example logo" width="300"/>
 </p>
 
 You can also choose the color for the notifications. Choose one that you like or that fits your company.
 
-<p align="center">
+<p align="left">
   <img src="change_colour.png" alt="Change colour" title="Change colour" width="400"/>
-</p>
-
-<p align="center">
   <img src="colour_change_example.png" alt="Example change of colour" title="Example change of colour" width="300"/>
 </p>
 
