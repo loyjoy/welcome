@@ -304,22 +304,30 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
 For you, it is of course important that you can build the chatbot in your language. To do this, click on "Language" and then select your language. Please also 
 create the chatbot in English so that we can help you with questions and problems.
 
-BILD
+<p align="center">
+  <img src="select_language.png" alt="Select language" title="Select language" width="500"/>
+</p>
 
 You can choose as many languages as you like. When you go back to the editor, you will see that there is a field for each selected language. 
 Now enter your default language.
 
-BILD
-BILD
+<p align="center">
+  <img src="language_example.png" alt="Language example" title="Language example" width="400"/>
+  <img src="language_example_text.png" alt="Language example text" title="Language example text" width="400"/>
+</p>
 
 If you want, you can have the text translated automatically. But check afterward if everything is correct.
 
-BIld
+<p align="center">
+  <img src="language_translate.png" alt="Language translate" title="Language translate" width="400"/>
+</p>
 
 If you have swapped the fields, you can use this function to switch the languages. So if you have entered the German text in the Fled for English, you can have it
 changed automatically here.
 
-BILD
+<p align="center">
+  <img src="copy_language.png" alt="Copy language" title="Copy language" width="400"/>
+</p>
 
 ### Manage
 
@@ -335,7 +343,11 @@ BILD
 
 ### Texts
 
+Here you find a list with all your contents
 
+<p align="center">
+  <img src="text.png" alt="text" title="text" width="500"/>
+</p>
 
 ## How to go live
 
