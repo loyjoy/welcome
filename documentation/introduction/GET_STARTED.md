@@ -16,6 +16,10 @@ Discover the Chat Editor and how you can edit the wording and the chat process f
 
 Brand your chatbot, add a logo and define the chat style.
 
+## [How to manage content](#how-to-manage-content-1)
+
+Upload your assets, edit your texts and export your giveaway winners easily.
+
 ## [How to go live](#how-to-go-live-1)
 
 Use your individual landing page to test and discover your options to publish your chatbot.
