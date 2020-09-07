@@ -9,7 +9,7 @@ Welcome to the LoyJoy Conversation Marketing Cloud! We are excited to have you o
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
-### [How to log in](#how-to-log-in)
+### [How to log in](#how-to-log-in-1)
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
