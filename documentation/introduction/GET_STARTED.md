@@ -299,6 +299,44 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
 
 ## How to manage content
 
+### Language
+
+For you, it is of course important that you can build the chatbot in your language. To do this, click on "Language" and then select your language. Please also 
+create the chatbot in English so that we can help you with questions and problems.
+
+BILD
+
+You can choose as many languages as you like. When you go back to the editor, you will see that there is a field for each selected language. 
+Now enter your default language.
+
+BILD
+BILD
+
+If you want, you can have the text translated automatically. But check afterward if everything is correct.
+
+BIld
+
+If you have swapped the fields, you can use this function to switch the languages. So if you have entered the German text in the Fled for English, you can have it
+changed automatically here.
+
+BILD
+
+### Manage
+
+If you have integrated a raffle or giveaway, you can see the participants here and draw the winner.
+
+BILD
+
+### Assets
+
+Here you find an overview of all used pictures and videos.
+
+BILD
+
+### Texts
+
+
+
 ## How to go live
 
 You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
