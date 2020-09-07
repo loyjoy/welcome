@@ -6,6 +6,7 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 
 | Documentation                                                                         |                                                  |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [How to get started with LoyJoy](documentation/introduction/GET_STARTED.md)           | Begin your journey with the Conversational Marketing Cloud      |
 | [ChangeLog](CHANGELOG.md)                                                             | Changes and version history.                     |
 | [Process Building Blocks](documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md)| Discover the LoyJoy process building blocks |
 | [JavaScript API](documentation/JAVASCRIPT_API.md)                                     | JavaScript API documentation.                    |
@@ -16,3 +17,5 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 | [ProCampaign Integration](documentation/pro_campaign/OVERVIEW.md)                     | ProCampaign integration.                         |
 | [A/B Test](documentation/DYNAMIC_LANDING_PAGE.md)                                     | Start different chats on one landing page.       |
 | [Markdown](documentation/MARKDOWN.md)                                                 | Use Markdown to add links to text messages.      |
+
+https://github.com/loyjoy/welcome/blob/master/documentation/introduction/GET_STARTED.md#how-to-set-up-a-chatbot-from-scratch-1
