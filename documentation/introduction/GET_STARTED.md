@@ -297,6 +297,8 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
   <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="300"/>
 </p>
 
+## How to manage content
+
 ## How to go live
 
 You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
