@@ -18,4 +18,3 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 | [A/B Test](documentation/DYNAMIC_LANDING_PAGE.md)                                     | Start different chats on one landing page.       |
 | [Markdown](documentation/MARKDOWN.md)                                                 | Use Markdown to add links to text messages.      |
 
-https://github.com/loyjoy/welcome/blob/master/documentation/introduction/GET_STARTED.md#how-to-set-up-a-chatbot-from-scratch-1
