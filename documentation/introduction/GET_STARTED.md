@@ -384,10 +384,24 @@ With the chatbot, you also hope of course that you can learn more about your cus
   <img src="analytics.png" alt="Analytics Start" title="Analytics Start" width="200"/>
 </p>
 
-General information such as the screen time, participants, and newsletter subscribers can be found here. But also in which language your chatbot is used, at which 
+General information such as the screen time, participants, and newsletter subscribers can be found here.
+
+<p align="center">
+  <img src="frontpage.png" alt="Analytics Frontpage 1" title="Analytics Frontpage 1" width="200"/>
+  <img src="frontpage_.png" alt="Analytics Frontpage 2" title="Analytics Frontpage 2" width="200"/>
+</p>
+
+But also in which language your chatbot is used, at which 
 time most customers use the offer, or how many customers have logged in with a code can be found under "Analytics".
 
-
+<p align="center">
+  <img src="customers_language.png" alt="Customers per language" title="Customers per language" width="200"/>
+  <img src="customers_per_time.png" alt="Customers per time" title="Customers per time" width="200"/>
+  <img src="funnel.png" alt="Funnel" title="Funnel" width="200"/>
+  <img src="log_in_attemps.png" alt="Log-in attemps with code" title="Log-in attemps with code" width="200"/>
+  <img src="over_time.png" alt="Over time" title="Over time" width="200"/>
+  <img src="over_time_cum.png" alt="Over time cumulated" title="Over time cumulated" width="200"/>
+</p>
 
 
 
