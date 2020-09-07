@@ -346,7 +346,7 @@ Here you find an overview of all used pictures and videos.
 Here you find a list with all your contents
 
 <p align="center">
-  <img src="text.png" alt="text" title="text" width="500"/>
+  <img src="texts.png" alt="text" title="text" width="500"/>
 </p>
 
 ## How to go live
