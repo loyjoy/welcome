@@ -9,31 +9,31 @@ Welcome to the LoyJoy Conversation Marketing Cloud! We are excited to have you o
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
-## [How to log in](#how-to-log-in-1)
+### [How to log in](#how-to-log-in)
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
-## [How to set up a chatbot from scratch](#how-to-set-up-a-chatbot-from-scratch-1)
+### [How to set up a chatbot from scratch](#how-to-set-up-a-chatbot-from-scratch)
 
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
-## [How to adjust the branding](#how-to-adjust-the-branding-1)
+### [How to adjust the branding](#how-to-adjust-the-branding)
 
 Brand your chatbot, add a logo and define the chat style.
 
-## [How to manage content](#how-to-manage-content-1)
+### [How to manage content](#how-to-manage-content)
 
 Upload your assets, edit your texts and export your giveaway winners easily.
 
-## [How to go live](#how-to-go-live-1)
+### [How to go live](#how-to-go-live)
 
 Use your individual landing page to test and discover your options to publish your chatbot.
 
-## [How to measure success](#how-to-measure-success-1)
+### [How to measure success](#how-to-measure-success)
 
 Dig deeper into your consumer's experience and track your success. Find out what your consumers have to say.
 
-### How to log in
+## How to log in
 
 First of all, you get an email with a link from the LoyJoy team. Our System works without a password. Instead of that, you will receive a “Magic Link”. In the email you have received, you must click on “Confirm my account”.
 
@@ -55,7 +55,7 @@ Next, you will get another message which tells you that you have received anothe
 
 Then you are on our start screen.
 
-### How to set up a chatbot from scratch
+## How to set up a chatbot from scratch
 
 <p align="center">
   <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="500"/>
@@ -223,7 +223,7 @@ Every time you change something and want to see the chatbot afterward, you have 
 
 The chatbot saves automatically! There is no action needed.
 
-### How to adjust the branding
+## How to adjust the branding
 
 Make your chatbot special by giving it your individual style.
 You can give the chat your own name, attract customers with a slogan, and choose a placeholder for the chat input field. 
@@ -297,7 +297,7 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
   <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="300"/>
 </p>
 
-### How to go live
+## How to go live
 
 You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
 
