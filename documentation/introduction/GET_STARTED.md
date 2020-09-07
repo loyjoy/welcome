@@ -333,13 +333,13 @@ changed automatically here.
 
 If you have integrated a raffle or giveaway, you can see the participants here and draw the winner.
 
-BILD
-
 ### Assets
 
 Here you find an overview of all used pictures and videos.
 
-BILD
+<p align="center">
+  <img src="assets.png" alt="Assets" title="Assets" width="400"/>
+</p>
 
 ### Texts
 
