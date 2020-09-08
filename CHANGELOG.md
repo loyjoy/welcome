@@ -16,6 +16,8 @@ All notable changes to LoyJoy will be documented in this file.
 - Timers are evaluated on all experiences, not only on default experiences.
 - Support for Google Data Studio.
 - Extended customer cleansing logic.
+- 🎞️ Image sharing via new Image Sharing process block:
+  - Images sent via Snapshot are pre-selected for sharing
 
 
 ## release-2020-08-26
