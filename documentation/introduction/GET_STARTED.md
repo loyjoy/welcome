@@ -115,7 +115,7 @@ To create your own experience, you must first click on "create experience".
 
  Then you have to decide whether you want to create an experience all by yourself or whether you want to work with an example. 
 
-<p align="left">
+<p align="center">
   <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="400"/>
  <img src="pick_experience.png" alt="Pick a ready-to-use experience" title="Pick a ready-to-use experience" width="500"/>
 </p>
@@ -178,9 +178,9 @@ With the first button, you can add links. With the button, you get a template th
 
 You will not see this link afterward.
 
-<p align="left">
-  <img src="link_example.png" alt="Example of using links" title="Example of using links" width="500"/>
-  <img src="link_example_flow.png" alt="Example of using links" title="Example of using links" width="400"/>
+<p align="center">
+  <img src="link_example.png" alt="Example of using links" title="Example of using links" width="600"/>
+  <img src="link_example_flow.png" alt="Example of using links" title="Example of using links" width="300"/>
 </p>
 
 With the second button you can select smileys. 
@@ -204,7 +204,7 @@ To make your flow clearer, you should give the individual building blocks approp
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
 
 <p align="center">
-  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="400"/>
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="300"/>
 </p>
 
 Then click on the button in the bottom corner.
@@ -240,14 +240,14 @@ Here are some examples:
 
 After that, you can add your own logo. 
 
-<p align="left">
+<p align="center">
   <img src="upload_logo.png" alt="Upload logo" title="Upload logo" width="300"/>
   <img src="branding_example_logo.png" alt="Example logo" title="Example logo" width="300"/>
 </p>
 
 You can also choose the color for the notifications. Choose one that you like or that fits your company.
 
-<p align="left">
+<p align="center">
   <img src="change_colour.png" alt="Change colour" title="Change colour" width="400"/>
   <img src="colour_change_example.png" alt="Example change of colour" title="Example change of colour" width="300"/>
 </p>
@@ -294,7 +294,7 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
 
 <p align="center">
   <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
-  <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="300"/>
+  <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="200"/>
 </p>
 
 ## How to manage content
