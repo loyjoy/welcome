@@ -94,7 +94,7 @@ Afterward, you have to scroll down and click on "create experience".
 Again, scroll down and then paste the copied link. Finally, click on "Paste experience". Immediately you have your own experience. 
 
 <p align="center">
-  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="600"/>
+  <img src="paste_experience.png" alt="Paste experience" title="Paste experience" width="500"/>
 </p>
 
 Give the copy a new name so you know which version is the new one.
