@@ -312,8 +312,8 @@ You can choose as many languages as you like. When you go back to the editor, yo
 Now enter your default language.
 
 <p align="center">
-  <img src="language_example.png" alt="Language example" title="Language example" width="400"/>
-  <img src="language_example_text.png" alt="Language example text" title="Language example text" width="400"/>
+  <img src="language_example.png" alt="Language example" title="Language example" width="500"/>
+  <img src="language_example_text.png" alt="Language example text" title="Language example text" width="200"/>
 </p>
 
 If you want, you can have the text translated automatically. But check afterward if everything is correct.
@@ -338,7 +338,7 @@ If you have integrated a raffle or giveaway, you can see the participants here a
 Here you find an overview of all used pictures and videos.
 
 <p align="center">
-  <img src="assets.png" alt="Assets" title="Assets" width="400"/>
+  <img src="assets.png" alt="Assets" title="Assets" width="500"/>
 </p>
 
 ### Texts
