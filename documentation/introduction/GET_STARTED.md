@@ -273,7 +273,7 @@ For chatbot content where the date is relevant (birthdays, time, etc.), the corr
 Before a chatbot goes live, an imprint must be added.
 
 <p align="center">
-  <img src="imprint.png" alt="imprint" title="Imprint" width="400"/>
+  <img src="imprint.png" alt="imprint" title="Imprint" width="500"/>
 </p>
 
 If you want to email through Loyjoy with your own domain, you must fill out this form. 
