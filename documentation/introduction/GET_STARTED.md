@@ -444,7 +444,7 @@ General information such as the screen time, participants, and newsletter subscr
 </p>
 
 But also in which language your chatbot is used, at which 
-time most customers use the offer, or how many customers have logged in with a code can be found under "Analytics".
+time most customers use the offer, or how many customers have logged in with a code can be found under "Analytics"
 
 <p align="center">
   <img src="customers_language.png" alt="Customers per language" title="Customers per language" width="400"/>
