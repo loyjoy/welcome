@@ -385,10 +385,9 @@ When the chatbot is completely finished and you want to add it to the code of yo
 All three codes must be used.
 
 <p align="center">
-  <img src="html_website.png" alt="HTML Website" title="HTML Website" width="500"/>
-  <img src="html_chat_script.png" alt="HTML Chat" title="HTML Chat" width="300"/>
-  <img src="html_button_script.png" alt="HTML Button" title="HTML Button" width="300"/>
-  <img src="html_button_button.png" alt="HTML Button" title="HTML Button" width="300"/>
+  <img src="html_first.png" alt="HTML Website" title="HTML Website" width="500"/>
+  <img src="html_second.png" alt="HTML" title="HTML" width="500"/>
+  
 </p>
 
 The chatbot can be used not only on one website but also on various social media channels. 
