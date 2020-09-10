@@ -60,8 +60,10 @@ The hero widget includes an image with possible text.
 
 This widget can be used as a welcome widget. You can give the widget a title, add a photo and text or greetings. 
 
-BILD
-BILD
+<p align="center">
+  <img src="hero_example.png" alt="Hero example" title="Hero example" width="300"/>
+  <img src="hero_example_view.png" alt="Hero example home view" title="Hero example Home View" width="300"/>
+</p>
 
 Here you can add a call to action.
 
