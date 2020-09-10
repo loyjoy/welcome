@@ -86,7 +86,7 @@ Using the groups widget, customers can access the individual experiences that yo
 For each experience you can add an image and avatar image and choose a title and slogan. There are different ways to display the experiences. 
 
 <p align="center">
-  <img src="groups_example.png" alt="Example for groups widget" title="Example for groups widget" width="300"/>
+  <img src="group_example.png" alt="Example for groups widget" title="Example for groups widget" width="300"/>
 </p>
 
 If you want the images and texts to be displayed in the home view, click here. 
