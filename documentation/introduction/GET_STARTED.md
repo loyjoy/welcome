@@ -38,7 +38,7 @@ Dig deeper into your consumer's experience and track your success. Find out what
 First of all, you get an email with a link from the LoyJoy team. Our System works without a password. Instead of that, you will receive a “Magic Link”. In the email you have received, you must click on “Confirm my account”.
 
 <p align="center">
-  <img src="confirm_account.png" alt="How to log in" title="How to log in" width="400"/>
+  <img src="confirm_account.png" alt="How to log in" title="How to log in" width="300"/>
 </p>
 
 Afterward, there will open another page of LoyJoy. Here you must type in your email address.
@@ -50,7 +50,7 @@ Afterward, there will open another page of LoyJoy. Here you must type in your em
 Next, you will get another message which tells you that you have received another email with a magic link. Open this email and click on “Sign in to LoyJoy”
 
 <p align="center">
-  <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="400"/>
+  <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="300"/>
 </p>
 
 Then you are on our start screen.
@@ -65,7 +65,7 @@ Now it's up to you whether you want to create a new experience or modify an exis
 To discover the existing experience you need to click on the bar.
 
 <p align="center">
-  <img src="which_bot.png" alt="Choose a bot" title="Choose a bot" width="300"/>
+  <img src="which_bot.png" alt="Choose a bot" title="Choose a bot" width="500"/>
 </p>
 
 As you want to start you have different options: You can create your personal experience or you copy an existing experience and change or test it. 
@@ -88,7 +88,7 @@ Then copy the link.
 Afterward, you have to scroll down and click on "create experience". 
 
 <p align="center">
-  <img src="create_experience.png" alt="Create experience" title="Create experience" width="300"/>
+  <img src="create_experience.png" alt="Create experience" title="Create experience" width="200"/>
 </p>
 
 Again, scroll down and then paste the copied link. Finally, click on "Paste experience". Immediately you have your own experience. 
@@ -100,7 +100,7 @@ Again, scroll down and then paste the copied link. Finally, click on "Paste expe
 Give the copy a new name so you know which version is the new one.
 
 <p align="center">
-  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="400"/>
+  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="300"/>
 </p>
 
 Now you have done it and can start with your copied experience.
@@ -186,7 +186,7 @@ You will not see this link afterward.
 With the second button you can select smileys. 
 
 <p align="center">
-  <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="400"/>
+  <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="500"/>
 </p>
 
 > If you click on the last button you can add variables. If, for example, a customer has already entered his or her name, it can be used in the greeting
@@ -210,7 +210,7 @@ If after a while you want to see how your chatbot looks like now and if it works
 Then click on the button in the bottom corner.
 
 <p align="center">
-  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="200"/>
+  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="100"/>
 </p>
 
  This opens your chatbot. 
@@ -284,7 +284,7 @@ Contact the LoyJoy Team beforehand
 </p>
 
 There are some phrases to which the chatbot automatically has an answer. But if the customer types something that the bot has no answer to, you can set the automatic answer here.
-It is also possible to have the customer fill out a contact form so that the questions can be answered personally. (Link to NLU)
+It is also possible to have the customer fill out a contact form so that the questions can be answered personally.
 
 <p align="center">
   <img src="reaction_unrecognised_intents.png" alt="Reaction to unrecognised intents" title="Reaction to unrecognised intents" width="500"/>
@@ -319,14 +319,14 @@ Now enter your default language.
 If you want, you can have the text translated automatically. But check afterward if everything is correct.
 
 <p align="center">
-  <img src="language_translate.png" alt="Language translate" title="Language translate" width="400"/>
+  <img src="language_translate.png" alt="Language translate" title="Language translate" width="500"/>
 </p>
 
 If you have swapped the fields, you can use this function to switch the languages. So if you have entered the German text in the Fled for English, you can have it
 changed automatically here.
 
 <p align="center">
-  <img src="copy_language.png" alt="Copy language" title="Copy language" width="400"/>
+  <img src="copy_language.png" alt="Copy language" title="Copy language" width="500"/>
 </p>
 
 ### Manage
@@ -395,7 +395,7 @@ The chatbot can be used not only on one website but also on various social media
 To use the chatbot on Instagram, use this link:
 
 <p align="center">
-  <img src="instagram.png" alt="Instagram" title="Instagram" width="400"/>
+  <img src="instagram.png" alt="Instagram" title="Instagram" width="500"/>
 </p>
 
 For all other channels contact the LoyJoy Team.
