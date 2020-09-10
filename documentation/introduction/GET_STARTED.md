@@ -154,7 +154,7 @@ Even a wrong order is no problem. If you want to swap individual building blocks
 Once you have added a process block, you can edit it. To do this, you click on "Close process editor". 
 
 <p align="center">
-  <img src="close_editor.png" alt="CLose process editor" title="Close process editor" width="500"/>
+  <img src="close_editor.png" alt="Close process editor" title="Close process editor" width="500"/>
 </p>
 
 Now you can enter whatever you want in the text fields. 
