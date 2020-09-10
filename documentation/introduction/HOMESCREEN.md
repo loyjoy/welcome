@@ -30,7 +30,7 @@ Now there are several widgets that you can add to your home view.
 To do so, click on the plus of the widget of your choice.
 
 <p align="center">
-  <img src="add_widgets.gif" alt="Add widgets" title="Add widgets" width="400"/>
+  <img src="adding_widget.gif" alt="Add widgets" title="Add widgets" width="400"/>
 </p>
 
 With the minus, you delete widgets that you no longer need. 
