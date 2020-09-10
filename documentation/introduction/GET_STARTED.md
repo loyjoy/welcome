@@ -126,9 +126,8 @@ You did it! Now you can start!
 
 #### New experience
 
-Now we are diving right into the process editor. 
-Here you can choose how your flow should look like. On the left side, you can see [all process blocks](documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md) you can use for your chatbot.
-that are available to you. On the right side, you can see how your current flow looks like.
+Now we are diving right into the process editor. Here you can build your chat flow yourself. On the left side, you find [all process blocks](https://github.com/loyjoy/welcome/blob/master/documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md)for your chatbot.
+On the right side, you can adjust and edit the wording and settings of your chatflow.
 
 <p align="center">
   <img src="process_editor.png" alt="Process editor" title="Process editor" width="500"/>
