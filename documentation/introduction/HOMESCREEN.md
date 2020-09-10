@@ -12,7 +12,7 @@ Home view has added value for you because you can create different chatbots on d
 of your homepage. 
 
 <p align="center">
-  <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
+  <img src="home_view.png" alt="Home View" title="Home View" width="400"/>
 </p>
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
@@ -23,7 +23,7 @@ To start with Home view, click on the Home view button. Make sure that you are i
 already created two experiences that we will use in the home view.
 
 <p align="center">
-  <img src="home_view_startpage.png" alt="Home View Startpage" title="Home View Startpage" width="300"/>
+  <img src="home_view_startpage.png" alt="Home View Startpage" title="Home View Startpage" width="400"/>
 </p>
 
 Now there are several widgets that you can add to your home view. 
@@ -46,7 +46,7 @@ Let's start with the navigation bar.
 Here you can add a photo that will be displayed at the top of the page like a header.
 
 <p align="center">
-  <img src="navigation_bar_example.png" alt="Navigation bar example" title="Navigation bar example" width="300"/>
+  <img src="navigation_bar_example.png" alt="Navigation bar example" title="Navigation bar example" width="400"/>
   <img src="navigation_example_view.png" alt="Navigation bar home view" title="Navigation bar Home View" width="300"/>
 </p>
 
@@ -61,20 +61,20 @@ The hero widget includes an image with possible text.
 This widget can be used as a welcome widget. You can give the widget a title, add a photo and text or greetings. 
 
 <p align="center">
-  <img src="hero_example.png" alt="Hero example" title="Hero example" width="300"/>
+  <img src="hero_example.png" alt="Hero example" title="Hero example" width="400"/>
   <img src="hero_example_view.png" alt="Hero example home view" title="Hero example Home View" width="300"/>
 </p>
 
 Here you can add a call to action.
 
 <p align="center">
-  <img src="hero_cta.png" alt="Add CTA to hero" title="Add CTA to hero" width="300"/>
+  <img src="hero_cta.png" alt="Add CTA to hero" title="Add CTA to hero" width="500"/>
 </p>
 
 From here you can navigate to an experience, but you do not have to.
 
 <p align="center">
-  <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="300"/>
+  <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="500"/>
 </p>
 
 ## Groups widget
@@ -88,19 +88,19 @@ Using the groups widget, customers can access the individual experiences that yo
 For each experience you can add an image and avatar image and choose a title and slogan. There are different ways to display the experiences. 
 
 <p align="center">
-  <img src="group_example.png" alt="Example for groups widget" title="Example for groups widget" width="300"/>
+  <img src="group_example.png" alt="Example for groups widget" title="Example for groups widget" width="400"/>
 </p>
 
 If you want the images and texts to be displayed in the home view, click here. 
 
 <p align="center">
-  <img src="group_choose_experience.png" alt="Choose experience" title="Choose experience" width="300"/>
+  <img src="group_choose_experience.png" alt="Choose experience" title="Choose experience" width="400"/>
 </p>
 
 This is how the example would look like in Home View afterward:
 
 <p align="center">
-  <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="300"/>
+  <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="400"/>
 </p>
 
 
