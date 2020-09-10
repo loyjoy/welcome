@@ -215,7 +215,7 @@ Then click on the chat bubble in the bottom corner.
  This opens your chatbot. 
 
 <p align="center">
-  <img src="first_flow.png" alt="First flow example" title="First flow example" width="300"/>
+  <img src="first_flow.png" alt="First flow example" title="First flow example" width="500"/>
 </p>
 
 Every time you change something and want to see the chatbot afterward, you have to click on refresh preview. If you don't do this, you will always see the old version. 
