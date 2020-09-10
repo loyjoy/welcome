@@ -385,7 +385,7 @@ When the chatbot is completely finished and you want to add it to the code of yo
 All three codes must be used.
 
 <p align="center">
-  <img src="html_first.png" alt="HTML Website" title="HTML Website" width="500"/>
+  <img src="html_first.png" alt="HTML Website" title="HTML Website" width="600"/>
   <img src="html_second.png" alt="HTML" title="HTML" width="500"/>
   
 </p>
