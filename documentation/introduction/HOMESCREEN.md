@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="LoyJoyLogoGif.gif" alt="LoyJoy Logo" title="LoyJoy Animated Logo" width="200"/>
+</p>
+
+
 # Start with home view
 
 Welcome to the LoyJoy Conversation Marketing Cloud!
@@ -6,21 +11,27 @@ different experiences. You can also create and add stories.
 Home view has added value for you because you can create different chatbots on different topics and find them on one page without your customers visiting every page
 of your homepage. 
 
-BILD
+<p align="center">
+  <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
+</p>
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
 
-BILD
+BILD STORIES
 
 To start with Home view, click on the Home view button. Make sure that you are in the right bot. In our example, we build a home view about the bicycle. We have
 already created two experiences that we will use in the home view.
 
-BILD
+<p align="center">
+  <img src="home_view_startpage.png" alt="Home View Startpage" title="Home View Startpage" width="300"/>
+</p>
 
 Now there are several widgets that you can add to your home view. 
 To do so, click on the plus of the widget of your choice.
 
-BILD
+<p align="center">
+  <img src="add_widgets.gif" alt="Add widgets" title="Add widgets" width="300"/>
+</p>
 
 With the minus, you delete widgets that you no longer need. 
 
@@ -28,18 +39,24 @@ With the minus, you delete widgets that you no longer need.
 
 Let's start with the navigation bar. 
 
-BILD
+<p align="center">
+  <img src="navigation_bar.png" alt="Navigation bar" title="Navigation bar" width="300"/>
+</p>
 
 Here you can add a photo that will be displayed at the top of the page like a header.
 
-BILD
-BILD
+<p align="center">
+  <img src="navigation_bar_example.png" alt="Navigation bar example" title="Navigation bar example" width="300"/>
+  <img src="navigation_example_view.png" alt="Navigation bar home view" title="Navigation bar Home View" width="300"/>
+</p>
 
 ## Hero widget
 
 The hero widget includes an image with possible text. 
 
-BILD
+<p align="center">
+  <img src="hero_widget.png" alt="hero widget" title="hero widget" width="300"/>
+</p>
 
 This widget can be used as a welcome widget. You can give the widget a title, add a photo and text or greetings. 
 
