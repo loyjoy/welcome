@@ -65,30 +65,41 @@ BILD
 
 Here you can add a call to action.
 
-BILD
+<p align="center">
+  <img src="hero_cta.png" alt="Add CTA to hero" title="Add CTA to hero" width="300"/>
+</p>
 
 From here you can navigate to an experience, but you do not have to.
 
-
-BILD
+<p align="center">
+  <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="300"/>
+</p>
 
 ## Groups widget
 
 Using the groups widget, customers can access the individual experiences that you have previously created.
 
-BILD
+<p align="center">
+  <img src="groups_widget.png" alt="Groups widget" title="Groups widget" width="300"/>
+</p>
 
 For each experience you can add an image and avatar image and choose a title and slogan. There are different ways to display the experiences. 
 
-BILD
+<p align="center">
+  <img src="groups_example.png" alt="Example for groups widget" title="Example for groups widget" width="300"/>
+</p>
 
 If you want the images and texts to be displayed in the home view, click here. 
 
-BILD
+<p align="center">
+  <img src="group_coose_experience.png" alt="Choose experience" title="Choose experience" width="300"/>
+</p>
 
 This is how the example would look like in Home View afterward:
 
-BILD
+<p align="center">
+  <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="300"/>
+</p>
 
 
 
