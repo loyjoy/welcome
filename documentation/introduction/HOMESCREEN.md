@@ -92,7 +92,7 @@ For each experience you can add an image and avatar image and choose a title and
 If you want the images and texts to be displayed in the home view, click here. 
 
 <p align="center">
-  <img src="group_coose_experience.png" alt="Choose experience" title="Choose experience" width="300"/>
+  <img src="group_choose_experience.png" alt="Choose experience" title="Choose experience" width="300"/>
 </p>
 
 This is how the example would look like in Home View afterward:
