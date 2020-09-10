@@ -100,7 +100,7 @@ Again, scroll down and then paste the copied link. Finally, click on "Paste expe
 Give the copy a new name so you know which version is the new one.
 
 <p align="center">
-  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="300"/>
+  <img src="name_experience.png" alt="Give experience name" title="Give experience name" width="200"/>
 </p>
 
 Now you have done it and can start with your copied experience.
@@ -110,7 +110,7 @@ Now you have done it and can start with your copied experience.
 To create your own experience, you must first click on "create experience".
 
 <p align="center">
-  <img src="create_experience.png" alt="Create new experience" title="create new experience" width="300"/>
+  <img src="create_experience.png" alt="Create new experience" title="create new experience" width="200"/>
 </p>
 
  Then you have to decide whether you want to create an experience all by yourself or whether you want to work with an example. 
@@ -189,7 +189,7 @@ With the second button you can select smileys.
   <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="500"/>
 </p>
 
-> If you click on the last button you can add variables. If, for example, a customer has already entered his or her name, it can be used in the greeting
+If you click on the last button you can add variables. If, for example, a customer has already entered his or her name, it can be used in the greeting.
 
 <p align="center">
   <img src="explain_variables.png" alt="Explain variables" title="Explain variables" width="500"/>
@@ -204,10 +204,10 @@ To make your flow clearer, you should give the individual building blocks approp
 If after a while you want to see how your chatbot looks like now and if it works, click on refresh preview. 
 
 <p align="center">
-  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="300"/>
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="500"/>
 </p>
 
-Then click on the button in the bottom corner.
+Then click on the chat bubble in the bottom corner.
 
 <p align="center">
   <img src="button.png" alt="Chatbutton" title="Chatbutton" width="100"/>
@@ -241,11 +241,11 @@ Here are some examples:
 After that, you can add your own logo. 
 
 <p align="center">
-  <img src="upload_logo.png" alt="Upload logo" title="Upload logo" width="300"/>
+  <img src="upload_logo.png" alt="Upload logo" title="Upload logo" width="200"/>
   <img src="branding_example_logo.png" alt="Example logo" title="Example logo" width="300"/>
 </p>
 
-You can also choose the color for the notifications. Choose one that you like or that fits your company.
+You can also choose the color for your chatbot to customize it to your brand's style.
 
 <p align="center">
   <img src="change_colour.png" alt="Change colour" title="Change colour" width="400"/>
@@ -255,36 +255,35 @@ You can also choose the color for the notifications. Choose one that you like or
 If you wish so, you can use your own CSS template. Please contact the LoyJoy team for further information.
 
 <p align="center">
-  <img src="css_template.png" alt="CSS template" title="CSS template" width="500"/>
+  <img src="css_template.png" alt="CSS template" title="CSS template" width="300"/>
 </p>
 
-An email address must be provided so that feedback etc. from the customer can be forwarded to you.
+An email address must be provided to address customer inquiries by your consumers.
 
 <p align="center">
-  <img src="branding_email.png" alt="email" title="email" width="500"/>
+  <img src="branding_email.png" alt="email" title="email" width="300"/>
 </p>
 
-For chatbot content where the date is relevant (birthdays, time, etc.), the correct time zone must be set 
+For chatbot content where the date is relevant (birthdays, time, etc.), the correct time zone must be set. 
 
 <p align="center">
-  <img src="timezone.png" alt="Customer timezone" title="Customer timezone" width="500"/>
+  <img src="timezone.png" alt="Customer timezone" title="Customer timezone" width="300"/>
 </p>
 
 Before a chatbot goes live, an imprint must be added.
 
 <p align="center">
-  <img src="imprint.png" alt="imprint" title="Imprint" width="500"/>
+  <img src="imprint.png" alt="imprint" title="Imprint" width="300"/>
 </p>
 
-If you want to email through Loyjoy with your own domain, you must fill out this form. 
-Contact the LoyJoy Team beforehand
+If you to send emails through your own mail domain, please fill out the following fields. Ask your LoyJoy Success Manager for help.
 
 <p align="center">
   <img src="configure_outgoing_emails.png" alt="Configure outgoing emails" title="Configure outgoing emails" width="500"/>
 </p>
 
-There are some phrases to which the chatbot automatically has an answer. But if the customer types something that the bot has no answer to, you can set the automatic answer here.
-It is also possible to have the customer fill out a contact form so that the questions can be answered personally.
+// There are some phrases to which the chatbot automatically has an answer. But if the customer types something that the bot has no answer to, you can set the automatic answer here.
+It is also possible to have the customer fill out a contact form so that the questions can be answered personally. //
 
 <p align="center">
   <img src="reaction_unrecognised_intents.png" alt="Reaction to unrecognised intents" title="Reaction to unrecognised intents" width="500"/>
@@ -298,6 +297,8 @@ Offer persistent quick replies on the bottom of the chat. Your customers can use
 </p>
 
 ## How to manage content
+
+Your chatbot will contain of multiple types of content. This chapter aims to show you where you can set your language,find your assets, manage your giveaway winners and adjust your texts.
 
 ### Language
 
@@ -319,14 +320,14 @@ Now enter your default language.
 If you want, you can have the text translated automatically. But check afterward if everything is correct.
 
 <p align="center">
-  <img src="language_translate.png" alt="Language translate" title="Language translate" width="500"/>
+  <img src="language_translate.png" alt="Language translate" title="Language translate" width="300"/>
 </p>
 
 If you have swapped the fields, you can use this function to switch the languages. So if you have entered the German text in the Fled for English, you can have it
 changed automatically here.
 
 <p align="center">
-  <img src="copy_language.png" alt="Copy language" title="Copy language" width="500"/>
+  <img src="copy_language.png" alt="Copy language" title="Copy language" width="300"/>
 </p>
 
 ### Manage
@@ -395,7 +396,7 @@ The chatbot can be used not only on one website but also on various social media
 To use the chatbot on Instagram, use this link:
 
 <p align="center">
-  <img src="instagram.png" alt="Instagram" title="Instagram" width="500"/>
+  <img src="instagram.png" alt="Instagram" title="Instagram" width="300"/>
 </p>
 
 For all other channels contact the LoyJoy Team.
@@ -430,7 +431,7 @@ It is also up to you if and how the chat bubble should be animated. These are th
 
 ### How to measure success
 
-With the chatbot, you also hope of course that you can learn more about your customers. Under the point "Analytics" this is easily possible.
+Nothing is better than success. Find your boosted performance and learn about your consumers under the Analytics tab.
 
 <p align="center">
   <img src="analytics.png" alt="Analytics Start" title="Analytics Start" width="200"/>
@@ -443,9 +444,7 @@ General information such as the screen time, participants, and newsletter subscr
   <img src="frontpage_.png" alt="Analytics Frontpage 2" title="Analytics Frontpage 2" width="400"/>
 </p>
 
-But also in which language your chatbot is used, at which 
-time most customers use the offer, or how many customers have logged in with a code can be found under "Analytics".
-
+Understand in which language and at what time your chatbot is used the most. Depending on your chatbot type, you will find all the collected data in the Analytics.
 <p align="center">
   <img src="customers_language.png" alt="Customers per language" title="Customers per language" width="400"/>
   <img src="customers_per_time.png" alt="Customers per time" title="Customers per time" width="400"/>
