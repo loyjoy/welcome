@@ -3,7 +3,7 @@
 </p>
 
 
-# Start with home view
+# Home view
 
 Welcome to the LoyJoy Conversation Marketing Cloud!
 This article will guide you through the features of home view. Home view is a start page for various chatbots or stories. From here you can easily navigate to your
@@ -16,6 +16,10 @@ of your homepage.
 </p>
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
+
+
+
+## Start with home view
 
 To start with Home view, click on the Home view button. Make sure that you are in the right bot. In our example, we build a home view about the bicycle. We have
 already created two experiences that we will use in the home view.
