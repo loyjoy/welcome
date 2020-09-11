@@ -105,7 +105,35 @@ This is how the example would look like in home view afterward:
 
 ## Notifications widget
 
+<p align="center">
+  <img src="notifications_widget.png" alt="Notifications Widget" title="Notifications Widget" width="300"/>
+</p>
+
 This widget shows push up messages for the customer.
 
+<p align="center">
+  <img src="notifications_example.png" alt="Notifications example" title="Notifications example" width="500"/>
+  <img src="notifications_example_view.png" alt="Notifications example home view" title="Notfications example home view" width="300"/>
+</p>
 
+## Roster widget
+
+The roster shows the customer's previous chats and push messages. 
+
+<p align="center">
+  <img src="roster_widget.png" alt="Roster Widget" title="Roster Widget" width="300"/>
+</p>
+
+If you want the roster to be displayed in the home view, click here. 
+
+<p align="center">
+  <img src="roster_see_group.png" alt="Roster in Home View" title="Roster in Home View" width="500"/>
+</p>
+
+This is how it could look like:
+
+<p align="center">
+  <img src="roster_example.png" alt="Roster example" title="Roster example" width="500"/>
+  <img src="roster_example_view.png" alt="Roster example home view" title="Roster example home view" width="300"/>
+</p>
 
