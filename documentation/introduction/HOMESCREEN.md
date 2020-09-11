@@ -25,7 +25,7 @@ You just need help with a widget or are looking for something special? Jump dire
 - [Navigation bar](#Navigation-bar)
 - [Hero widget](#Hero-widget)
 - [Stories widget](#Stories-widget)
-- [Notification widget](#Notification-widget)
+- [Notifications widget](#Notifications-widget)
 - [Roster widget](#Roster-widget)
 
 
