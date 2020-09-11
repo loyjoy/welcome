@@ -28,10 +28,17 @@ Now there are several widgets that you can add to your home view.
 To do so, click on the plus of the widget of your choice.
 
 <p align="center">
-  <img src="adding_widgets.gif" alt="Add widgets" title="Add widgets" width="400"/>
+  <img src="adding_widgets.gif" alt="Add widgets" title="Add widgets" width="300"/>
 </p>
 
-With the minus, you delete widgets that you no longer need. 
+With the minus, you delete widgets that you no longer need.
+
+You can also change the order in which the widgets appear. It does not matter if you have already added images and text or not. The order will change in the home 
+view.
+
+<p align="center">
+  <img src="change_order_widgets.gif" alt="Change order widgets" title="Change order widgets" width="300"/>
+</p>
 
 ## Navigation bar
 
