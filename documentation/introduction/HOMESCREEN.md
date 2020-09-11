@@ -112,8 +112,8 @@ This is how the example would look like in home view afterward:
 This widget shows push up messages for the customer.
 
 <p align="center">
-  <img src="notifications_example.png" alt="Notifications example" title="Notifications example" width="500"/>
-  <img src="notifications_example_view.png" alt="Notifications example home view" title="Notfications example home view" width="300"/>
+  <img src="notifications_example.png" alt="Notifications example" title="Notifications example" width="600"/>
+  <img src="notifications_example_view.png" alt="Notifications example home view" title="Notfications example home view" width="200"/>
 </p>
 
 ## Roster widget
@@ -133,7 +133,7 @@ If you want the roster to be displayed in the home view, click here.
 This is how it could look like:
 
 <p align="center">
-  <img src="roster_example.png" alt="Roster example" title="Roster example" width="500"/>
+  <img src="roster_example.png" alt="Roster example" title="Roster example" width="600"/>
   <img src="roster_example_view.png" alt="Roster example home view" title="Roster example home view" width="300"/>
 </p>
 
