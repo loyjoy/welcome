@@ -86,7 +86,7 @@ Through stories, you can get even closer to your customers. Insert small video s
 First, you add a new story.
 
 <p align="center">
-  <img src="add_story.png" alt="Add new story" title="Add new Story" width="300"/>
+  <img src="add_story.png" alt="Add new story" title="Add new Story" width="500"/>
 </p>
 
 Then choose how large your avatar image should appear. It can be large or small in the home view. Choose what you like better.
@@ -94,15 +94,15 @@ Then choose how large your avatar image should appear. It can be large or small 
 Large looks like this:
 
 <p align="center">
-  <img src="style_large.png" alt="Style large" title="Style large" width="300"/>
-  <img src="stories_example_large.png" alt="Example Style large" title="Example style large" width="300"/>
+  <img src="style_large.png" alt="Style large" title="Style large" width="600"/>
+  <img src="stories_example_large.png" alt="Example Style large" title="Example style large" width="200"/>
 </p>
 
 Compact would look like this:
 
 <p align="center">
-  <img src="style_compact.png" alt="Style compact" title="Style compact" width="300"/>
-  <img src="stories_example_compact.png" alt="Example Style compact" title="Example style compact" width="300"/>
+  <img src="style_compact.png" alt="Style compact" title="Style compact" width="600"/>
+  <img src="stories_example_compact.png" alt="Example Style compact" title="Example style compact" width="200"/>
 </p>
 
 In order for a story to appear, you must add the URL to the story.
