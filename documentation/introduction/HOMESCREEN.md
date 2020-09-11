@@ -12,7 +12,7 @@ Home view has added value for you because you can create different chatbots on d
 of your homepage. 
 
 <p align="center">
-  <img src="home_view.png" alt="Home View" title="Home View" width="400"/>
+  <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
 </p>
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
