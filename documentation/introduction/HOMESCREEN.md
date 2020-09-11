@@ -132,7 +132,7 @@ To add more stories, click again on add story.
 To view the story now, click on it. Our example would now look like this:
 
 <p align="center">
-  <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="500"/>
+  <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="300"/>
 </p>
 
 ## Groups widget
