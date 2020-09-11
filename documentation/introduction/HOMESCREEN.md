@@ -3,7 +3,7 @@
 </p>
 
 
-# Home view
+# Start your home view journey
 
 Welcome to the LoyJoy Conversation Marketing Cloud!
 This article will guide you through the features of home view. Home view is a start page for various chatbots or stories. From here you can easily navigate to your
