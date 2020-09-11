@@ -17,12 +17,16 @@ of your homepage.
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
 
-## Table of content
+## List of widgets
 
 You just need help with a widget or are looking for something special? Jump directly there!
 
 - [Start with home view](#Start-with-home-view)
 - [Navigation bar](#Navigation-bar)
+- [Hero widget](#Hero-widget)
+- [Stories widget](#Stories-widget)
+- [Notification widget](#Notification-widget)
+- [Roster widget](#Roster-widget)
 
 
 ### Start with home view
