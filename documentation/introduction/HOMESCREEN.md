@@ -97,11 +97,15 @@ If you want the images and texts to be displayed in the home view, click here.
   <img src="group_choose_experience.png" alt="Choose experience" title="Choose experience" width="500"/>
 </p>
 
-This is how the example would look like in Home View afterward:
+This is how the example would look like in home view afterward:
 
 <p align="center">
   <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="500"/>
 </p>
+
+## Notifications widget
+
+This widget shows push up messages for the customer.
 
 
 
