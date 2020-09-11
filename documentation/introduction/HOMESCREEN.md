@@ -17,8 +17,6 @@ of your homepage.
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
 
-BILD STORIES
-
 To start with Home view, click on the Home view button. Make sure that you are in the right bot. In our example, we build a home view about the bicycle. We have
 already created two experiences that we will use in the home view.
 
@@ -75,6 +73,66 @@ From here you can navigate to an experience, but you do not have to.
 
 <p align="center">
   <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="600"/>
+</p>
+
+## Stories widget
+
+Through stories, you can get even closer to your customers. Insert small video sequences to inform customers or to bring a product closer to them, for example.
+
+<p align="center">
+  <img src="stories_widget.png" alt="Stories widget" title="Stories widget" width="300"/>
+</p>
+
+First, you add a new story.
+
+<p align="center">
+  <img src="add_story.png" alt="Add new story" title="Add new Story" width="300"/>
+</p>
+
+Then choose how large your avatar image should appear. It can be large or small in the home view. Choose what you like better.
+
+Large looks like this:
+
+<p align="center">
+  <img src="style_large.png" alt="Style large" title="Style large" width="300"/>
+  <img src="stories_example_large.png" alt="Example Style large" title="Example style large" width="300"/>
+</p>
+
+Compact would look like this:
+
+<p align="center">
+  <img src="style_compact.png" alt="Style compact" title="Style compact" width="300"/>
+  <img src="stories_example_compact.png" alt="Example Style compact" title="Example style compact" width="300"/>
+</p>
+
+In order for a story to appear, you must add the URL to the story.
+
+<p align="center">
+  <img src="stories_url.png" alt="Add URL" title="Add URL" width="500"/>
+</p>
+
+Additionally, add an avatar image and logo. 
+
+<p align="center">
+  <img src="avatar_exampe.png" alt="Example Avatar" title="Example Avatar" width="500"/>
+</p>
+
+You can also add a call to action and a process jump.
+
+<p align="center">
+  <img src="stories_cta_jump.png" alt="Add CTA and jump" title="Add CTA and jump" width="500"/>
+</p>
+
+To add more stories, click again on add story.
+
+<p align="center">
+  <img src="add_another_story.png" alt="Add another story" title="Add another story" width="500"/>
+</p>
+
+To view the story now, click on it. Our example would now look like this:
+
+<p align="center">
+  <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="500"/>
 </p>
 
 ## Groups widget
