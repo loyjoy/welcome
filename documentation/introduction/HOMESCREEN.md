@@ -108,13 +108,13 @@ Compact would look like this:
 In order for a story to appear, you must add the URL to the story.
 
 <p align="center">
-  <img src="stories_url.png" alt="Add URL" title="Add URL" width="500"/>
+  <img src="story_url.png" alt="Add URL" title="Add URL" width="500"/>
 </p>
 
 Additionally, add an avatar image and logo. 
 
 <p align="center">
-  <img src="avatar_exampe.png" alt="Example Avatar" title="Example Avatar" width="500"/>
+  <img src="avatar_example.png" alt="Example Avatar" title="Example Avatar" width="500"/>
 </p>
 
 You can also add a call to action and a process jump.
