@@ -17,9 +17,15 @@ of your homepage.
 
 You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
 
+## Table of content
+
+You just need help with a widget or are looking for something special? Jump directly there!
+
+- [Start with home view](#Start-with-home-view)
+- [Navigation bar](#Navigation-bar)
 
 
-## Start with home view
+### Start with home view
 
 To start with Home view, click on the Home view button. Make sure that you are in the right bot. In our example, we build a home view about the bicycle. We have
 already created two experiences that we will use in the home view.
@@ -44,7 +50,7 @@ view.
   <img src="change_order_widgets.gif" alt="Change order widgets" title="Change order widgets" width="300"/>
 </p>
 
-## Navigation bar
+### Navigation bar
 
 Let's start with the navigation bar. 
 
@@ -59,7 +65,7 @@ Here you can add a photo that will be displayed at the top of the page like a he
   <img src="navigation_example_view.png" alt="Navigation bar home view" title="Navigation bar Home View" width="300"/>
 </p>
 
-## Hero widget
+### Hero widget
 
 The hero widget includes an image with possible text. 
 
@@ -86,7 +92,7 @@ From here you can navigate to an experience, but you do not have to.
   <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="600"/>
 </p>
 
-## Stories widget
+### Stories widget
 
 Through stories, you can get even closer to your customers. Insert small video sequences to inform customers or to bring a product closer to them, for example.
 
@@ -146,7 +152,7 @@ To view the story now, click on it. Our example would now look like this:
   <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="300"/>
 </p>
 
-## Groups widget
+### Groups widget
 
 Using the groups widget, customers can access the individual experiences that you have previously created.
 
@@ -172,7 +178,7 @@ This is how the example would look like in home view afterward:
   <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="500"/>
 </p>
 
-## Notifications widget
+### Notifications widget
 
 <p align="center">
   <img src="notifications_widget.png" alt="Notifications Widget" title="Notifications Widget" width="300"/>
@@ -185,7 +191,7 @@ This widget shows push up messages for the customer.
   <img src="notifications_example_view.png" alt="Notifications example home view" title="Notfications example home view" width="200"/>
 </p>
 
-## Roster widget
+### Roster widget
 
 The roster shows the customer's previous chats and push messages. 
 
