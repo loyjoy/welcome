@@ -11,6 +11,9 @@ All notable changes to LoyJoy will be documented in this file.
   - Images sent via Snapshot are pre-selected for sharing
 - ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
   - Including the ability to use the trusted vendors feature
+- The carousel component got a rework
+- Intent groups can now be scoped to a bot
+  - This enables you to activate specific Intent groups for specific bots.
 
 ## release-2020-09-14
 
