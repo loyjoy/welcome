@@ -9,6 +9,12 @@ All notable changes to LoyJoy will be documented in this file.
 
 - 🎞️ Image sharing via new Image Sharing process block:
   - Images sent via Snapshot are pre-selected for sharing
+- ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
+  - Including the ability to use the trusted vendors feature
+
+## release-2020-09-14
+
+### Added
 - Mini program:
   - Allow for multiple variables to be set at the same time
   - Allow blocking process flow until variables are set from within the mini program
