@@ -185,7 +185,6 @@ If you want the roster to be displayed in the home view, active the button.
 Let your customers go back to previous conversations just like they would do while chatting with a friend.
 
 <p align="center">
-  <img src="roster_example.png" alt="Roster example" title="Roster example" width="600"/>
   <img src="roster_example_view.png" alt="Roster example home view" title="Roster example home view" width="300"/>
 </p>
 
