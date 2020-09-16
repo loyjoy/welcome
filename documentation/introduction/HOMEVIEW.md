@@ -125,7 +125,7 @@ Let your customer jump directly into one of your experiences by calling to actio
 </p>
 
 
-To review the story, click it. We created a story for this years bike conference. Be creative!
+To review the story, click it. We created a story for this years bicyle conference. Be creative!
 
 <p align="center">
   <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="300"/>
@@ -133,25 +133,23 @@ To review the story, click it. We created a story for this years bike conference
 
 ### Groups widget
 
-Using the groups widget, customers can access the individual experiences that you have previously created.
+Place your experiences in the Home View by using the groups widget.
 
 <p align="center">
   <img src="groups_widget.png" alt="Groups widget" title="Groups widget" width="300"/>
 </p>
 
-For each experience you can add an image and avatar image and choose a title and slogan. There are different ways to display the experiences. 
+To select which experience groups to display in the Home View just active the button of each experience group.
+
+(Pic 3)
+
+Add an image and avatar image to each experience of your Home View and choose a title and a slogan. 
 
 <p align="center">
   <img src="group_example.png" alt="Example for groups widget" title="Example for groups widget" width="500"/>
 </p>
 
-If you want the images and texts to be displayed in the home view, click here. 
-
-<p align="center">
-  <img src="group_choose_experience.png" alt="Choose experience" title="Choose experience" width="500"/>
-</p>
-
-This is how the example would look like in home view afterward:
+This is how our two experience groups look like in the Home View.
 
 <p align="center">
   <img src="group_example_view.png" alt="Group example home view" title="Group example home view" width="500"/>
@@ -163,7 +161,7 @@ This is how the example would look like in home view afterward:
   <img src="notifications_widget.png" alt="Notifications Widget" title="Notifications Widget" width="300"/>
 </p>
 
-This widget shows push up messages for the customer.
+This widget presents a messages for the customer. Call out for action, excite your customer or guide them - all possible by using the notifications widget.
 
 <p align="center">
   <img src="notifications_example.png" alt="Notifications example" title="Notifications example" width="600"/>
@@ -172,22 +170,25 @@ This widget shows push up messages for the customer.
 
 ### Roster widget
 
-The roster shows the customer's previous chats and push messages. 
+The roster shows the customer's previous chats and interactions with your chat experiences. 
 
 <p align="center">
   <img src="roster_widget.png" alt="Roster Widget" title="Roster Widget" width="300"/>
 </p>
 
-If you want the roster to be displayed in the home view, click here. 
+If you want the roster to be displayed in the home view, active the button. 
 
 <p align="center">
   <img src="roster_see_group.png" alt="Roster in Home View" title="Roster in Home View" width="500"/>
 </p>
 
-This is how it could look like:
+Let your customers go back to previous conversations just like they would do while chatting with a friend.
 
 <p align="center">
   <img src="roster_example.png" alt="Roster example" title="Roster example" width="600"/>
   <img src="roster_example_view.png" alt="Roster example home view" title="Roster example home view" width="300"/>
 </p>
+
+Awesome! Now you are a Home View expert and ready to build your own LoyJoy Home View for your brand! :tada:
+
 
