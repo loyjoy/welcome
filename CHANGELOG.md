@@ -15,7 +15,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Intent groups can now be scoped to a bot
   - This enables you to activate specific Intent groups for specific bots.
 - When a new user message arrives basic flow information like Bot, Experience and Building block are now stored additionally.
-  - This provides you with information about what a user has entered in which context.
+  - This provides you with information about what a user has entered in which context and can be explored in the live menu.
 
 ## release-2020-09-14
 
