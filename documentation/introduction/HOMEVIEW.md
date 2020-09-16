@@ -3,25 +3,16 @@
 </p>
 
 
-# Start your home view journey
+# How to build your Home View
 
-Welcome to the LoyJoy Conversation Marketing Cloud!
-This article will guide you through the features of home view. Home view is a start page for various chatbots or stories. From here you can easily navigate to your
-different experiences. You can also create and add stories. 
-Home view has added value for you because you can create different chatbots on different topics and find them on one page without your customers visiting every page
-of your homepage. 
+Are you ready to take your chat experiences to the next level and enable the amazing possibilities of the LoyJoy Home Screen? Great. You are in the right place!
+This article will guide you through the features of the LoyJoy Home View and explain how to use them in the best ways. The Home View lets you create a responsive web application to easily navigate through different customer experiences. In addition to your well-known LoyJoy expereinces, let me introduce you to our LoyJoy Stories. Present your content in exciting social-media-like Stories and discover the new era of Conversational Marketing!
 
 <p align="center">
   <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
 </p>
 
-You can also provide your customers with short videos and pictures by adding stories. This promises more proximity to your customers! 
-
-## List of widgets
-
-You just need help with a widget or are looking for something special? Jump directly there!
-
-- [Start with home view](#Start-with-home-view)
+- [Set up the Home View](#Set-up-the-Home-View)
 - [Navigation bar](#Navigation-bar)
 - [Hero widget](#Hero-widget)
 - [Stories widget](#Stories-widget)
@@ -29,26 +20,26 @@ You just need help with a widget or are looking for something special? Jump dire
 - [Roster widget](#Roster-widget)
 
 
-### Start with home view
+### Set up the Home View
 
-To start with Home view, click on the Home view button. Make sure that you are in the right bot. In our example, we build a home view about the bicycle. We have
-already created two experiences that we will use in the home view.
+Open the Home View by clicking the button in the right corner of your chatbot. In our example, we build a Home View about bicycles.
 
 <p align="center">
   <img src="home_view_startpage.png" alt="Home View Startpage" title="Home View Startpage" width="500"/>
 </p>
 
-Now there are several widgets that you can add to your home view. 
-To do so, click on the plus of the widget of your choice.
+We already created two experience groups in our bicyle chatbot to use in our Home View. To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
+
+(Pic missing)
+
+Now there are several widgets that you can add to your Home View. 
+To do so, click the plus of the widget of your choice.
 
 <p align="center">
   <img src="adding_widgets.gif" alt="Add widgets" title="Add widgets" width="300"/>
 </p>
 
-With the minus, you delete widgets that you no longer need.
-
-You can also change the order in which the widgets appear. It does not matter if you have already added images and text or not. The order will change in the home 
-view.
+Drag and drop the components until they are in your refered order.
 
 <p align="center">
   <img src="change_order_widgets.gif" alt="Change order widgets" title="Change order widgets" width="300"/>
@@ -62,7 +53,7 @@ Let's start with the navigation bar.
   <img src="navigation_bar.png" alt="Navigation bar" title="Navigation bar" width="300"/>
 </p>
 
-Here you can add a photo that will be displayed at the top of the page like a header.
+Here you can add an image that will be displayed at the top of the page in the header.
 
 <p align="center">
   <img src="navigation_bar_example.png" alt="Navigation bar example" title="Navigation bar example" width="500"/>
@@ -71,26 +62,18 @@ Here you can add a photo that will be displayed at the top of the page like a he
 
 ### Hero widget
 
-The hero widget includes an image with possible text. 
+The hero widget will be a cover image with an optional greating text field. 
 
 <p align="center">
   <img src="hero_widget.png" alt="hero widget" title="hero widget" width="300"/>
 </p>
-
-This widget can be used as a welcome widget. You can give the widget a title, add a photo and text or greetings. 
 
 <p align="center">
   <img src="hero_example.png" alt="Hero example" title="Hero example" width="500"/>
   <img src="hero_example_view.png" alt="Hero example home view" title="Hero example Home View" width="300"/>
 </p>
 
-Here you can add a call to action.
-
-<p align="center">
-  <img src="hero_cta.png" alt="Add CTA to hero" title="Add CTA to hero" width="600"/>
-</p>
-
-From here you can navigate to an experience, but you do not have to.
+Introduce your customers and jump directly into one of your experiences by linking an experience here.
 
 <p align="center">
   <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="600"/>
