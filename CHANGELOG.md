@@ -9,13 +9,17 @@ All notable changes to LoyJoy will be documented in this file.
 
 - 🎞️ Image sharing via new Image Sharing process block:
   - Images sent via Snapshot are pre-selected for sharing
-- ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
-  - Including the ability to use the trusted vendors feature
 - The carousel component got a rework
 - Intent groups can now be scoped to a bot
   - This enables you to activate specific Intent groups for specific bots.
 - When a new user message arrives basic flow information like Bot, Experience and Building block are now stored additionally.
   - This provides you with information about what a user has entered in which context and can be explored in the live menu.
+
+## release-2020-09-14
+
+### Added
+- ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
+  - Including the ability to use the trusted vendors feature
 
 ## release-2020-09-14
 
