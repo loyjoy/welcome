@@ -12,7 +12,8 @@ This article will guide you through the features of the LoyJoy Home View and exp
   <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
 </p>
 
-- [Set up the Home View](#Set-up-the-Home-View)
+Check out the different Home View components:
+
 - [Navigation bar](#Navigation-bar)
 - [Hero widget](#Hero-widget)
 - [Stories widget](#Stories-widget)
@@ -30,7 +31,7 @@ Open the Home View by clicking the button in the right corner of your chatbot. I
 
 We already created two experience groups in our bicyle chatbot to use in our Home View. To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
 
-(Pic missing)
+(Pic missing- defaulting an experience)
 
 Now there are several widgets that you can add to your Home View. 
 To do so, click the plus of the widget of your choice.
@@ -73,7 +74,7 @@ The hero widget will be a cover image with an optional greating text field.
   <img src="hero_example_view.png" alt="Hero example home view" title="Hero example Home View" width="300"/>
 </p>
 
-Introduce your customers and jump directly into one of your experiences by linking an experience here.
+Introduce your customers and jump directly into one of your experiences by linking it here.
 
 <p align="center">
   <img src="hero_jump.png" alt="Hero Jump" title="Hero Jump" width="600"/>
@@ -81,7 +82,7 @@ Introduce your customers and jump directly into one of your experiences by linki
 
 ### Stories widget
 
-Through stories, you can get even closer to your customers. Insert small video sequences to inform customers or to bring a product closer to them, for example.
+Through stories, you can create exciting insights for your customers. Provide enjoyable content by adding small video sequences in form of stories to your Home View.
 
 <p align="center">
   <img src="stories_widget.png" alt="Stories widget" title="Stories widget" width="300"/>
@@ -93,47 +94,38 @@ First, you add a new story.
   <img src="add_story.png" alt="Add new story" title="Add new Story" width="500"/>
 </p>
 
-Then choose how large your avatar image should appear. It can be large or small in the home view. Choose what you like better.
+Then choose the size of your avatar image for your stories within the Home Screen. Choose between large and compact.
 
-Large looks like this:
 
 <p align="center">
-  <img src="style_large.png" alt="Style large" title="Style large" width="600"/>
   <img src="stories_example_large.png" alt="Example Style large" title="Example style large" width="200"/>
-</p>
-
-Compact would look like this:
-
-<p align="center">
-  <img src="style_compact.png" alt="Style compact" title="Style compact" width="600"/>
   <img src="stories_example_compact.png" alt="Example Style compact" title="Example style compact" width="200"/>
 </p>
 
-In order for a story to appear, you must add the URL to the story.
+
+Create your stories with the free tool XXX and simply add the URL of your story to the story components in LoyJoy.
 
 <p align="center">
   <img src="story_url.png" alt="Add URL" title="Add URL" width="500"/>
 </p>
 
-Additionally, add an avatar image and logo. 
+
+(Erkläre kurz das Tool und zeige insight)
+
+Additionally, add an avatar image and a logo. 
 
 <p align="center">
   <img src="avatar_example.png" alt="Example Avatar" title="Example Avatar" width="500"/>
 </p>
 
-You can also add a call to action and a process jump.
+Let your customer jump directly into one of your experiences by calling to action and linking an experience to your story.
 
 <p align="center">
   <img src="stories_cta_jump.png" alt="Add CTA and jump" title="Add CTA and jump" width="500"/>
 </p>
 
-To add more stories, click again on add story.
 
-<p align="center">
-  <img src="add_another_story.png" alt="Add another story" title="Add another story" width="500"/>
-</p>
-
-To view the story now, click on it. Our example would now look like this:
+To review the story, click it. We created a story for this years bike conference. Be creative!
 
 <p align="center">
   <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="300"/>
