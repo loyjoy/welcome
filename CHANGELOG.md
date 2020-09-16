@@ -14,6 +14,8 @@ All notable changes to LoyJoy will be documented in this file.
 - The carousel component got a rework
 - Intent groups can now be scoped to a bot
   - This enables you to activate specific Intent groups for specific bots.
+- When a new user message arrives basic flow information like Bot, Experience and Building block are now stored additionally.
+  - This provides you with information about what a user has entered in which context.
 
 ## release-2020-09-14
 
