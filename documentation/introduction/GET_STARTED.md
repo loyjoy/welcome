@@ -4,7 +4,7 @@
 
 
 # Get started with the Conversational Marketing Cloud
-We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! Very soon you will be able to build your own awesome customer journeys yourself. Let’s get started!
+We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! Very soon you will be able to build your awesome customer journeys yourself. Let’s get started!
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
@@ -34,7 +34,7 @@ Dig deeper into your consumer's experience and track your success. Find out what
 
 ## How to log in
 
-After your first call with the LoyJoy team, you will receive an email from us inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to acctivate your access your tenant on the LoyJoy platform. Think of your tenant as being your team's personal playground to create chat experiences and much more. 
+After your first call with the LoyJoy team, you will receive an email from us inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your access your tenant on the LoyJoy platform. Think of your tenant as being your team's playground to create chat experiences and much more. 
 
 <p align="center">
   <img src="confirm_account.png" alt="How to log in" title="How to log in" width="300"/>
@@ -56,7 +56,7 @@ Tada! Welcome to the LoyJoy platform. It's where the magic happens! :tada:
 
 ## How to Set up a Chatbot
 
-In the backend you can have several starting points. You can either start an experience by using a copy of an existing one, you can use our ready-to-use experiences that give you a process flow to customize yourself, or you can start from scratch with a blank process.
+In the backend, you can have several starting points. You can either start an experience by using a copy of an existing one, you can use our ready-to-use experiences that give you a process flow to customize yourself, or you can start from scratch with a blank process.
 
 <p align="center">
   <img src="startscreen.png" alt="LoyJoy startscreen" title="LoyJoy startscreen" width="500"/>
@@ -65,7 +65,7 @@ In the backend you can have several starting points. You can either start an exp
 
 #### Option 1: Copy an existing Experience
 
-Imagine your colleagues have built an amazing chatbot experience which got your inspired to start your own project. To benefit from their work, you can simply copy their experiences and work on your customizations and modifications with the copy. Click on the three dots of the chat experience you wish to copy and select "Copy Experience".
+Imagine your colleagues have built an amazing chatbot experience which got your inspired to start your project. To benefit from their work, you can simply copy their experiences and work on your customizations and modifications with the copy. Click on the three dots of the chat experience you wish to copy and select "Copy Experience".
 
 <p align="center">
   <img src="copy_experience.png" alt="Copy an existing experience" title="Copy an existing experience" width="500"/>
@@ -110,7 +110,7 @@ Now decide whether you make use of our great ready-to-go experience or if you pr
  <img src="custom_experience.png" alt="Custom experience" title="Custom experience" width="400"/>
 </p>
 
-Amazing! Let's start customzining your experience to your wishes! 
+Amazing! Let's start customizing your experience to your wishes! 
 
 #### The Chat Flow Editor
 
@@ -152,7 +152,7 @@ Adding a hyperlink to your text will require a link text (in square brackets) an
    <img src="link_example.png" alt="Example of using links" title="Example of using links" width="600"/>
 </p>
 
-This is how a hyper link looks like for the user.
+This is how a hyperlink looks like for the user.
 
 <p align="center">
   <img src="link_example_flow.png" alt="Example of using links" title="Example of using links" width="300"/>
@@ -164,13 +164,13 @@ Select exciting emoticons to engage emotionally with your consumers. Take advant
   <img src="explain_smileys.png" alt="Use of smileys" title="Use of smileys" width="500"/>
 </p>
 
-Add variables to individualize your texts for every customer. Address them by their first name when returning to your chatbot, provide content specific data or link variable data to your text field. 
+Add variables to individualize your texts for every customer. Address them by their first name when returning to your chatbot, provide content-specific data or link variable data to your text field. 
 
 <p align="center">
   <img src="explain_variables.png" alt="Explain variables" title="Explain variables" width="500"/>
 </p>
 
-To make sure you stay on top of your chat flow, you can name your process blocks according to their use. This helps you to nativcate through your flow when complexity grows.
+To make sure you stay on top of your chat flow, you can name your process blocks according to their use. This helps you to navigate through your flow when complexity grows.
 
 <p align="center">
   <img src="name_bricks.png" alt="Give bricks a name" title="Give bricks a name" width="300"/>
@@ -194,7 +194,7 @@ Do not worry about saving your progress. We have your back! Every edit is automa
 
 ## How to Adjust the Branding
 
-Let's brand your chatbot to your perferences together. Give your chatbot a name and attract customers with a slogan. Add a placeholder for the open text field, if you wish so.
+Let's brand your chatbot to your preferences together. Give your chatbot a name and attract customers with a slogan. Add a placeholder for the open text field, if you wish so.
 
 <p align="center">
   <img src="branding_header.png" alt="Branding Header" title="Branding Header" width="500"/>
@@ -207,7 +207,7 @@ Then you can add the logo to your brand. It will appear in the upper right corne
   <img src="branding_example_logo.png" alt="Example logo" title="Example logo" width="300"/>
 </p>
 
-You can also choose the main color for your chatbot matching the brand's style.
+You can also choose the main colour for your chatbot matching the brand's style.
 
 <p align="center">
   <img src="change_colour.png" alt="Change colour" title="Change colour" width="400"/>
@@ -226,19 +226,19 @@ Before a chatbot goes live, an imprint must be set.
   <img src="imprint.png" alt="imprint" title="Imprint" width="300"/>
 </p>
 
-If you are sending emails through your own mail domain, please fill out the following fields. Ask your LoyJoy Success Manager for assistance.
+If you are sending emails through your mail domain, please fill out the following fields. Ask your LoyJoy Success Manager for assistance.
 
 <p align="center">
   <img src="configure_outgoing_emails.png" alt="Configure outgoing emails" title="Configure outgoing emails" width="500"/>
 </p>
 
-Some consumers will type something into the open text field at the bottom of the chatbot. In order to respond to customer input, we provide standard intents to respond empathically to customer inquiries. However, in some cases, our AI algorithm will not identify the input. Define a message to send out to your customers in that case or let them fill out a contact form so that the inquiry can be addressed personally.
+Some consumers will type something into the open text field at the bottom of the chatbot. To respond to customer input, we provide standard intents to respond empathically to customer inquiries. However, in some cases, our AI algorithm will not identify the input. Define a message to send out to your customers in that case or let them fill out a contact form so that the inquiry can be addressed personally.
 
 <p align="center">
   <img src="reaction_unrecognised_intents.png" alt="Reaction to unrecognised intents" title="Reaction to unrecognised intents" width="500"/>
 </p>
 
-You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by use our persistent quick replies.
+You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies.
 
 <p align="center">
   <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
@@ -247,17 +247,17 @@ You can set fixed buttons in your chatbot to offer your customers the option to 
 
 ## How to Manage Content
 
-Your chatbot will contain of multiple types of content. This chapter aims to show you where you can set and translate your language, manage your assets, export the giveaway winners and adjust your texts.
+Your chatbot will contain multiple types of content. This chapter aims to show you where you can set and translate your language, manage your assets, export the giveaway winners and adjust your texts.
 
 ### Translate your Language
 
-Our chatbots run globally. However you will launch your chatbot in a market with a specific language. To still benefit from chatbots in a different language, you can use our built-in translator. Choose the "Language" tab and then select your language. Scroll down to translate your chatbot from the excisting language to yours.
+Our chatbots run globally. However, you will launch your chatbot in a market with a specific language. To still benefit from chatbots in a different language, you can use our built-in translator. Choose the "Language" tab and then select your language. Scroll down to translate your chatbot from the existing language to yours.
 
 <p align="center">
   <img src="select_language.png" alt="Select language" title="Select language" width="500"/>
 </p>
 
-You can also build your chatbot in more than one language. A text field will appear for every language selected in thte Chat Flow editor.
+You can also build your chatbot in more than one language. A text field will appear for every language selected in the Chat Flow editor.
 Now enter your default language.
 
 <p align="center">
@@ -280,7 +280,7 @@ Find an overview of all used images and videos. Make sure to compress your asset
 
 ### Texts Overview
 
-On the Text tab, all text fields are available in aggregated form. Double check your wording or have a copy writer edit right on the platform.
+On the Text tab, all text fields are available in aggregated form. Double-check your wording or have a copywriter edit right on the platform.
 
 <p align="center">
   <img src="texts.png" alt="text" title="text" width="500"/>
@@ -312,7 +312,7 @@ You also can review the chatbot on your smartphone. Just scan the QR code and tr
 </p>
 
 
-Explore how your chatbot will look like on your website by typing in your url. (Disclaimer: Display problems might occure.) 
+Explore how your chatbot will look like on your website by typing in your URL. (Disclaimer: Display problems might occur.) 
 
 
 <p align="center">
@@ -329,7 +329,7 @@ There are so many ways to publish and distribute your chatbot. One way is to pla
 </p>
 
 
-But there is much more ways to publish your chatbot such as various social media channels. 
+But there are much more ways to publish your chatbot such as various social media channels. 
 To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
 
 
@@ -354,7 +354,7 @@ If you decide to publish your chatbot on a website, make use of our Chatbot Sett
 </p>
 
 
-You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your own chat bubble.
+You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your chat bubble.
 
 
 <p align="center">
@@ -397,7 +397,7 @@ Here you will find general KPIs such as the screen time, participants, and newsl
 </p>
 
 
-Depending on your chat experience, you will find information on your customers behaviour in the chat. 
+Depending on your chat experience, you will find information on your customers' behaviour in the chat. 
 
 
 <p align="center">
