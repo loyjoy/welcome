@@ -8,7 +8,7 @@ We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! 
 
 This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
 
-### [How to log in](#how-to-log-in-1)
+### [How to Log in](#how-to-Log-in-1)
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
@@ -32,7 +32,7 @@ Use your individual landing page to test and discover your options to publish yo
 
 Dig deeper into your consumer's experience and track your success. Find out what your consumers have to say.
 
-## How to log in
+## How to Log in
 
 After your first call with the LoyJoy team, you will receive an email from us inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your access your tenant on the LoyJoy platform. Think of your tenant as being your team's playground to create chat experiences and much more. 
 
