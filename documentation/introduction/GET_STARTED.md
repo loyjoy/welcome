@@ -54,7 +54,7 @@ Everybody has troubles remembering passwords. That's why re retires the password
 
 Tada! Welcome to the LoyJoy platform. It's where the magic happens! :tada:
 
-## How to set up a chatbot
+## How to Set up a Chatbot
 
 In the backend you can have several starting points. You can either start an experience by using a copy of an existing one, you can use our ready-to-use experiences that give you a process flow to customize yourself, or you can start from scratch with a blank process.
 
@@ -63,7 +63,7 @@ In the backend you can have several starting points. You can either start an exp
 </p>
 
 
-#### Option 1: Copy an existing experience
+#### Option 1: Copy an existing Experience
 
 Imagine your colleagues have built an amazing chatbot experience which got your inspired to start your own project. To benefit from their work, you can simply copy their experiences and work on your customizations and modifications with the copy. Click on the three dots of the chat experience you wish to copy and select "Copy Experience".
 
@@ -95,7 +95,7 @@ Now you can rename your chatbot to your wishes.
 
 Great! Now you can start [editing your chat experience](#The-Chat-Flow-editor)! :tada: 
 
-#### Option 2: Create a new experience
+#### Option 2: Create a New Experience
 
 To build your own experience, click on "Create Experience".
 
@@ -192,7 +192,7 @@ Your chatbot will open and you can check out your progress. Whenever you wish to
 Do not worry about saving your progress. We have your back! Every edit is automatically saved.
 
 
-## How to adjust the Branding
+## How to Adjust the Branding
 
 Let's brand your chatbot to your perferences together. Give your chatbot a name and attract customers with a slogan. Add a placeholder for the open text field, if you wish so.
 
@@ -247,18 +247,17 @@ You can set fixed buttons in your chatbot to offer your customers the option to 
 
 ## How to Manage Content
 
-Your chatbot will contain of multiple types of content. This chapter aims to show you where you can set your language,find your assets, manage your giveaway winners and adjust your texts.
+Your chatbot will contain of multiple types of content. This chapter aims to show you where you can set and translate your language, manage your assets, export the giveaway winners and adjust your texts.
 
 ### Translate your Language
 
-For you, it is of course important that you can build the chatbot in your language. To do this, click on "Language" and then select your language. Please also 
-create the chatbot in English so that we can help you with questions and problems.
+Our chatbots run globally. However you will launch your chatbot in a market with a specific language. To still benefit from chatbots in a different language, you can use our built-in translator. Choose the "Language" tab and then select your language. Scroll down to translate your chatbot from the excisting language to yours.
 
 <p align="center">
   <img src="select_language.png" alt="Select language" title="Select language" width="500"/>
 </p>
 
-You can choose as many languages as you like. When you go back to the editor, you will see that there is a field for each selected language. 
+You can also build your chatbot in more than one language. A text field will appear for every language selected in thte Chat Flow editor.
 Now enter your default language.
 
 <p align="center">
@@ -266,26 +265,14 @@ Now enter your default language.
   <img src="language_example_text.png" alt="Language example text" title="Language example text" width="200"/>
 </p>
 
-If you want, you can have the text translated automatically. But check afterward if everything is correct.
-
-<p align="center">
-  <img src="language_translate.png" alt="Language translate" title="Language translate" width="300"/>
-</p>
-
-If you have swapped the fields, you can use this function to switch the languages. So if you have entered the German text in the Fled for English, you can have it
-changed automatically here.
-
-<p align="center">
-  <img src="copy_language.png" alt="Copy language" title="Copy language" width="300"/>
-</p>
 
 ### Manage your Giveaways
 
-If you have integrated a raffle or giveaway, you can see the participants here and draw the winner.
+If you have integrated a raffle or giveaway, you can see the participants here and draw the winner. Export your data or manage it on the LoyJoy platform.
 
 ### Assets Overview
 
-Here you find an overview of all used pictures and videos.
+Find an overview of all used images and videos. Make sure to compress your assets to create the best customer experience! Try out https://compresspng.com/.
 
 <p align="center">
   <img src="assets.png" alt="Assets" title="Assets" width="500"/>
@@ -293,7 +280,7 @@ Here you find an overview of all used pictures and videos.
 
 ### Texts Overview
 
-Here you find a list with all your contents
+On the Text tab, all text fields are available in aggregated form. Double check your wording or have a copy writer edit right on the platform.
 
 <p align="center">
   <img src="texts.png" alt="text" title="text" width="500"/>
@@ -301,38 +288,32 @@ Here you find a list with all your contents
 
 ## How to launch your chatbot
 
-You are done with your chatbot and want to show it to your colleagues? Or you want to customize other things outside the flow? Or you are finished and want to publish the chatbot? You are right under the tab "Publish".
+Before you go live with your chatbot, make sure you test it and of course, share it with your colleagues. To do so, you will find three options on how to securely test your chatbot and grant feedback.
 
 <p align="center">
   <img src="publish_first_page.png" alt="First page publish" title="First page publish" width="500"/>
 </p>
 
-By clicking on "Open landing page" you can view the chatbot on a landing page. You can also share the link and make it available to your colleagues. 
+View your chatbot on a unique landing page. This landing page is just for your chatbot and can be shared with your team. 
 
 <p align="center">
   <img src="share_landing_page.png" alt="Share landing page" title="Share landing page" width="300"/>
-</p>
-
-Our example could look like this:
-
-<p align="center">
   <img src="example_landing_page.png" alt="Example for landing page" title="Example for landing page" width="500"/>
 </p>
 
-You also can view the chatbot on your smartphone. Just scan the QR code.  
+You also can review the chatbot on your smartphone. Just scan the QR code and try it out! 
 
 <p align="center">
   <img src="view_on_mobile.png" alt="Test version mobile" title="Test version mobile" width="300"/>
 </p>
 
-If you enter the URL of your homepage here, you will see the bot already there.
+Explore how your chatbot will look like on your website by typing in your url. (Disclaimer: Display problems might occure.) 
 
 <p align="center">
   <img src="test_on_website.png" alt="Test version website" title="Test version website" width="300"/>
 </p>
 
-When the chatbot is completely finished and you want to add it to the code of your website, you can find the corresponding HTML codes here. 
-All three codes must be used.
+There are so many ways to publish and distribute your chatbot. One way is to place it on a website of your brand. To integrate the chatbot to your website, simply copy the code snippets into your website code. It's as simple as that!
 
 <p align="center">
   <img src="html_first.png" alt="HTML Website" title="HTML Website" width="600"/>
@@ -340,59 +321,59 @@ All three codes must be used.
   
 </p>
 
-The chatbot can be used not only on one website but also on various social media channels. 
-To use the chatbot on Instagram, use this link:
+But there is much more ways to publish your chatbot such as various social media channels. 
+To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
 
 <p align="center">
   <img src="instagram.png" alt="Instagram" title="Instagram" width="300"/>
 </p>
 
-For all other channels contact the LoyJoy Team.
+For other channels, please contact the LoyJoy Team.
 
 <p align="center">
   <img src="social_media.png" alt="Social Media" title="Social Media" width="500"/>
 </p>
 
-You have different settings for the chat window and the chat bubble. Here you can see our standard settings:
+If you decide to publish your chatbot on a website, make use of our Chatbot Settings. 
 
 <p align="center">
   <img src="standard_settings.png" alt="Standard settings" title="Standard settings" width="500"/>
 </p>
 
-You might have noticed in the example that the landing page and the chat bubble is adapted to LoyJoy. You can also do this for your company. Here you can insert a logo, which will be used as a chat bubble:
-
+You might have noticed that the chat bubble is LoyJoy-branded. Adjust it by inserting your own chat bubble.
 <p align="center">
   <img src="image_chat_bubble.png" alt="Chat bubble" title="Chat bubble" width="400"/>
 </p>
 
-The image that you insert here will be your landing page:
+To spice up the landing page of your chatbot, add a background image.
 
 <p align="center">
   <img src="add_landing_page.png" alt="Add landing page" title="Add landing page" width="400"/>
 </p>
 
-It is also up to you if and how the chat bubble should be animated. These are the different possibilities you have:
+Get extra attention for your chat bubble by using our cool chat bubble animations.
 
 <p align="center">
   <img src="animation.gif" alt="Animation" title="Animation" width="500"/>
 </p>
 
-### How to measure success
+### How to Measure Success
 
-Nothing is better than success. Find your boosted performance and learn about your consumers under the Analytics tab.
+Nothing is better than success. Find your boosted performance and learn about your customers on the LoyJoy Analytics Dashboard.
 
 <p align="center">
   <img src="analytics.png" alt="Analytics Start" title="Analytics Start" width="200"/>
 </p>
 
-General information such as the screen time, participants, and newsletter subscribers can be found here.
+Here you will find general KPIs such as the screen time, participants, and newsletter subscribers for each of your chat experiences.
 
 <p align="center">
   <img src="frontpage.png" alt="Analytics Frontpage 1" title="Analytics Frontpage 1" width="400"/>
   <img src="frontpage_.png" alt="Analytics Frontpage 2" title="Analytics Frontpage 2" width="400"/>
 </p>
 
-Understand in which language and at what time your chatbot is used the most. Depending on your chatbot type, you will find all the collected data in the Analytics.
+Depending on your chat experience, you will find information on your customers behaviour in the chat. 
+
 <p align="center">
   <img src="customers_language.png" alt="Customers per language" title="Customers per language" width="400"/>
   <img src="customers_per_time.png" alt="Customers per time" title="Customers per time" width="400"/>
@@ -401,6 +382,10 @@ Understand in which language and at what time your chatbot is used the most. Dep
   <img src="over_time.png" alt="Over time" title="Over time" width="400"/>
   <img src="over_time_cum.png" alt="Over time cumulated" title="Over time cumulated" width="400"/>
 </p>
+
+Now it's time to celebrate your first successful LoyJoy chatbot!
+
+
 
 
 
