@@ -12,23 +12,23 @@ This article will guide you through your very first access to the LoyJoy platfor
 
 Find out how you will grant access to the LoyJoy platform, why we do not use passwords and how to log in.
 
-### [How to set up a chatbot from scratch](#how-to-set-up-a-chatbot-from-scratch-1)
+### [How to Set up a Chatbot](#How-to-Set-up-a-Chatbot-1)
 
 Discover the Chat Editor and how you can edit the wording and the chat process flow. Use our live demo to test your chatbot.
 
-### [How to adjust the branding](#how-to-adjust-the-branding-1)
+### [How to Adjust the Branding](#how-to-adjust-the-branding-1)
 
 Brand your chatbot, add a logo and define the chat style.
 
-### [How to manage content](#how-to-manage-content-1)
+### [How to Manage Content](#How-to-Manage-Content-1)
 
 Upload your assets, edit your texts and export your giveaway winners easily.
 
-### [How to go live](#how-to-go-live-1)
+### [How to Launch your Chatbot](#How-to-Launch-your-Chatbot-1)
 
 Use your individual landing page to test and discover your options to publish your chatbot.
 
-### [How to measure success](#how-to-measure-success-1)
+### [How to Measure Success](#how-to-measure-success-1)
 
 Dig deeper into your consumer's experience and track your success. Find out what your consumers have to say.
 
@@ -286,7 +286,7 @@ On the Text tab, all text fields are available in aggregated form. Double check 
   <img src="texts.png" alt="text" title="text" width="500"/>
 </p>
 
-## How to launch your chatbot
+## How to Launch your Chatbot
 
 Before you go live with your chatbot, make sure you test it and of course, share it with your colleagues. To do so, you will find three options on how to securely test your chatbot and grant feedback.
 
