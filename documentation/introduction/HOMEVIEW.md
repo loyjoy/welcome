@@ -5,7 +5,7 @@
 
 # How to build your LoyJoy Home View
 
-Are you ready to take your chat experiences to the next level and enable the amazing possibilities of the LoyJoy Home Screen? Great. You are in the right place!
+Are you ready to take your chat experiences to the next level and discover the possibilities of the LoyJoy Home Screen? Great - You are in the right place!
 
 <p align="center">
   <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
