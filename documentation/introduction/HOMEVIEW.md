@@ -33,7 +33,9 @@ Open the Home View by clicking the button in the right corner of your chatbot. I
 
 We already created two experience groups in our bicyle chatbot to use in our Home View. To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
 
-(Pic missing- defaulting an experience)
+<p align="center">
+  <img src="set_default_experience.png" alt="Set default experience" title="Set default experience" width="500"/>
+</p>
 
 Now there are several widgets that you can add to your Home View. 
 To do so, click the plus of the widget of your choice.
@@ -111,8 +113,29 @@ Create your stories with the free tool XXX and simply add the URL of your story 
   <img src="story_url.png" alt="Add URL" title="Add URL" width="500"/>
 </p>
 
+First, click on "Create new story".
 
-(Erkläre kurz das Tool und zeige insight)
+<p align="center">
+  <img src="create_new_story.png" alt="Create a new story" title="Create a new story" width="500"/>
+</p>
+
+Now you see the editor with which you can create your story. Add pictures, text or videos. Once you are done, click on "preview" to get the URL.
+
+<p align="center">
+  <img src="story_preview.png" alt="Editor" title="Editor" width="500"/>
+</p>
+
+To get the URL you now have to click on the sign in the upper right corner.
+
+<p align="center">
+  <img src="share.png" alt="Share" title="Share" width="500"/>
+</p>
+
+Finally click on "Get link". Now the link has been copied and you can paste it at home view.
+
+<p align="center">
+  <img src="get_link.png" alt="Get link" title="Get link" width="500"/>
+</p>
 
 Additionally, add an avatar image and a logo. 
 
@@ -143,7 +166,9 @@ Place your experiences in the Home View by using the groups widget.
 
 To select which experience groups to display in the Home View just active the button of each experience group.
 
-(Pic 3)
+<p align="center">
+  <img src="show_process_group.png" alt="Groups widget" title="Groups widget" width="300"/>
+</p>
 
 Add an image and avatar image to each experience of your Home View and choose a title and a slogan. 
 
