@@ -92,6 +92,27 @@ LoyJoy('boot', {
 </script>
 ```
 
+### Event Token
+
+Events can include a `token` field. This token is a JSON web token with the issuer `map iss` and includes the email, as well as optionally the first name and last name of logged-in users. One example for such a token with the secret `test-secret`:
+
+```
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtYXAgaXNzIiwiZW1haWwiOiJ0ZXN0QGxveWpveS5jb20ifQ.CjH4UxbVkCLfZ19Tz7_9_gjRCaFf6fkYbuUtnDPFmOw
+```
+
+The secret for this token can be set in the tenant settings in the tenant tab in the field `Secret JWT key`.
+
+A full event object looks like this:
+
+```JSON
+{
+  "bot_id": "79afa326-74d3-44ac-a645-da5554fa685c",
+  "process_id": "ef613f3d-1390-4796-8c95-58a19f44e14f",
+  "process_name": "Test-Name",
+  "email": "test@loyjoy.com",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtYXAgaXNzIiwiZW1haWwiOiJ0ZXN0QGxveWpveS5jb20ifQ.CjH4UxbVkCLfZ19Tz7_9_gjRCaFf6fkYbuUtnDPFmOw"
+}
+```
 
 ## Remove
 
