@@ -119,7 +119,7 @@ First, click on "Create new story".
   <img src="create_new_story.png" alt="Create a new story" title="Create a new story" width="500"/>
 </p>
 
-Now you see the editor with which you can create your story. Add pictures, text or videos. Once you are done, click on "preview" to get the URL.
+Now you see the editor with which you can create your story. Add pictures, text, or videos. Once you are done, click on "preview" to get the URL.
 
 <p align="center">
   <img src="story_preview.png" alt="Editor" title="Editor" width="500"/>
@@ -131,10 +131,10 @@ To get the URL you now have to click on the sign in the upper right corner.
   <img src="share.png" alt="Share" title="Share" width="500"/>
 </p>
 
-Finally click on "Get link". Now the link has been copied and you can paste it at home view.
+Finally, click on "Get link". Now the link has been copied and you can paste it at home view.
 
 <p align="center">
-  <img src="get_link.png" alt="Get link" title="Get link" width="500"/>
+  <img src="get_link.png" alt="Get link" title="Get link" width="300"/>
 </p>
 
 Additionally, add an avatar image and a logo. 
