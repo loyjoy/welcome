@@ -128,7 +128,9 @@ Simply drag and drop the process blocks into your flow.
 
 Once you have added all your process blocks, the next step would be editing. Click "Close process editor" to open the Chat Flow Editor.
 
-(Screenshot Chat Flow Editor full screen)
+<p align="center">
+  <img src="chatflow_editor.gif" alt="Chat flow editor" title="Chat flow editor" width="500"/>
+</p>
 
 <p align="center">
   <img src="editor_close.png" alt="Close process editor" title="Close process editor" width="500"/>
