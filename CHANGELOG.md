@@ -16,6 +16,8 @@ All notable changes to LoyJoy will be documented in this file.
   - This provides you with information about what a user has entered in which context and can be explored in the live menu.
 - The coin image is now editable for Loyalty programs
 - An image can now be used as a chat background 
+- 👶🧒👵 A minimum age can be set for the birthdate
+  - In the LoyJoy chat UI only years in accordance with this minimum age can be selected
 
 ## release-2020-09-14
 
