@@ -6,11 +6,13 @@
 # How to build your LoyJoy Home View
 
 Are you ready to take your chat experiences to the next level and enable the amazing possibilities of the LoyJoy Home Screen? Great. You are in the right place!
-This article will guide you through the features of the LoyJoy Home View and explain how to use them in the best ways. The Home View lets you create a responsive web application to easily navigate through different customer experiences. In addition to your well-known LoyJoy expereinces, let me introduce you to our LoyJoy Stories. Present your content in exciting social-media-like Stories and discover the new era of Conversational Marketing!
 
 <p align="center">
   <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
 </p>
+
+This article will guide you through the features of the LoyJoy Home View and explain how to use them in the best ways. The Home View lets you create a responsive web application to easily navigate through different customer experiences. In addition to your well-known LoyJoy expereinces, let me introduce you to our LoyJoy Stories. Present your content in exciting social-media-like Stories and discover the new era of Conversational Marketing!
+
 
 Check out the different Home View components:
 
