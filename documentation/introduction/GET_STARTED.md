@@ -239,7 +239,7 @@ Some consumers will type something into the open text field at the bottom of the
 You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies.
 
 <p align="center">
-  <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
+  <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="500"/>
   <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="200"/>
 </p>
 
@@ -259,7 +259,7 @@ You can also build your chatbot in more than one language. A text field will app
 Now enter your default language.
 
 <p align="center">
-  <img src="language_example.png" alt="Language example" title="Language example" width="500"/>
+  <img src="language_example.png" alt="Language example" title="Language example" width="200"/>
   <img src="language_example_text.png" alt="Language example text" title="Language example text" width="200"/>
 </p>
 
