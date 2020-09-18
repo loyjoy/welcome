@@ -107,19 +107,19 @@ Then choose the size of your avatar image for your stories within the Home Scree
 </p>
 
 
-Create your stories with the free tool XXX and simply add the URL of your story to the story components in LoyJoy.
+Create your stories with the free tool https://makestories.io/ and simply add the URL of your story to the story components in LoyJoy.
 
 <p align="center">
   <img src="story_url.png" alt="Add URL" title="Add URL" width="500"/>
 </p>
 
-First, click on "Create new story".
+With this tool you can build your stories.
 
 <p align="center">
   <img src="create_new_story.png" alt="Create a new story" title="Create a new story" width="500"/>
 </p>
 
-Now you see the editor with which you can create your story. Add pictures, text, or videos. Once you are done, click on "preview" to get the URL.
+Simply click on "preview" to copy the URL of your story.
 
 <p align="center">
   <img src="story_preview.png" alt="Editor" title="Editor" width="500"/>
