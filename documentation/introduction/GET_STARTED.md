@@ -147,7 +147,7 @@ To add hyperlinks, emojis and variables to your texts, click on the small button
 Adding a hyperlink to your text will require a link text (in square brackets) and an URL link (in round brackets).
 
 <p align="center">
-   <img src="link_example.png" alt="Example of using links" title="Example of using links" width="600"/>
+   <img src="link_example.png" alt="Example of using links" title="Example of using links" width="500"/>
 </p>
 
 This is how a hyperlink looks like for the user.
@@ -177,8 +177,8 @@ To make sure you stay on top of your chat flow, you can name your process blocks
 Now it is time to try out what you have built up so far. Hit "Refresh Preview" and open the chat window by clicking on the chat bubble at the bottom. 
 
 <p align="center">
-  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="500"/>
-  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="100"/>
+  <img src="refresh_preview.png" alt="Refresh preview" title="Refresh preivew" width="400"/>
+  <img src="button.png" alt="Chatbutton" title="Chatbutton" width="50"/>
 </p>
 
 Your chatbot will open and you can check out your progress. Whenever you wish to restart the flow, simply press "Refresh Preview" again.
@@ -201,15 +201,15 @@ Let's brand your chatbot to your preferences together. Give your chatbot a name 
 Then you can add the logo to your brand. It will appear in the upper right corner of the header of your chatbot.
 
 <p align="center">
-  <img src="upload_logo.png" alt="Upload logo" title="Upload logo" width="200"/>
-  <img src="branding_example_logo.png" alt="Example logo" title="Example logo" width="300"/>
+  <img src="upload_logo.png" alt="Upload logo" title="Upload logo" width="300"/>
+  <img src="branding_example_logo.png" alt="Example logo" title="Example logo" width="200"/>
 </p>
 
 You can also choose the main colour for your chatbot matching the brand's style.
 
 <p align="center">
-  <img src="change_colour.png" alt="Change colour" title="Change colour" width="400"/>
-  <img src="colour_change_example.png" alt="Example change of colour" title="Example change of colour" width="300"/>
+  <img src="change_colour.png" alt="Change colour" title="Change colour" width="200"/>
+  <img src="colour_change_example.png" alt="Example change of colour" title="Example change of colour" width="200"/>
 </p>
 
 An email address must be set to address customer inquiries.
@@ -239,7 +239,7 @@ Some consumers will type something into the open text field at the bottom of the
 You can set fixed buttons in your chatbot to offer your customers the option to jump right into a certain action by using our persistent quick replies.
 
 <p align="center">
-  <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="500"/>
+  <img src="persistent_quick_replies.png" alt="Persistent quick replies" title="Persistent quick replies" width="300"/>
   <img src="persistent_click_example.png" alt="Persistent quick replies example" title="Persistent quick replies example" width="200"/>
 </p>
 
@@ -259,8 +259,8 @@ You can also build your chatbot in more than one language. A text field will app
 Now enter your default language.
 
 <p align="center">
-  <img src="language_example.png" alt="Language example" title="Language example" width="200"/>
-  <img src="language_example_text.png" alt="Language example text" title="Language example text" width="200"/>
+  <img src="language_example.png" alt="Language example" title="Language example" width="300"/>
+  <img src="language_example_text.png" alt="Language example text" title="Language example text" width="300"/>
 </p>
 
 
@@ -297,7 +297,7 @@ View your chatbot on a unique landing page. This landing page is just for your c
 
 
 <p align="center">
-  <img src="share_landing_page.png" alt="Share landing page" title="Share landing page" width="300"/>
+  <img src="share_landing_page.png" alt="Share landing page" title="Share landing page" width="200"/>
   <img src="example_landing_page.png" alt="Example for landing page" title="Example for landing page" width="500"/>
 </p>
 
