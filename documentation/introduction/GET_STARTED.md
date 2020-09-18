@@ -6,7 +6,7 @@
 # Get started with the Conversational Marketing Cloud
 We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! Very soon you will be able to build your awesome customer journeys yourself. Let’s get started!
 
-This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build customer journeys that will excite your customers. 
+This article will guide you through your very first access to the LoyJoy platform and help you understand the wide range of possibilities available for you to build conversational journeys that will excite your customers. 
 
 ### [How to Log in](#how-to-Log-in-1)
 
