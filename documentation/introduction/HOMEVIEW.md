@@ -119,19 +119,19 @@ With this tool you can build your stories.
   <img src="create_new_story.png" alt="Create a new story" title="Create a new story" width="500"/>
 </p>
 
-Simply click on "preview" to copy the URL of your story.
+Simply click on "preview" to display your story.
 
 <p align="center">
   <img src="story_preview.png" alt="Editor" title="Editor" width="500"/>
 </p>
 
-To get the URL you now have to click on the sign in the upper right corner.
+Then click on the share button in upper right corner.
 
 <p align="center">
   <img src="share.png" alt="Share" title="Share" width="500"/>
 </p>
 
-Finally, click on "Get link". Now the link has been copied and you can paste it at home view.
+Finally, click on "Get link" and paste it to your LoyJoy Home View Stories.
 
 <p align="center">
   <img src="get_link.png" alt="Get link" title="Get link" width="300"/>
