@@ -11,7 +11,7 @@ Are you ready to take your chat experiences to the next level and discover the p
   <img src="home_view.png" alt="Home View" title="Home View" width="300"/>
 </p>
 
-This article will guide you through the features of the LoyJoy Home View and explain how to use them in the best ways. The Home View lets you create a responsive web application to easily navigate through different customer experiences. In addition to your well-known LoyJoy expereinces, let me introduce you to our LoyJoy Stories. Present your content in exciting social-media-like Stories and discover the new era of Conversational Marketing!
+This article will guide you through the features of the LoyJoy Home View and explain how to use them in the best ways. The Home View lets you create a responsive web application to easily navigate through different customer experiences. In addition to your well-known LoyJoy experiences, let me introduce you to our LoyJoy Stories. Present your content in exciting social-media-like Stories and discover the new era of Conversational Marketing!
 
 
 Check out the different Home View components:
@@ -31,7 +31,7 @@ Open the Home View by clicking the button in the right corner of your chatbot. I
   <img src="home_view_startpage.png" alt="Home View Startpage" title="Home View Startpage" width="500"/>
 </p>
 
-We already created two experience groups in our bicyle chatbot to use in our Home View. To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
+We already created two experience groups in our bicycle chatbot to use in our Home View. To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
 
 <p align="center">
   <img src="set_default_experience.png" alt="Set default experience" title="Set default experience" width="500"/>
@@ -44,7 +44,7 @@ To do so, click the plus of the widget of your choice.
   <img src="adding_widgets.gif" alt="Add widgets" title="Add widgets" width="300"/>
 </p>
 
-Drag and drop the components until they are in your refered order.
+Drag and drop the components until they are in your preferred order.
 
 <p align="center">
   <img src="change_order_widgets.gif" alt="Change order widgets" title="Change order widgets" width="300"/>
@@ -67,7 +67,7 @@ Here you can add an image that will be displayed at the top of the page in the h
 
 ### Hero widget
 
-The hero widget will be a cover image with an optional greating text field. 
+The hero widget will be a cover image with an optional greeting text field. 
 
 <p align="center">
   <img src="hero_widget.png" alt="hero widget" title="hero widget" width="300"/>
@@ -86,7 +86,7 @@ Introduce your customers and jump directly into one of your experiences by linki
 
 ### Stories widget
 
-Through stories, you can create exciting insights for your customers. Provide enjoyable content by adding small video sequences in form of stories to your Home View.
+Through stories, you can create exciting insights for your customers. Provide enjoyable content by adding small video sequences in the form of stories to your Home View.
 
 <p align="center">
   <img src="stories_widget.png" alt="Stories widget" title="Stories widget" width="300"/>
@@ -113,7 +113,7 @@ Create your stories with the free tool https://makestories.io/ and simply add th
   <img src="story_url.png" alt="Add URL" title="Add URL" width="500"/>
 </p>
 
-With this tool you can build your stories.
+With this tool, you can build your stories.
 
 <p align="center">
   <img src="create_new_story.png" alt="Create a new story" title="Create a new story" width="500"/>
@@ -125,19 +125,19 @@ Simply click on "preview" to display your story.
   <img src="story_preview.png" alt="Editor" title="Editor" width="500"/>
 </p>
 
-Then click on the share button in upper right corner.
+Then click on the Share button in the upper right corner.
 
 <p align="center">
   <img src="share.png" alt="Share" title="Share" width="500"/>
 </p>
 
-Finally, click on "Get link" and paste it to your LoyJoy Home View Stories.
+Finally, click on "Get Link" and paste it to your LoyJoy Home View Stories.
 
 <p align="center">
   <img src="get_link.png" alt="Get link" title="Get link" width="300"/>
 </p>
 
-Additionally, add an avatar image and a logo. 
+Back in the LoyJoy backend, you can add an avatar image and a logo. 
 
 <p align="center">
   <img src="avatar_example.png" alt="Example Avatar" title="Example Avatar" width="500"/>
@@ -150,7 +150,7 @@ Let your customer jump directly into one of your experiences by calling to actio
 </p>
 
 
-To review the story, click it. We created a story for this years bicyle conference. Be creative!
+To review the story, click it. We created a story for this year bicycle conference. Be creative!
 
 <p align="center">
   <img src="story_bicycle.gif" alt="Example Story" title="Example Story" width="300"/>
@@ -188,7 +188,7 @@ This is how our two experience groups look like in the Home View.
   <img src="notifications_widget.png" alt="Notifications Widget" title="Notifications Widget" width="300"/>
 </p>
 
-This widget presents a messages for the customer. Call out for action, excite your customer or guide them - all possible by using the notifications widget.
+This widget presents a message for the customer. Call out for action, excite your customer or guide them - all possible by using the notifications widget.
 
 <p align="center">
   <img src="notifications_example.png" alt="Notifications example" title="Notifications example" width="600"/>
