@@ -12,22 +12,24 @@ All notable changes to LoyJoy will be documented in this file.
 - The carousel component got a rework
 - Intent groups can now be scoped to a bot
   - This enables you to activate specific Intent groups for specific bots.
-- When a new user message arrives basic flow information like Bot, Experience and Building block are now stored additionally.
+- When a new user message arrives, process information such as bot, experience and process module are now stored additionally.
   - This provides you with information about what a user has entered in which context and can be explored in the live menu.
-- The coin image is now editable for Loyalty programs
-- An image can now be used as a chat background 
 - 👶🧒👵 A minimum age can be set for the birthdate
   - In the LoyJoy chat UI only years in accordance with this minimum age can be selected
 
-## release-2020-09-14
+## release-2020-09-21
 
 ### Added
+
 - ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
   - Including the ability to use the trusted vendors feature
+- The coin image is now editable for Loyalty programs
+- An image can now be used as a chat background 
 
 ## release-2020-09-14
 
 ### Added
+
 - Mini program:
   - Allow for multiple variables to be set at the same time
   - Allow blocking process flow until variables are set from within the mini program
