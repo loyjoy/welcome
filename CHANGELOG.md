@@ -16,6 +16,10 @@ All notable changes to LoyJoy will be documented in this file.
   - This provides you with information about what a user has entered in which context and can be explored in the live menu.
 - 👶🧒👵 A minimum age can be set for the birthdate
   - In the LoyJoy chat UI only years in accordance with this minimum age can be selected
+- 📋📋📋 New process block: 'Decision table' for central evaluation of bpmn process variables and other conditions.
+  - If your process tends to be too complicated with many branches this process block might help you in simplifying your process
+  - It is an implementation of the open DMN standard by the [OMG group](https://www.omg.org/)
+
 
 ## release-2020-09-21
 
