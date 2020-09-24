@@ -21,6 +21,10 @@ All notable changes to LoyJoy will be documented in this file.
   - It is an implementation of the open DMN standard by the [OMG group](https://www.omg.org/)
 
 
+### Fixed
+
+- 🔗 Links are parsed correctly in questionnaire answers
+
 ## release-2020-09-21
 
 ### Added
