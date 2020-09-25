@@ -19,6 +19,7 @@ All notable changes to LoyJoy will be documented in this file.
 - 📋📋📋 New process block: 'Decision table' for central evaluation and exection of bpmn process variables and other conditions.
   - If your process tends to be too complicated with many branches this process block might help you in simplifying your process
   - It is an implementation of the open DMN standard by the [OMG group](https://www.omg.org/)
+- Chat messages in live view now show the experience, where they occurred.
 
 
 ### Fixed
