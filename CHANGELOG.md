@@ -10,8 +10,6 @@ All notable changes to LoyJoy will be documented in this file.
 - 🎞️ Image sharing via new Image Sharing process block:
   - Images sent via Snapshot are pre-selected for sharing
 - The carousel component got a rework
-- Intent groups can now be scoped to a bot
-  - This enables you to activate specific Intent groups for specific bots.
 - When a new user message arrives, process information such as bot, experience and process module are now stored additionally.
   - This provides you with information about what a user has entered in which context and can be explored in the live menu.
 - 👶🧒👵 A minimum age can be set for the birthdate
@@ -19,17 +17,18 @@ All notable changes to LoyJoy will be documented in this file.
 - 📋📋📋 New process block: 'Decision table' for central evaluation and exection of bpmn process variables and other conditions.
   - If your process tends to be too complicated with many branches this process block might help you in simplifying your process
   - It is an implementation of the open DMN standard by the [OMG group](https://www.omg.org/)
-- Chat messages in live view now show the experience, where they occurred.
-
 
 ### Fixed
 
 - 🔗 Links are parsed correctly in questionnaire answers
 
-## release-2020-09-21
+
+## release-2020-09-25
 
 ### Added
 
+- Intent groups can now be scoped to a bot
+  - This enables you to activate specific Intent groups for specific bots.
 - ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
   - Including the ability to use the trusted vendors feature
 - The coin image is now editable for Loyalty programs
