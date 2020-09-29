@@ -3,22 +3,29 @@
 
 All notable changes to LoyJoy will be documented in this file.
 
+
 ## Unreleased
 
 ### Added
 
 - 📤 Add a catch-all subscription with whitelist for Pub/Sub
   - Allows all events to be sent to a Pub/Sub topic
-- 🎞️ Image sharing via new Image Sharing process block:
-  - Images sent via Snapshot are pre-selected for sharing
 - The carousel component got a rework
-- When a new user message arrives, process information such as bot, experience and process module are now stored additionally.
-  - This provides you with information about what a user has entered in which context and can be explored in the live menu.
-- 👶🧒👵 A minimum age can be set for the birthdate
-  - In the LoyJoy chat UI only years in accordance with this minimum age can be selected
+
+
+## release-2020-09-29
+
+### Added
+
 - 📋📋📋 New process block: 'Decision table' for central evaluation and exection of bpmn process variables and other conditions.
   - If your process tends to be too complicated with many branches this process block might help you in simplifying your process
   - It is an implementation of the open DMN standard by the [OMG group](https://www.omg.org/)
+- When a new user message arrives, process information such as bot, experience and process module are now stored additionally.
+  - This provides you with information about what a user has entered in which context and can be explored in the live menu.
+- 🎞️ Image sharing via new Image Sharing process block:
+  - Images sent via Snapshot are pre-selected for sharing
+- 👶🧒👵 A minimum age can be set for the birthdate
+  - In the LoyJoy chat UI only years in accordance with this minimum age can be selected
 
 ### Fixed
 
