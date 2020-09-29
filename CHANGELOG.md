@@ -7,6 +7,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- 📤 Add a catch-all subscription with whitelist for Pub/Sub
+  - Allows all events to be sent to a Pub/Sub topic
 - 🎞️ Image sharing via new Image Sharing process block:
   - Images sent via Snapshot are pre-selected for sharing
 - The carousel component got a rework
