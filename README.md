@@ -6,9 +6,9 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 
 | Documentation                                                                         |                                                  |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [How to get started with LoyJoy](documentation/introduction/GET_STARTED.md) | Begin your journey with the Conversational Marketing Cloud      |
+| [How to get started with LoyJoy](documentation/introduction/GET_STARTED.md) | Begin your journey with the Conversational Marketing Cloud.      |
 | [ChangeLog](CHANGELOG.md)                                                             | Changes and version history.                     |
-| [Process Building Blocks](documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md)| Discover the LoyJoy process building blocks |
+| [Process Building Blocks](documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md)| Discover the LoyJoy process building blocks. |
 | [Home View](documentation/introduction/HOMEVIEW.md) | Set up your own Home View      |
 | [JavaScript API](documentation/JAVASCRIPT_API.md)                                     | JavaScript API documentation.                    |
 | [Tracking Integration](documentation/GOOGLE_TAG_MANAGER.md)                           | Tracking integration with Google Tag Manager.    |
