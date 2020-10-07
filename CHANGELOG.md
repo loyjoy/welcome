@@ -13,6 +13,16 @@ All notable changes to LoyJoy will be documented in this file.
 - The carousel component got a rework
 
 
+## release-2020-10-06
+
+### Added
+
+- 💬 Refined Natural Language Processing (NLP) pipeline:
+  - NLP models can now be trained by bot (before by tenant).
+  - NLP models are stored in a storage after training.
+  - NLP training can be canceled.
+
+
 ## release-2020-09-29
 
 ### Added
