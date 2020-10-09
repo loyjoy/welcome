@@ -14,6 +14,7 @@ The tracking integration is based on the LoyJoy JavaScript API. Through the Java
 | open                | The chat was opened. |
 | show                | The chat was displayed / no longer hidden. |
 | start               | A first message was sent in the chat (if no preview messages are set this means that the chat was opened). |
+| interaction         | A session has interacted for the first time (counted by cookie-session) |
 | participation       | A customer has taken part in a competition in the chat. |
 | signin              | A customer has logged in to the chat. |
 | close               | The chat was closed by the customer or via API. |
