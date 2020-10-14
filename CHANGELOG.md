@@ -8,6 +8,11 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+
+## release-2020-10-14
+
+### Added
+
 - 📤 Add a catch-all subscription with whitelist for Pub/Sub
   - Allows all events to be sent to a Pub/Sub topic
 - The carousel component got a rework
