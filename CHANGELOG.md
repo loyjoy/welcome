@@ -13,9 +13,12 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- 🖼️ The carousel component got a rework
+  - Video galleries, image galleries, product galleries, prizes, rewards etc. now are presented with a smooth slider
+  - The slider teases successive elements of the gallery, giving the chat a horizontal dimension
 - 📤 Add a catch-all subscription with whitelist for Pub/Sub
-  - Allows all events to be sent to a Pub/Sub topic
-- The carousel component got a rework
+  - Allows all types of events to be sent to a Pub/Sub topic.
+  - Event types to pusblish by Pub/Sub can be configured in integration settings.
 
 
 ## release-2020-10-06
