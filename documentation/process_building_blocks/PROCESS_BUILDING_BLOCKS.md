@@ -114,6 +114,9 @@ Let customers play a fun quiz, add animations to make it real fun.
 ## Region
 Ask for region.
 
+## Reminder
+Schedule reminder notifications for Web push, email etc. individually for your customers, which have given a reminder opt-in.
+
 ## Reminder opt-in
 Ask customers to opt-in for a frequent reminder. GDPR compliant.
 
@@ -122,6 +125,9 @@ Restart the chatflow with this.
 
 ## Rewards
 Customers can view and redeem rewards with their loyalty points.
+
+## Salesforce
+Use this for any data exchange with Salesforce Service Cloud.
 
 ## Scondoo cashback
 Add a cash back feature with our partner Scondoo.
