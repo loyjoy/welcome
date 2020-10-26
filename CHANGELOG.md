@@ -11,6 +11,21 @@ All notable changes to LoyJoy will be documented in this file.
   - This enables you to ask your customer for her/his language. 
   - Possible choices are derived from the languages of the bpmn process.
 
+## release-2020-10-26
+
+### Added
+
+- Reminder process module
+  - Schedule reminder notifications for Web push, email etc. individually for your customers, which have given a reminder opt-in.
+  - Reminder schedules from menu item "Push" can now be found in the reminder process module, which you can add to any process.
+- Refactured campaigns
+  - Campaigns now are more lightweight, focussing on Web push: Simply (1) enter a title, body and URL, (2) optionally select you target customer segment, (3) optionally precalculate the segment size and (4) finally trigger sending of Web push notifications to the selected customer segment. Web push notifications will be sent instantly, without planning overhead.
+- Salesforce process module
+  - Integrate Salesforce into experiences in form of a process module with the new Salesforce process module. You can map arbitrary customer variables to Salesforce data objects and attributes.
+- Background BPMN processes
+  - Some integrations can now trigger background BPMN processes. E.g. the Salesforce integration now can be configured with a specific BPMN process, which then can contain the new Salesforce process module.
+
+
 ## release-2020-10-14
 
 ### Added
