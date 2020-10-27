@@ -10,6 +10,8 @@ All notable changes to LoyJoy will be documented in this file.
 - New Process block: Language selection
   - This enables you to ask your customer for her/his language. 
   - Possible choices are derived from the languages of the bpmn process.
+- 📧 Email process block
+  - Sends email in the process flow
 
 ## release-2020-10-26
 
