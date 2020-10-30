@@ -12,6 +12,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Possible choices are derived from the languages of the bpmn process.
 - 📧 Email process block
   - Sends email in the process flow
+- Add option to ask for Profiling-DOI again in chat
 
 ## release-2020-10-26
 
