@@ -7,12 +7,21 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
+
 - New Process block: Language selection
   - This enables you to ask your customer for her/his language. 
   - Possible choices are derived from the languages of the bpmn process.
+- Add option to ask for Profiling-DOI again in chat
+
+
+## release-2020-11-02
+
+### Added
+
 - 📧 Email process block
   - Sends email in the process flow
-- Add option to ask for Profiling-DOI again in chat
+- Now the functions [`string_replace`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replace(java.lang.CharSequence,%20java.lang.CharSequence)) and [`string_replace_all`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replaceAll(java.lang.String,%20java.lang.String)) can be used in expressions.
+
 
 ## release-2020-10-26
 
