@@ -18,11 +18,11 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- 📧 Email process block
-  - Sends email in the process flow
-- Now the functions [`string_replace`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replace(java.lang.CharSequence,%20java.lang.CharSequence)) and [`string_replace_all`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replaceAll(java.lang.String,%20java.lang.String)) can be used in expressions.
+- 📧 Process module `email`:
+  - Sends email in the process flow to the current customer.
 - Process module `signal`.
   - Most process modules emit events. Now you can place a `signal` process module in any process of the bot, which listens for such events in the bot. When an events occurs, the `signal` process module is triggered in a background process execution. E.g. a use case is to listen for newsletter opt-in events in any process of the bot and trigger a background process, which writes the newsletter opt-in to Salesforce.
+- Added the functions [`string_replace`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replace(java.lang.CharSequence,%20java.lang.CharSequence)) and [`string_replace_all`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replaceAll(java.lang.String,%20java.lang.String)), which can be used in expressions.
 
 
 ## release-2020-10-26
