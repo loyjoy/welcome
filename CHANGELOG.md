@@ -10,10 +10,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 - New Process block: Language selection
   - This enables you to ask your customer for her/his language. 
-  - Possible choices are derived from the languages of the bpmn process.
+  - Possible choices are derived from the languages of the BPMN process.
 - Add option to ask for Profiling-DOI again in chat
 - Add API servlet to start process flow
-- Extend Salesforce integration
+- Extended Salesforce integration
   - Allow upserting objects according to fields
 
 ## release-2020-11-02
