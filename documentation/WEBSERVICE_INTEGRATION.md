@@ -6,6 +6,8 @@ The request body is structured as follows:
 
 ```json
 {
+  "process_definition_id": ...,
+  "process_instance_id": ...,
   "params": {
     "referrer": REFERRER,
     "user-agent": USER_AGENT,
