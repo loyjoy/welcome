@@ -8,7 +8,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Add option to ask for Profiling-DOI again in chat
+- Add restart parameter for widget
+- Add option to ask for Opt-Ins again in chat
 - Add API servlet to start process flow
 - Extended Salesforce integration
   - Allow upserting objects according to fields
