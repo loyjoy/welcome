@@ -230,3 +230,19 @@ LoyJoy('boot', {
 })
 </script>
 ```
+
+## Restart
+
+Tells the chat to restart the process after after a page reload (or after a new `LoyJoy('boot')`).
+
+```
+<script>
+LoyJoy('boot', {
+  bot: BOT_ID,
+  process: OPTIONAL_PROCESS_ID,
+  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
+  restart: true,
+  tenant: OPTIONAL_TENANT_ID
+})
+</script>
+```
