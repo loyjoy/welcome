@@ -246,3 +246,19 @@ LoyJoy('boot', {
 })
 </script>
 ```
+
+## Open
+
+Tells the chat to open the messenger window independent of other configuration settings.
+
+```
+<script>
+LoyJoy('boot', {
+  bot: BOT_ID,
+  open: true,
+  process: OPTIONAL_PROCESS_ID,
+  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
+  tenant: OPTIONAL_TENANT_ID
+})
+</script>
+```
