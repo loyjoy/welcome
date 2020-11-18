@@ -6,6 +6,12 @@ All notable changes to LoyJoy will be documented in this file.
 
 ## Unreleased
 
+### Fixed
+
+- Viber fixes
+
+## release-2020-11-16
+
 ### Added
 
 - Add option to request attributes from ProCampaign
@@ -14,7 +20,6 @@ All notable changes to LoyJoy will be documented in this file.
 - Add API servlet to start process flow
 - Extended Salesforce integration
   - Allow upserting objects according to fields
-
 
 ## release-2020-11-09
 
