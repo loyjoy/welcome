@@ -7,7 +7,7 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
-- Live chat
+- New Process block: Live chat
   - This allows you to directly reply to customer requests
 - New Process block: Appointment
   - You can use this block to let your customers schedule invididual appointments.
