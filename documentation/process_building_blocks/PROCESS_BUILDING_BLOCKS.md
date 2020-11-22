@@ -54,11 +54,17 @@ Dynamically enter push notifications within your experiences.
 ## Instant win
 A raffle with instant winner drawing. Build suspense and let customers know if they have won immediately.
 
+## Language selection
+If multiple languages are available in the chatbot, customers can choose which language they prefer
+
 ## Last name
 Ask for last name and store in CRM.
 
 ## List process instances
 If you allow customers to go through the same experience several times, here they can manage all the stored information and change it.
+
+## Live chat
+Start a live chat with your customers.
 
 ## Loyalty points
 Add a loyalty program to your chat experiences. Customers can receive loyalty points for any action in the chat or in external applications (through API).
@@ -132,11 +138,17 @@ Use this for any data exchange with Salesforce Service Cloud.
 ## Scondoo cashback
 Add a cash back feature with our partner Scondoo.
 
-## Sharing
-Let customers share the chatbot with their friends via email and social media.
+## Share image
+Let your customers share an image from the chat to their friends. This displays a share button that invokes the native sharing mechanism of the device. This works on mobile devices, for desktop devices there is a fallback option.
+
+# Share link
+Invite your customers to share the experience on social media with their friends.
 
 ## Sign in
 Customers enter their email address to sign in. Stored in CRM. Customers can log in again later and access their profile. If they login on a different device or on another channel (WhatsApp, Facebook, WeChat, Alexa, Google) they receive a PIN to verify their identity.
+
+## Signal
+Trigger execution of this process by waiting for an incoming signal/event.
 
 ## Simple message
 Just a plain chat message, add an image optionally.
@@ -167,3 +179,6 @@ Add external web services to exchange information and add rich features to the c
 
 ## Welcome
 Welcome customers, returning customers and use the customer name anywhere.
+
+## Yotpo review
+The review data is first collected in the chat and then transferred here.
