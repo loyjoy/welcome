@@ -7,12 +7,23 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
-- New Process block: Live chat
-  - This allows you to directly reply to customer requests
-- New Process block: Appointment
+
+
+## release-2021-01-07
+
+### Added
+
+- New Process block: Appointment 📅
   - You can use this block to let your customers schedule invididual appointments.
+  - Appointments are stored as iCalendar events, which are sent by email and can be integrated as WebCal into calendar tools such as Google Calendar.
+- New Process block: Live chat 💬
+  - This allows you to directly reply to customer requests
 - New home screen widget: Icon widget
-  - Add up to 5 icons linking to experiences
+  - Add up to 5 icons linking to experiences.
+- Migrated bots and experiences to BPMN XML files
+  - Bots and experiences can be exported as XML files, providing overview over the complete configuration of bots and experiences including texts, variables collected etc.
+  - All XML files are versioned and backed up internally, giving you the chance for rollbacks if needed. If you need a rollback, please contact our support and we can help you.
+
 
 ### Fixed
 
