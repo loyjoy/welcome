@@ -9,6 +9,16 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 
+## release-2021-01-11
+
+### Added
+
+- Upload option for BPMN XML files of bots and processes
+- Intents additionally are matched rule-based against intent training data
+- Added REST endpoints for programmatically downloading XML process definitions
+- Added debug mode in manager that makes internal chat mechanics transparent
+
+
 ## release-2021-01-07
 
 ### Added
