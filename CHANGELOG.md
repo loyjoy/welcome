@@ -7,6 +7,10 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
+- Live Process Brick: Agents configuration
+  - Agents can now be defined on a Live Process Brick.
+  - Agents can declare themselves as online/offline in live view.
+  - If there are no agents online when a user enters the Live Process the building block is skipped.
 
 
 ## release-2021-01-11
