@@ -7,6 +7,8 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
+
+- Process module `Sign In` now triggers the sign in chat flow.
 - Live Process Brick: Agents configuration
   - Agents can now be defined on a Live Process Brick.
   - Agents can declare themselves as online/offline in live view.
