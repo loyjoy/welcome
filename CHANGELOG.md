@@ -14,7 +14,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - Process module `Sign In` now triggers the sign in chat flow.
-- Variables now have a store (Browser, Server) and scope (process-specific, process-independent). Before one could select (session, process, customer), which was less powerful and less clear.
+- Variables now have a store (Browser, Server) and scope (process-specific, process-independent).
 - Live Process Brick: Agents configuration
   - Agents can now be defined on a Live Process Brick.
   - Agents can declare themselves as online/offline in live view.
