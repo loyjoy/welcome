@@ -8,7 +8,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-Live:
+- Live:
   - Animation payload indicator in live view
   - Live view redesign (Work in Progress!)
   - Splitted live and bot messagesessions with tabs
@@ -16,6 +16,7 @@ Live:
   - Added Emojipicker 
   - Switch Online/Offline
   - Define your exit stratgy if agent does not reply
+- Add option to disable user input field
 
 
 ## release-2021-01-15
