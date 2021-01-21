@@ -17,7 +17,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Switch Online/Offline
   - Define your exit stratgy if agent does not reply
 - Add option to disable user input field
-- Add option to lock process from modifications
+- 🔒 Add option to lock process from modifications
 
 
 ## release-2021-01-15
