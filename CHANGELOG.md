@@ -8,9 +8,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Added option to disable user input field
-- Added option to lock process from modifications 🔒
-- The chat can now have an avatar image, representing the bot/live agent.
+- Chat UI
+  - The chat can now have an avatar image, representing the bot/live agent.
+  - Added option to disable user input field
+  - Added option to lock process from modifications 🔒
 - Extended Live chat capabilities
   - Animation payload indicator in live view
   - Live view redesign
