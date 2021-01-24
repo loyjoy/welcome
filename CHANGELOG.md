@@ -20,6 +20,9 @@ All notable changes to LoyJoy will be documented in this file.
   - Added Emoji picker 
   - Switch for agents being online/offline
   - Option for fallback stratgy if agent does not reply
+- Redesigned the branding tab in manager
+  - Branding now only contains options for styling the chat UI (i.e. no texts/content elements)
+  - The branding can be inherited from the bot. This is practical for bots with many processes, which should have the same styling.
 
 
 ## release-2021-01-15
