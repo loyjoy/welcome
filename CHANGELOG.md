@@ -8,16 +8,17 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Live:
+- Added option to disable user input field
+- Added option to lock process from modifications 🔒
+- The chat can now have an avatar image, representing the bot/live agent.
+- Extended Live chat capabilities
   - Animation payload indicator in live view
-  - Live view redesign (Work in Progress!)
-  - Splitted live and bot messagesessions with tabs
+  - Live view redesign
+  - Splitted live and bot message sessions with tabs
   - Notifications with mute button
-  - Added Emojipicker 
-  - Switch Online/Offline
-  - Define your exit stratgy if agent does not reply
-- Add option to disable user input field
-- 🔒 Add option to lock process from modifications
+  - Added Emoji picker 
+  - Switch for agents being online/offline
+  - Option for fallback stratgy if agent does not reply
 
 
 ## release-2021-01-15
