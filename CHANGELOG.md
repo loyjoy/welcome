@@ -23,6 +23,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Redesigned the branding tab in manager
   - Branding now only contains options for styling the chat UI (i.e. no texts/content elements)
   - The branding can be inherited from the bot. This is practical for bots with many processes, which should have the same styling.
+  - Some former branding settings such as SMTP settings, persistence quick replies and timezone now are configured below the list of process modules or in the respective process module
 
 
 ## release-2021-01-15
