@@ -12,6 +12,16 @@ All notable changes to LoyJoy will be documented in this file.
   - The chat can now have an avatar image, representing the bot/live agent.
 
 
+## release-2021-01-28
+
+### Added
+
+- ProCampaign process module: replaced hardcoded configuration properties for consent text and list
+  - consent text is modeled in a mapping as <consent text key> := Function I18nTranslate(<i18n_key from texts table>)
+  - list is modeled in a mapping as <list key> := "1"
+- Sub processes can now be copied in the process editor
+
+
 ## release-2021-01-26
 
 ### Added
