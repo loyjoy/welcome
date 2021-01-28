@@ -17,8 +17,8 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - ProCampaign process module: replaced hardcoded configuration properties for consent text and list
-  - consent text is modeled in a mapping as <consent text key> := Function I18nTranslate(<i18n_key from texts table>)
-  - list is modeled in a mapping as <list key> := "1"
+  - consent text is modeled in a mapping as `<consent text key> := Function I18nTranslate(<i18n_key from texts table>)`
+  - list is modeled in a mapping as `<list key> := "1"
 - Sub processes can now be copied in the process editor
 
 
