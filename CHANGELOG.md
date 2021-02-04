@@ -10,6 +10,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 - Chat UI
   - The chat can now have an avatar image, representing the bot/live agent.
+- Add variable `loyalty_balance`, containing the loyalty point balance for a customer
 
 
 ## release-2021-01-28
