@@ -15,6 +15,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Added a new function `customer_age`.
 - Separated storage for customer variables and process variables into a long-term storage and a transient store for more fine-granular control over variable life cycles.
 - In the chat UI texts are now interpolated in the client, not on the server, enabling a more responsive reaction on variable changes in the UI.
+- In case of a LoyJoy update the manager and chat now asks for a browser reload.
 
 
 ## release-2021-01-28
