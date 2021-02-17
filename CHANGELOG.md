@@ -8,6 +8,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- Product
+  - Button to set variable
+- Data collection
+  - Option to allow dynamic loading of dropdown options
 - Chat UI
   - The chat can now have an avatar image, representing the bot/live agent.
 
