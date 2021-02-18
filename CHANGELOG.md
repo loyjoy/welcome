@@ -10,10 +10,12 @@ All notable changes to LoyJoy will be documented in this file.
 
 - Product
   - Button to set variable
-- Data collection
-  - Option to allow dynamic loading of dropdown options
 - Chat UI
   - The chat can now have an avatar image, representing the bot/live agent.
+- Data collection
+  - Option to allow dynamic loading of dropdown options
+- The imprint is only offered in the chatbot navigation bar, if it is configured.
+- Added Function `IsMobile` to check, if the customer is chatting from a mobile device.
 
 
 ## release-2021-02-17
