@@ -54,10 +54,13 @@ LoyJoy('boot', {
     close: [
       function (obj) {}
     ],
-    customer: [
+    customer_created: [
       function (obj) {}
     ],
     hide: [
+      function (obj) {}
+    ],
+    interaction: [
       function (obj) {}
     ],
     load: [
@@ -66,19 +69,16 @@ LoyJoy('boot', {
     open: [
       function (obj) {}
     ],
-    participation: [
-      function (obj) {}
-    ],
     show: [
       function (obj) {}
     ],
-    signin: [
+    sign_in: [
       function (obj) {}
     ],
-    signout: [
+    sign_out: [
       function (obj) {}
     ],
-    signup: [
+    sign_up: [
       function (obj) {}
     ],
     start: [
