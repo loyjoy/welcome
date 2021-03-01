@@ -3,10 +3,8 @@
 
 Nothing is better than success. Find your boosted performance and learn about your customers on the LoyJoy Analytics Dashboard.
 
+![Analytics](../help_pictures/analytics.png)
 
-<p align="center">
-  <img src="analytics.png" alt="Analytics Start" title="Analytics Start" width="200"/>
-</p>
 
 
 Here you will find general KPIs such as the screen time, participants, and newsletter subscribers for each of your chat experiences.
