@@ -8,14 +8,24 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Product
-  - Button to set variable
+
+## release-2021-03-03
+
+### Added
+
+- Added Function `IsMobile` to check, if the customer is chatting from a mobile device.
+- The imprint is only offered in the chatbot navigation bar, if it is configured.
 - Chat UI
   - The chat can now have an avatar image, representing the bot/live agent.
 - Data collection
   - Option to allow dynamic loading of dropdown options
-- The imprint is only offered in the chatbot navigation bar, if it is configured.
-- Added Function `IsMobile` to check, if the customer is chatting from a mobile device.
+- Product
+  - Button to set variable
+- Phone number process module
+  - Similar to first name and last name now the phone number of the customer can be collected in the chat.
+- SMS opt-in process module
+  - Added process module to collect SMS opt-ins for phone numbers
+- Birth date, first name, last name, phone number, gender, postal address can now be reasked, e.g. for building a customer settings chat process. These values before were only asked once.
 
 
 ## release-2021-02-17
