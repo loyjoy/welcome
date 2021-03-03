@@ -11,15 +11,11 @@ After your first call with the LoyJoy team, you will receive an email inviting y
 
 After confirming your account, please type in your email address to access the tenant.
 
-<p align="center">
-  <img src="sign_in.png" alt="sign in to LoyJoy" title="sign in to LoyJoy" width="300"/>
-</p>
+
 
 Everybody has troubles remembering passwords. That's why re retires the password for good. Each time you will log in to the LoyJoy platform, we will send you a magic link via email. Click the link in the email to access the platform.
 
-<p align="center">
-  <img src="magic_link.png" alt="sign in with magic link" title="sign in with magic link" width="300"/>
-</p>
 
-Tada! Welcome to the LoyJoy platform. It's where the magic happens! :tada:
+
+Tada! Welcome to the LoyJoy platform. It's where the magic happens!
 
