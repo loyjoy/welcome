@@ -6,7 +6,7 @@ We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! 
 After your first call with the LoyJoy team, you will receive an email inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your access your tenant on the LoyJoy platform. Think of your tenant as being your team's playground to create chat experiences and much more. 
 
 
-![confirm](https://raw.githubusercontent.com/loyjoy/welcome/master/documentation/introduction/confirm_account.png)
+![confirm](confirm_account.png)
 
 
 After confirming your account, please type in your email address to access the tenant.
