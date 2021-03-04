@@ -8,6 +8,11 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+
+## release-2021-03-04
+
+### Added
+
 - Added process module `reset` for resetting the complete session, not only changing the process instance.
 
 
