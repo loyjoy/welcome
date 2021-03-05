@@ -215,7 +215,7 @@ LoyJoy('boot', {
 
 ## Freely selected parameters
 
-Passes freely selected parameters to the experience that can be evaluated in the BPMN process using BPMN conditions and other expressions. For example, the parameters can be accessed with the `GetParam function in LoyJoy.
+Passes freely selected parameters to the experience that can be evaluated in the BPMN process using BPMN conditions and other expressions. For example, the parameters can be accessed with the `GetParam` function in LoyJoy.
 
 ```
 <script>
