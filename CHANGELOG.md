@@ -7,7 +7,7 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
-- Mail process brick can send attachments
+- Mail process brick can now send attachments
 
 ## release-2021-03-04
 
