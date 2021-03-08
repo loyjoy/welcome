@@ -6,9 +6,9 @@ There are four different roles: Owner, Editor, Support and Viewer.
 
 1. The role 'Owner' has the most rights. It is advisable that only a few people in your project have this role. 
 
-2. The 'Editor' role can modify and build chatbots, but has no insights into customer data.
+2. The role 'Editor' can modify and build chatbots, but has no insights into customer data.
 
-3. The 'Support' role, on the other hand, can see customer data, but cannot work on the chat bots.
+3. The role 'Support', on the other hand, can see customer data, but cannot work on the chat bots.
 
 4. The role with the least rights is 'Viewer', which can only view analytics. For example, this could be a manager who just wants to see how the chatbots are performing.
 
