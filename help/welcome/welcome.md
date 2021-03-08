@@ -19,4 +19,4 @@ Tada! Welcome to the LoyJoy platform. It's where the magic happens!
 
 
 To learn more about how everything works, watch the [onboarding video.](https://www.youtube.com/watch?v=yWjV9JyEatY&feature=emb_title)
-Did you know, that you can also [add a security key](https://cloud.loyjoy.com/manager/settings) instead of confirming the link in the email?
+Did you know, that you can also [use a security key](https://cloud.loyjoy.com/manager/settings) instead of confirming the link in the email?
