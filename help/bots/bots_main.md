@@ -1,9 +1,12 @@
-## Bots
-On this page you will find everything about the chat bots. A chatbot has at least one experience, e.g. a Giveaway or an Advent calendar or an individual one. In this overview you can see all experiences of your bot.  By clicking on an experience, you can open it and edit it. By clicking on the name of the bot, you can edit and adjust several general features of your bot and your experiences.
+## Bots - Overview
+On this page you will find everything about the chat bots. A chatbot has at least one experience, e.g. a Giveaway or an Advent calendar or an individual one. In this overview you can see all experiences of your bot. 
 
-At the top of the page you can choose between your bots.
+- By clicking on an experience, you can open it and edit it. 
+- By clicking on the name of the bot, you can edit and adjust several general features of your bot and your experiences.
+- At the top of the page you can choose between your bots.
 
-To set up a chat experience you have several options:
+### How to set up your experience
+
 
 #### Option 1: Copy an existing Experience
 
