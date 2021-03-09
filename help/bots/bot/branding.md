@@ -2,13 +2,13 @@
 
 Here you can brand your chatbot to your preferences. These are the things you can adjust:
 
--name of your chatbot
--slogan (to attract customers)
--logo of your brand (in the upper righter corner of your chatbot)
--main colour of your chatbot
--email address (must be set to address customer inquiries)
--imprint
--placeholder for the open text field (if you wish so)
+- name of your chatbot
+- slogan (to attract customers)
+- logo of your brand (in the upper righter corner of your chatbot)
+- main colour of your chatbot
+- email address (must be set to address customer inquiries)
+- imprint
+- placeholder for the open text field (if you wish so)
 
 Configure outgoing emails:
 If you are sending emails through your mail domain, please fill out the fields of 'Configure outgoing emails'. Ask your LoyJoy Success Manager for assistance.
