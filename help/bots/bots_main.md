@@ -7,9 +7,6 @@ On this page you will find everything about the chat bots. A chatbot has at leas
 
   <p>&nbsp;</p>
 
-  <p>&nbsp;</p>
-  
-  
 
 ### How to set up your experience:
 
