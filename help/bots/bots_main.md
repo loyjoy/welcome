@@ -5,9 +5,9 @@ On this page you will find everything about the chat bots. A chatbot has at leas
 - By clicking on the name of the bot, you can edit and adjust several general features of your bot and your experiences.
 - At the top of the page you can choose between your bots.  
 
-  
+  <p>&nbsp;</p>
 
-  
+  <p>&nbsp;</p>
   
   
 
