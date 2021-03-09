@@ -2,8 +2,7 @@
 
 Before you go live with your chatbot, make sure you test it and of course, share it with your colleagues. To do so, you will find three options on how to securely test your chatbot and grant feedback.
 
-1. View your chatbot on a unique landing page. This landing page is just for your chatbot and can be shared with your team. (To spice up the landing page of your chatbot, add a background image by clicking on the settings icon.)
-
+1. View your chatbot on a unique landing page. This landing page is just for your chatbot and can be shared with your team. 
 
 2. You also can review the chatbot on your smartphone. Just scan the QR code and try it out! 
 
