@@ -3,13 +3,13 @@ On this page you will find everything about the chat bots. A chatbot has at leas
 
 - By clicking on an experience, you can open it and edit it. 
 - By clicking on the name of the bot, you can edit and adjust several general features of your bot and your experiences.
-- At the top of the page you can choose between your bots.
+- At the top of the page you can choose between your bots.  
 
+  
 
-
-
-
-
+  
+  
+  
 
 ### How to set up your experience:
 
