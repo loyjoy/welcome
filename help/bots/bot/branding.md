@@ -1,6 +1,6 @@
 ## How to Adjust the Branding
 
-Here you can brand your chatbot to your preferences. These are the things you can adjust:
+Here you can brand your chatbot to your preferences. These are the most important things to adjust:
 
 - name of your chatbot
 - slogan (to attract customers)
