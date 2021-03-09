@@ -9,4 +9,4 @@ The key function can also be placed on the fingerprint scanner of your laptop an
 
 To add a USB security key or a fingerprint security key, just click on "Add security key" and follow the instructions.
 
-At the bottom you will see your personal login data, including your role in the project. 
+At the bottom you will see your personal login data, including your role in the project. If you want to add a new user, [visit 'User accounts'](https://cloud.loyjoy.com/manager/settings?tab=users).
