@@ -1,13 +1,12 @@
 # My account 
 
-## Log in - no password needed
-If you log in, you enter your email address, but you don’t have to enter your password. We did get rid of passwords, because they are insecure and forgettable and it’s just a hassle. Instead you will get an email with a magic link, which is valid for 10 minutes and if you click on it, you’re logged in to the LoyJoy platform. This is as secure as your email account is. 
+When logging in, no password is required. Passwords are insecure and users often forget them. 
+Instead, there are two ways to log in to LoyJoy:
 
-## Add security key
-But we strongly suggest security keys, which are even more secure. The keys cost around 20 $ and you just put them into your USB-port. Persons without this key can’t log into your platform account.
+1. Via a magic link, which is sent to the user's email address for login and is valid for 10 minutes.
+2. By using a security key! This is currently the most secure login option available and is strongly recommended. Keys are available in retail for about 20 Euro and can also be used to secure e.g. Google and Facebook accounts (extended security).
+The key function can also be placed on the fingerprint scanner of your laptop and is then even more convenient.
 
-If you have a fingerprint reader on your device (e.g. your Laptop) you can also use that as a security key, but keep in mind to have 2 keys if you have to switch your device for example.
+To add a USB security key or a fingerprint security key, just click on "Add security key" and follow the instructions.
 
-To add a USB security key or a fingerprint security key, just click on ‚Add security key‘ and select one of the possibilities.
-
-You can see your Log-in data in the lower part, including your role in the project.
+At the bottom you will see your personal login data, including your role in the project. 
