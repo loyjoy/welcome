@@ -16,4 +16,4 @@ There are so many ways to publish and distribute your chatbot. One way is to pla
 But there are much more ways to publish your chatbot such as various social media channels. 
 To post your chatbot directly into an Instagram Story, simply copy and paste the appropriate link into the Swipe-Up link.
 
-If you have questions for other channels (like Amazon Alexa, Facebook or WhatsApp), please contact your LoyJoy Success manager.
+If you have questions regarding other channels (like Amazon Alexa, Facebook or WhatsApp), please contact your LoyJoy Success manager.
