@@ -1,12 +1,8 @@
 ### Set up the Home View
 
-Open the Home View editor by clicking on the bar on top of your experiences. In our example, we build a Home View about bicycles.
+This app-like view enables you to combine multiple chatbot experiences and create a rich conversational environment.
 
-<p align="center">
-  <img src="accessHomeView.png" alt="Home View Startpage" title="Home View Startpage" width="500"/>
-</p>
-
-We already created two experience groups in our bicycle chatbot to use in our Home View. To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
+To link a certain experience to the Home View, create a new experience group with the experience concerned and set it as the default experience.
 
 <p align="center">
   <img src="set_default_experience.png" alt="Set default experience" title="Set default experience" width="500"/>
