@@ -5,7 +5,11 @@ On this page you will find everything about the chat bots. A chatbot has at leas
 - By clicking on the name of the bot, you can edit and adjust several general features of your bot and your experiences.
 - At the top of the page you can choose between your bots.
 
+
+
 ### How to set up your experience:
+
+
 
 ###### 1. Copy an existing Experience
 Click on the three dots of the chat experience you wish to copy (e.g. an amazing chat experience of your colleagues) and select "Copy Experience".
