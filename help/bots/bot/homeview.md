@@ -1,8 +1,14 @@
 ### Set up the Home View
 
 This app-like view enables you to combine multiple chatbot experiences and create a rich conversational environment.
-You can add several different widgets, but you should start by adding a background and a logo for your navigation bar. Whenever you want to check how your changes look, just click 'Refresh Preview' and open the Chat Bubble.
 
+Here you can see an example home view: 
+
+![homeview-example](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/bot/homeview.png)
+
+[Check out how it was build!](https://github.com/loyjoy/welcome/blob/master/documentation/introduction/HOMEVIEW.md)
+
+You can add several different widgets, but you should start by adding a background and a logo for your navigation bar. Whenever you want to check how your changes look, just click 'Refresh Preview' and open the Chat Bubble.
 Now there are several widgets that you can add to your Home View, by clicking the plus of the widget of your choice.
 You can drag and drop the components until they are in your preferred order.
 
@@ -42,8 +48,4 @@ The roster shows the customer's previous chats and interactions with your chat e
 Let your customers go back to previous conversations just like they would do while chatting with a friend.
 
 
-Here you can see an example home view: 
 
-![homeview-example](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/bot/homeview.png)
-
-[Check out how it was build!](https://github.com/loyjoy/welcome/blob/master/documentation/introduction/HOMEVIEW.md)
