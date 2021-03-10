@@ -1,4 +1,4 @@
-## The Chat Flow Editor
+# The Chat Flow Editor
 
 Let's dive right into the Process Editor, the heart of every chat flow. On the left side, you can find [all process blocks](https://github.com/loyjoy/welcome/blob/master/documentation/process_building_blocks/PROCESS_BUILDING_BLOCKS.md) to use for your chat flow. 
 
@@ -17,7 +17,7 @@ Do not worry about saving your progress. We have your back! **Every edit is auto
 
 
 
-### Tips & Tricks
+# Tips & Tricks
 
 To **add hyperlinks, emojis and variables** to your texts, click on the small button at the end of each text field. 
 
