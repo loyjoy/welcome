@@ -30,7 +30,7 @@ To **add hyperlinks, emojis and variables** to your texts, click on the small bu
 
 In the lower right corner of the process blocks you will find three icons to name, copy and condition your process modules:
 
-![name copy conditions](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/processes/name_copy_condition.png) 
+![name copy conditions](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/processes/name_copy_conditions.png) 
 
 To make sure you stay on top of your chat flow, you can **name your process blocks** according to their use by clicking in the three dots on the lower right corner of your process block. This helps you to navigate through your flow when complexity grows.
 
