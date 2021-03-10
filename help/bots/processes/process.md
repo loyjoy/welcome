@@ -6,7 +6,7 @@ Simply **drag and drop** the process blocks into your flow.
 
 Once you have added all your process blocks, the next step would be editing. Click "Close process editor" to open the Chat Flow Editor.
 
-![confirm2](https://raw.githubusercontent.com/loyjoy/welcome/master/help/welcome/confirm_account.png)
+![confirm2](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/processes/confirm_account.png)
 
 Now you can adjust the different process blocks. Feel free to insert your prefered text into the text fields. Click on each process block to edit its texts. 
 
@@ -22,7 +22,7 @@ To make sure you stay on top of your chat flow, you can **name your process bloc
 
 To **add hyperlinks, emojis and variables** to your texts, click on the small button at the end of each text field. 
 
-![confirm2](https://raw.githubusercontent.com/loyjoy/welcome/master/help/welcome/confirm_account.png 
+![add hyperlinks, emojis, variables](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/processes/adding_links_etc.png) 
 
 1. Hyperlinks: Adding a hyperlink to your text will require a link text (in square brackets) and an URL link (in round brackets).
 
