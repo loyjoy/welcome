@@ -13,15 +13,11 @@ Now you can adjust the different process blocks. Feel free to insert your prefer
 If you want to try out what you have built up so far. Hit "Refresh Preview" and open the chat window by clicking on the chat bubble at the bottom. Your chatbot will open and you can check out your progress. Whenever you wish to restart the flow, simply press "Refresh Preview" again.
 
 
-Do not worry about saving your progress. We have your back! **Every edit is automatically saved.**    
+Do not worry about saving your progress. We have your back! **Every edit is automatically saved.**  
   
     
       
-      
-
-
-
-# Tips & Tricks
+ # Tips & Tricks
 
 To **add hyperlinks, emojis and variables** to your texts, click on the small button at the end of each text field. 
 
