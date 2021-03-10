@@ -1,5 +1,7 @@
-# Set up your account and secure it
+# Your tenant
 
-Make sure your LoyJoy tenant is secured by using an USB security key or the build-in finger print sensor of your computer. We recommend purchasing [FIDO2 security keys](https://www.amazon.com/s?k=FIDO2+security+keys&ref=nb_sb_noss) for your team.
 
-Klick on 'Add security key' to add a key to your user account. From now on, you can simply login to your LoyJoy tenant without the magic link simply using the key.
+Here you can set a name for your tenant. In case you are working on multiple teams, this will help you organizing your tenants and jump right into the right one. Be aware that any changes affect the whole team. 
+
+You can also delete your tenant and all customer data here. This action is irreversible.
+
