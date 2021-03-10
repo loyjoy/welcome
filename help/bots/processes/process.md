@@ -15,9 +15,7 @@ If you want to try out what you have built up so far. Hit "Refresh Preview" and 
 
 Do not worry about saving your progress. We have your back! **Every edit is automatically saved.**  
   
-    
-      
- # Tips & Tricks
+  # Tips & Tricks
 
 To **add hyperlinks, emojis and variables** to your texts, click on the small button at the end of each text field. 
 
