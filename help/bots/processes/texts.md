@@ -1,7 +1,5 @@
 ### Texts Overview
 
-On the Text tab, all text fields are available in aggregated form. Double-check your wording or have a copywriter edit right on the platform.
+At this point, all text fields are available in aggregated form. Double-check your wording or have a copywriter edit right on the platform.
+You can export all your texts as a CSV table.
 
-<p align="center">
-  <img src="texts.png" alt="text" title="text" width="500"/>
-</p>
