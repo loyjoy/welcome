@@ -1,8 +1,8 @@
 ### Assets Overview
 
-Find an overview of all used images and videos. Make sure to compress your assets to create the best customer experience! Try out https://compresspng.com/.
+Here you can find an overview of all images and videos used. 
 
-<p align="center">
-  <img src="assets.png" alt="Assets" title="Assets" width="500"/>
-</p>
+Since some customers may have a slow internet connection, it is recommended to compress your images. This way you are sure to create the best customer experience! Try https://compresspng.com/.
+
+
 
