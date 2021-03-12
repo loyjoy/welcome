@@ -9,6 +9,20 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 - Mail process brick can now send attachments
 
+
+## release-2021-03-12
+
+### Added
+
+- Extended capability for locale `ar`. Also markdown can now be used everywhere in the chat UI.
+- New analytics connector for pushing analytics fact and dimension table to BigQuery.
+- Introduced Web components to enable 100% customization of home screen and chat bubbles, also by 3rd-party developers. With this release custom splash screen and home view widgets are possible, custom chat bubbles will follow.
+
+### Fixed
+
+- Fixed seeding standard NLU intents, which where seeded multiple times before depending on the number of locales active on the bot.
+
+
 ## release-2021-03-04
 
 ### Added
