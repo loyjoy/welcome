@@ -19,7 +19,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Extended capability for locale `ar`. Also markdown can now be used everywhere in the chat UI.
 - New analytics connector for pushing analytics fact and dimension table to BigQuery.
 - Introduced Web components to enable 100% customization of home screen and chat bubbles, also by 3rd-party developers. With this release custom splash screen and home view widgets are possible, custom chat bubbles will follow.
-- Video process modules can now autplay the first video.
+- Video process modules can now autoplay the first video.
 
 ### Fixed
 
