@@ -8,9 +8,9 @@ Once you have added all your process blocks, the next step would be editing. Cli
 
 ![close_processes editor](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/processes/close_process_editor.png)
 
-Now you can adjust the different process blocks. Feel free to insert your prefered text into the text fields. Click on each process block to edit its texts. 
+Now you can adjust the different process blocks. Insert your preferred text into the text fields. Click on a process block to edit its texts.
 
-If you want to try out what you have built up so far. Hit "Refresh Preview" and open the chat window by clicking on the chat bubble at the bottom. Your chatbot will open and you can check out your progress. Whenever you wish to restart the flow, simply press "Refresh Preview" again.
+If you want to try out what you have built so far, click on 'Refresh Preview' and open the chat window by clicking on the chat bubble at the bottom. Your chatbot will open and you can check your progress. Whenever you want to restart the process, just click "Refresh Preview" again.
 
 
 Do not worry about saving your progress. We have your back! **Every edit is automatically saved.**  
