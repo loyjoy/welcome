@@ -1,4 +1,4 @@
-### Assets Overview
+# Assets Overview
 
 Here you can find an overview of all images and videos used. 
 
