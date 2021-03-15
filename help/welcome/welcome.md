@@ -3,7 +3,7 @@ We are excited to have you on board of the LoyJoy Conversation Marketing Cloud! 
 
 ## How to Log in
 
-After your first call with the LoyJoy team, you will receive an email inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your access your tenant on the LoyJoy platform.
+After your first call with the LoyJoy team, you will receive an email inviting you to the LoyJoy platform. Please click “Confirm my account” within 24 hours to activate your tenant access on the LoyJoy platform.
 
 
 ![confirm2](https://raw.githubusercontent.com/loyjoy/welcome/master/help/welcome/confirm_account.png)
