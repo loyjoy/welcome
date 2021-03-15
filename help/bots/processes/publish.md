@@ -11,7 +11,7 @@ Before you go live with your chatbot, make sure you test it and of course, share
 3. Explore how your chatbot will look like on your website by typing in your URL. (Disclaimer: Display problems might occur.) 
 
 
-There are so many ways to publish and distribute your chatbot. One way is to place it on a website of your brand. To integrate the chatbot to your website (as a button or chat bubble), simply copy the code snippets into your website code. It's as simple as that!
+There are so many ways to publish and distribute your chatbot. One way is to place it on a website of your brand. To integrate the chatbot to your website (as a button or chat bubble), simply copy the provided code snippet into your website code. It's as simple as that!
 
 
 But there are much more ways to publish your chatbot such as various social media channels. 
