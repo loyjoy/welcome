@@ -1,4 +1,4 @@
-## How to Adjust the Branding
+# How to Adjust the Branding
 
 Here you can brand your chatbot to your preferences. These are the most important things to adjust:
 
