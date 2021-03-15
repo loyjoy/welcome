@@ -10,7 +10,7 @@ Once you have added all your process blocks, the next step would be editing. Cli
 
 Now you can adjust the different process blocks. Insert your preferred text into the text fields. Click on a process block to edit its texts.
 
-If you want to try out what you have built so far, click on 'Refresh Preview' and open the chat window by clicking on the chat bubble at the bottom. Your chatbot will open and you can check your progress. Whenever you want to restart the process, just click "Refresh Preview" again.
+If you want to try out what you have built so far, click on 'Refresh Preview' and open the chat window by clicking on the chat bubble at the bottom. Your chatbot will open and you can check your progress. Whenever you want to restart the process, just click 'Refresh Preview' again.
 
 
 Do not worry about saving your progress. We have your back! **Every edit is automatically saved.**  
