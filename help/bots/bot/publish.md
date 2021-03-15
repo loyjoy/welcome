@@ -1,4 +1,4 @@
-## How to Launch your Chatbot
+# How to Launch your Chatbot
 
 Before you go live with your chatbot, make sure you test it and of course, share it with your colleagues. To do so, you will find three options on how to securely test your chatbot and grant feedback.
 
