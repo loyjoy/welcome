@@ -1,4 +1,4 @@
-### Set up the Home View
+# Set up the Home View
 
 This app-like view enables you to combine multiple chatbot experiences and create a rich conversational environment.
 
