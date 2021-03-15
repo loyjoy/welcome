@@ -1,4 +1,4 @@
-### How to Measure Success
+# How to Measure Success
 
 
 Nothing is better than success. Find your boosted performance and learn about your customers on the LoyJoy Analytics Dashboard.
