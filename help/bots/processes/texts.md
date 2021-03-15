@@ -1,4 +1,4 @@
-### Texts Overview
+# Texts Overview
 
 At this point, all text fields are available in aggregated form. This provides the advantage that you can go through all texts again at the end without having to do this in a time-consuming manner in the chatbot. 
 
