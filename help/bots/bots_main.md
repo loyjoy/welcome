@@ -1,4 +1,4 @@
-## Bots - Overview
+# Bots - Overview
 On this page you will find everything about the chat bots. A chatbot has at least one experience, e.g. a Giveaway or an Advent calendar or an individual one. In this overview you can see all experiences of your bot. 
 
 - By clicking on an experience, you can open it and edit it. 
@@ -8,7 +8,7 @@ On this page you will find everything about the chat bots. A chatbot has at leas
   <p>&nbsp;</p>
 
 
-### How to set up your experience:
+## How to set up your experience:
 
 
 
