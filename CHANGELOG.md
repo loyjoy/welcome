@@ -12,6 +12,15 @@ All notable changes to LoyJoy will be documented in this file.
   - Ask your customers for a password which will is stored encrypted in the session
 
 
+## release-2021-03-18
+
+### Added
+
+- User accounts can now be added to multiple tenants. 
+  - Simply add the user email address to multiple tenants in the tenant settings.
+  - After sign in, the user can select a tenant with the tenant select control on top right beside the LoyJoy logo.
+
+
 ## release-2021-03-12
 
 ### Added
