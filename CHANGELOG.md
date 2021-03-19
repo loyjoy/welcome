@@ -12,6 +12,13 @@ All notable changes to LoyJoy will be documented in this file.
   - Ask your customers for a password which will is stored encrypted in the session
 
 
+## release-2021-03-19
+
+### Added
+
+- Radically simplified ProCampaign process module. Everything now is managed in the process module, not in the integration.
+
+
 ## release-2021-03-18
 
 ### Added
