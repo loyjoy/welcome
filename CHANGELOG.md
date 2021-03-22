@@ -8,6 +8,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 - Mail process brick can now send attachments
+- New Process brick: List
+  - Show a list of generic elements to your customers and let them optionally react on it
 
 
 ## release-2021-03-22
