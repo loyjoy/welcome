@@ -8,8 +8,14 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 - Mail process brick can now send attachments
+
+
+## release-2021-03-22
+
+### Added
+
 - New process brick: Password
-  - Ask your customers for a password which will is stored encrypted in the session
+  - Ask your customers for a password which is stored encrypted in the session
 
 
 ## release-2021-03-19
