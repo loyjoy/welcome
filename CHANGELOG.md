@@ -12,11 +12,21 @@ All notable changes to LoyJoy will be documented in this file.
   - Show a list of generic elements to your customers and let them optionally react on it
 
 
+
+## release-2021-03-23
+
+### Added
+
+- New process module `Campaign Monitor`
+- New process module `Scondoo`
+- New process module `Google Pub/Sub`
+
+
 ## release-2021-03-22
 
 ### Added
 
-- New process brick: Password
+- New process module `Password`
   - Ask your customers for a password which is stored encrypted in the session
 
 
