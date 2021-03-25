@@ -1,4 +1,4 @@
-## [Questionnaire](QUESTIONNAIRE.md)  
+## Questionnaire  
 Collect information from your customers. With this full-blown questionnaire solution you can ask for single choice, multiple choice, prioritize, IBAN, phone numbers, sliders, drop-down, addresses (with Google Maps connection), file upload, image select and more. 
 Store any information as variables and into the database. Also directly into the customer CRM history for later use, e. g. to send personalized push messages.
 
