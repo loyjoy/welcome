@@ -14,6 +14,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- New help bar on the right of LoyJoy manager with context information for all functionalities of LoyJoy.
 - New Process brick: List
   - Show a list of generic elements to your customers and let them optionally react on it
 - New process module `Salesforce Service Cloud`
