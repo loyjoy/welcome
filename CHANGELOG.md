@@ -23,7 +23,7 @@ All notable changes to LoyJoy will be documented in this file.
 - In branding added option for fullscreen mode.
 - Added event bus for ChatUI. When emitting event `route_home` with event process module, the ChatUI changes to home view.
 - In process module `appointment` added option to send event description via email as password encrypted PDF attachment.
-- All surrounding micro-services for data storage etc. now can be disabled by super admins, allowing the LoyJoy runtime to be executed in-memory only, thus enabling the deployment of the LoyJoy runtime as an appliance in environments without any storage capabilities (e.g. embedded).
+- All surrounding micro-services for data storage etc. now can be disabled by super admins, allowing the LoyJoy runtime to be executed in-memory only, thus enabling the deployment of the LoyJoy runtime as an appliance in environments without any storage capabilities (e.g. embedded devices).
 
 
 ## release-2021-03-23
