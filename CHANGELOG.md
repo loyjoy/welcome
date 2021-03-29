@@ -8,9 +8,22 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 - Mail process brick can now send attachments
+
+
+## release-2021-03-29
+
+### Added
+
 - New Process brick: List
   - Show a list of generic elements to your customers and let them optionally react on it
-
+- New process module `Salesforce Service Cloud`
+- New process module `Clever Reach`
+- In branding added option to disable `Restart chat`
+- In branding added option to enable `Reset chat`
+- In branding added option for fullscreen mode.
+- Added event bus for ChatUI. When emitting event `route_home` with event process module, the ChatUI changes to home view.
+- In process module `appointment` added option to send event description via email as password encrypted PDF attachment.
+- All surrounding micro-services for data storage etc. now can be disabled by super admins, allowing the LoyJoy runtime to be executed in-memory only, thus enabling the deployment of the LoyJoy runtime as an appliance in environments without any storage capabilities (e.g. embedded).
 
 
 ## release-2021-03-23
