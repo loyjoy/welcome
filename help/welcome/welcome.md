@@ -5,7 +5,7 @@ To get the most of the LoyJoy platform, we recommend watching our [LoyJoy Onboar
 
 ## How to Log in
 
-After your first call with the LoyJoy team, you will receive an email invitation by LoyJoy. Please confirm your account within 24 hours to activate your account.
+Initially, you will receive an email invitation by LoyJoy. Please confirm your account within 24 hours to activate your account.
 To access the LoyJoy backend, simply enter your email address to access your tenant on [cloud.loyjoy.com](http://cloud.loyjoy.com/).
 Each time you log in to the LoyJoy platform, we will send you a magic link via email. Click the link in the email to access the platform.
 
