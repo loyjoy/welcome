@@ -1,3 +1,18 @@
 # NLU
 
-NLU stands for Natural Language Integration. We use an AI algorithm that you can train. It is an advanced technology that uses deep learning technology. The algorithm only needs "training data," which are short example sentences. So you could give example sentences of how customers would ask questions or react. The great thing is that the algorithm is self-learning, which means it generalizes based on the few examples you give to answer your customer questions or respond to customers.
+NLU stands for Natural Language Understanding. Your chat experiences have a free text field in which customer can type their requests and comments. With NLU, you can create so called "intents" concerning a certain topic (e.g. goodbye). Now you enter 10-20 example sentences ("Utterances") related to the topic of goodbye that you think could be a possible input from a customer (e.g. "see you later","goodbye", "bye"). By training the AI, our algorithm generalises your example sentences and is now able to identify most related text inputs on the topic. Then you define a specific response for your intent (e.g. "Have a good day!") to be displayed once a customer addresses this specific intent.   
+
+**Utterances** - Please use a minimum of 10 possible entries and seperate them with line breaks.
+
+Example:
+
+happy (Intent)  
+
+Utterances:  
+smile   
+haha  
+i like it  
+happiness  
+
+Response:  
+:-)
