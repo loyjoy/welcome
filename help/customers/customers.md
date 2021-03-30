@@ -1,5 +1,8 @@
 # Customers
 
-This is your customer database. Here you have a flexible data model, so that not only customer data, such as name and address, can be captured, but you are completely free to decide what kind of customer data you want to collect. Simply ask your customer the appropriate questions in the chat, for example, about their preferences. 
+Here you can find your customer database. Within your exciting chat experiences, you can collect customer data points and therefore create rich customer datasets. 
+Each new registration (via email address) will be listed here with the according timestamp and all person-related data points collected. To access an individual dataset, simply click on the email address. 
 
-You can store this information flexibly in the customer database. You can later use this information (e.g. like product preferences) to personalize the chat or launch specific push campaigns.
+Now you can track each consumer's actions in the chat, check their opt-in settings and access their legal consent. 
+
+You can export the whole consumer list and individual constomers. You also have the option to purge your customer database based on certain variables.
