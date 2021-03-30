@@ -1,4 +1,4 @@
-# Get started with the Conversational Marketing Cloud
+# Get started with LoyJoy
 We are excited to have you on board of the LoyJoy Conversation Marketing Cloud.
 
 To get the most of the LoyJoy platform, we recommend watching our [LoyJoy Onboarding Video.](https://www.youtube.com/watch?v=yWjV9JyEatY&feature=emb_title)
