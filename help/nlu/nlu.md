@@ -6,13 +6,14 @@ NLU stands for Natural Language Understanding. Your chat experiences have a free
 
 Example:
 
-happy (Intent)  
+Brand lover (Intent)  
 
 Utterances:  
-smile   
-haha  
-i like it  
-happiness  
+I love it
+I like your brand
+love brand
+admire your brand
+I like
 
 Response:  
-:-)
+We understand. We love our brand as well! :-)
