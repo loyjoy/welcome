@@ -1,2 +1,2 @@
 ## Audio
-Add voice messages or music files to your chat.
+Add upp to five voice messages or music files to your chat.
