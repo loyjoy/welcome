@@ -1,1 +1,1 @@
-Send an email to your costumers. Add HTML content for the wording.
+Send an email by specifying the recipient and adding an HTML text.
