@@ -27,9 +27,9 @@ const loyjoyParam = getParameterByName("loyjoy-process");
 let process;
 
 if (loyjoyParam == null) {
-  process = "<default-process-id>"; // default: Navigation über Landing Page
-} else if (loyjoyParam === "quiz") {
-  process = "<quiz-process-id>"; // Quizzes
+  process = "<default-process-id>"; // default process
+} else if (loyjoyParam === "param1") {
+  process = "<quiz-process-id>"; // alternative process when loyjoy-process = param1
 }
 
 LoyJoy("boot", {
