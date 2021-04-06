@@ -1,3 +1,4 @@
-Send an email to the consumer and add an HTML text for the wording. 
+Send an email to the consumer 
 
- **Sign in** - The consumer must be signed in.
+**Wording** - Add the subejct and the HTML snippet.
+**Sign in** - The consumer must be signed in.
