@@ -8,6 +8,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- SMS-Opt-In now supports Twilio
+
 
 ## release-2021-04-13
 
