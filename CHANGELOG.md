@@ -7,6 +7,11 @@ All notable changes to LoyJoy will be documented in this file.
 ## Unreleased
 
 ### Added
+
+
+## release-2021-04-13
+
+### Added
 - Mail process brick can now send attachments
 - New clipboard process module
   - Show a text that your customers can copy
