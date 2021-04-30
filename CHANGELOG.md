@@ -9,6 +9,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - SMS-Opt-In now supports Twilio
+- Chat "send message" button icon can now be adjusted via image upload.
 
 
 ## release-2021-04-13
