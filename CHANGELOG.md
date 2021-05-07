@@ -10,6 +10,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 - SMS-Opt-In now supports Twilio
 - Chat "send message" button icon can now be adjusted via image upload in Branding.
+- Analytics for decision jump process module
 
 
 ## release-2021-04-13
