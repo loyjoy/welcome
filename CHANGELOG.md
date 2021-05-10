@@ -4,14 +4,21 @@
 All notable changes to LoyJoy will be documented in this file.
 
 
-## Unreleased
+## release-2021-05-10
 
 ### Added
 
 - SMS-Opt-In now supports Twilio
 - Chat "send message" button icon can now be adjusted via image upload in Branding.
-- Analytics for decision jump process module
+- 📅 Appointment: Option to add a lead time 
+- 📈 Analytics:
+  - Analytics for decision jump process module
+  - Analytics for live chats
+  - Analytics for home view
 
+### Fixed
+
+- Stochastic timeout on image upload in Firefox Android
 
 ## release-2021-04-13
 
