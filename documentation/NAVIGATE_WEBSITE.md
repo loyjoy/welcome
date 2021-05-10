@@ -2,7 +2,7 @@
 
 ## 1. What this solution will do for you
 
-You can use external links in LoyJoy to navigate customers on your website.
+You can use the external link module and text links in LoyJoy to let navigate customers on your website.
 
 ## 2. What you need for this solution to work
 
