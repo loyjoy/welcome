@@ -6,7 +6,7 @@ You can use the external link module and text links in LoyJoy to let navigate cu
 
 ## 2. What you need for this solution to work
 
-You will need to adjust the integration snippet and add events to the links
+You will need to adjust the integration JavaScript snippet and add events to the links
 in the flow for this integration to work.
 
 ## 3. Adjust the integration snippet
