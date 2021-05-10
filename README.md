@@ -18,5 +18,5 @@ Here you find the public documentation for [LoyJoy Conversational Marketing Clou
 | [ProCampaign Integration](documentation/pro_campaign/OVERVIEW.md)                          | ProCampaign integration.                                   |
 | [A/B Test](documentation/DYNAMIC_LANDING_PAGE.md)                                          | Start different chats on one landing page.                 |
 | [Markdown](documentation/MARKDOWN.md)                                                      | Use Markdown to add links to text messages.                |
-| [Navigate Website](documentation/NAVIGATE_WEBSITE.md)                                      | Navigate your website by clicking in LoyJoy.               |
+| [Navigate Website](documentation/NAVIGATE_WEBSITE.md)                                      | Let visitors navigate your website by clicking in LoyJoy.  |
 
