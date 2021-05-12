@@ -15,6 +15,8 @@ All notable changes to LoyJoy will be documented in this file.
   - Analytics for decision jump process module
   - Analytics for live chats
   - Analytics for home view
+- List process brick:
+  - Elements can now be conditioned
 
 ### Fixed
 
