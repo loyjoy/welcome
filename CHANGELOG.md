@@ -25,7 +25,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Animation subprocess
 - Questionnaire:
   - new Questiontype: Email
-- Text inside draggable components can now be selected (e.g. Questionnaire)
+- Text inside draggable components is now selectable
 
 ### Fixed
 
