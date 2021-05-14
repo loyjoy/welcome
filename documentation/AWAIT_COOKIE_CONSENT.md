@@ -49,7 +49,7 @@ is not. Otherwise it calls itself again, after a wait of 0.4 seconds.
     if (popups.length > 0 && window.getComputedStyle(popups[0]).display === "none") {
       // simply start LoyJoy
       LoyJoy("boot", {
-        bot:"6ea3148a-41d4-4df3-8b4b-f596e594b856",
+        bot:"<BOT_ID>",
         cookieConsent: function() {
           return "0" == ("; "+document.cookie).split("; MarketingCookiesDisabled\x3d").pop().split(";").shift()
         },
