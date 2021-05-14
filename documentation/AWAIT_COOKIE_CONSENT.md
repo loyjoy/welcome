@@ -64,3 +64,5 @@ is not. Otherwise it calls itself again, after a wait of 0.4 seconds.
   // initialize checking
 </script>
 ```
+
+Now you can simply add the changed snippet to your website, replacing the old snippet. 
