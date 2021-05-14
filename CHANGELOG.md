@@ -17,10 +17,21 @@ All notable changes to LoyJoy will be documented in this file.
   - Analytics for home view
 - List process brick:
   - Elements can now be conditioned
+- Policy user add:
+  - suitable greeting, if no first name known
+  - new welcome email to the added user
+- Animations:
+  - new Animations: Autumn Leaves, Santa, Cheese, Christmas balls, Easter eggs, Gift boxes, Pine cones, Pumpkins, Raining stars
+  - Animation subprocess
+- Questionnaire:
+  - new Questiontype: Email 
 
 ### Fixed
 
 - Stochastic timeout on image upload in Firefox Android
+- Bpmn variable select popover
+  - underlying dialog no longer closes on any click
+  - resize to fit to screen
 
 ## release-2021-04-13
 
