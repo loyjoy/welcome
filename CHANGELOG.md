@@ -24,7 +24,8 @@ All notable changes to LoyJoy will be documented in this file.
   - new Animations: Autumn Leaves, Santa, Cheese, Christmas balls, Easter eggs, Gift boxes, Pine cones, Pumpkins, Raining stars
   - Animation subprocess
 - Questionnaire:
-  - new Questiontype: Email 
+  - new Questiontype: Email
+- Text inside draggable components can now be selected (e.g. Questionnaire)
 
 ### Fixed
 
