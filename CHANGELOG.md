@@ -3,6 +3,13 @@
 
 All notable changes to LoyJoy will be documented in this file.
 
+## release-2021-05-10
+
+### Added
+
+- 📈 Analytics:
+  - Event counting process starts is shown in analytics.
+  - Link clicks are measured in the external link and product modules.
 
 ## release-2021-05-10
 
