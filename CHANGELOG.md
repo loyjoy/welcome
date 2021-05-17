@@ -3,7 +3,7 @@
 
 All notable changes to LoyJoy will be documented in this file.
 
-## release-2021-05-10
+## unreleased
 
 ### Added
 
