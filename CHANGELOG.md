@@ -10,6 +10,8 @@ All notable changes to LoyJoy will be documented in this file.
 - 📈 Analytics:
   - Event counting process starts is shown in analytics.
   - Link clicks are measured in the external link and product modules.
+- External-Link Process brick
+  - Titles, Descriptions and Image are now proposed based on og-tags of respective website
 
 ## release-2021-05-10
 
