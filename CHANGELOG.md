@@ -12,6 +12,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Link clicks are measured in the external link and product modules.
 - External-Link Process brick
   - Titles, Descriptions and Image are now proposed based on og-tags of respective website
+- All CSV exports are provided in encrypted ZIP files
 
 ## release-2021-05-10
 
