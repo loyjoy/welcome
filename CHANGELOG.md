@@ -11,15 +11,15 @@ All notable changes to LoyJoy will be documented in this file.
 - 📈 Analytics:
   - Event counting process starts is shown in analytics.
   - Link clicks are measured in the external link and product modules.
-- External-Link process module
+- `External link` process module
   - Titles, descriptions and images are now loaded automatically based on og-tags of respective website
 - All CSV exports are provided as encrypted ZIP files
 - Text inside draggable components is now selectable
-- List process brick:
+- `List process` module
   - List elements can now be conditioned
-- Timer:
+- `Timer` process module
   - It is now possible to add absolute start and end dates
-- Mini program:
+- `Mini program` process module
   - Can now be opened automatically
   - Footer for closing the mini program can now be hidden
   - An optional clickable teaser image can now be added
@@ -33,34 +33,34 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- SMS-Opt-In now supports Twilio
+- `SMS opt-in` process module now supports Twilio
 - Chat "send message" button icon can now be adjusted via image upload in Branding.
-- 📅 Appointment: Option to add a lead time 
-- 📈 Analytics:
+- 📅 `Appointment` process module: Option to add a lead time
+- 📈 Analytics
   - Analytics for decision jump process module
   - Analytics for live chats
   - Analytics for home view
-- Policy user add:
+- Policy user add
   - suitable greeting, if no first name known
   - new welcome email to the added user
-- Animations:
+- Animations
   - new Animations: Autumn Leaves, Santa, Cheese, Christmas balls, Easter eggs, Gift boxes, Pine cones, Pumpkins, Raining stars
   - Animation subprocess
-- Questionnaire:
-  - new Questiontype: Email
+- `Questionnaire` process module
+  - new question type: email
 
 ### Fixed
 
 - Stochastic timeout on image upload in Firefox Android
-- Bpmn variable select popover
+- BPMN variable select popover
   - underlying dialog no longer closes on any click
   - resize to fit to screen
 
 ## release-2021-04-13
 
 ### Added
-- Mail process brick can now send attachments
-- New clipboard process module
+- `Mail` process module can now send attachments
+- Added `Clipboard` process module
   - Show a text that your customers can copy
 
 
@@ -69,7 +69,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - New help bar on the right of LoyJoy manager with context information for all functionalities of LoyJoy.
-- New Process brick: List
+- New Process module `List`
   - Show a list of generic elements to your customers and let them optionally react on it
 - New process module `Salesforce Service Cloud`
 - New process module `Clever Reach`
@@ -77,7 +77,7 @@ All notable changes to LoyJoy will be documented in this file.
 - In branding added option to enable `Reset chat`
 - In branding added option for fullscreen mode.
 - Added event bus for ChatUI. When emitting event `route_home` with event process module, the ChatUI changes to home view.
-- In process module `appointment` added option to send event description via email as password encrypted PDF attachment.
+- In process module `Appointment` added option to send event description via email as password encrypted PDF attachment.
 - All surrounding micro-services for data storage etc. now can be disabled by super admins, allowing the LoyJoy runtime to be executed in-memory only, thus enabling the deployment of the LoyJoy runtime as an appliance in environments without any storage capabilities (e.g. embedded devices).
 
 
@@ -102,14 +102,14 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Radically simplified ProCampaign process module. Everything now is managed in the process module, not in the integration.
+- Radically simplified `ProCampaign` process module. Everything now is managed in the process module, not in the integration.
 
 
 ## release-2021-03-18
 
 ### Added
 
-- User accounts can now be added to multiple tenants. 
+- User accounts can now be added to multiple tenants.
   - Simply add the user email address to multiple tenants in the tenant settings.
   - After sign in, the user can select a tenant with the tenant select control on top right beside the LoyJoy logo.
 
@@ -121,7 +121,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Extended capability for locale `ar`. Also markdown can now be used everywhere in the chat UI.
 - New analytics connector for pushing analytics fact and dimension table to BigQuery.
 - Introduced Web components to enable 100% customization of home screen and chat bubbles, also by 3rd-party developers. With this release custom splash screen and home view widgets are possible, custom chat bubbles will follow.
-- Video process modules can now autoplay the first video.
+- `Video` process modules now can autoplay the first video.
 
 ### Fixed
 
@@ -132,7 +132,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Added process module `reset` for resetting the complete session, not only changing the process instance.
+- Added process module `Reset` for resetting the complete session, not only changing the process instance.
 
 
 ## release-2021-03-03
@@ -143,13 +143,13 @@ All notable changes to LoyJoy will be documented in this file.
 - The imprint is only offered in the chatbot navigation bar, if it is configured.
 - Chat UI
   - The chat can now have an avatar image, representing the bot/live agent.
-- Data collection
+- `Data collection` process module
   - Option to allow dynamic loading of dropdown options
-- Product
+- `Product` process module
   - Button to set variable
-- Phone number process module
+- `Phone number` process module
   - Similar to first name and last name now the phone number of the customer can be collected in the chat.
-- SMS opt-in process module
+- `SMS opt-in` process module
   - Added process module to collect SMS opt-ins for phone numbers
 - Birth date, first name, last name, phone number, gender, postal address can now be reasked, e.g. for building a customer settings chat process. These values before were only asked once.
 
@@ -170,7 +170,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- ProCampaign process module: replaced hardcoded configuration properties for consent text and list
+- `ProCampaign` process module: replaced hardcoded configuration properties for consent text and list
   - consent text is modeled in a mapping as `<consent text key> := Function I18nTranslate(<i18n_key as copied from texts table>)`
   - list is modeled in a mapping as `<list key> := 1`
 - Sub processes can now be copied in the process editor
@@ -192,7 +192,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Live view redesign
   - Splitted live and bot message sessions with tabs
   - Notifications with mute button
-  - Added Emoji picker 
+  - Added Emoji picker
   - Switch for agents being online/offline
   - Option for fallback stratgy if agent does not reply
 
@@ -203,10 +203,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 - Process module `Sign In` now triggers the sign in chat flow.
 - Variables now have a store (Browser, Server) and scope (process-specific, process-independent).
-- Live Process Brick: Agents configuration
-  - Agents can now be defined on a Live Process Brick.
+- `Live` process module: Agents configuration
+  - Agents can now be defined on a `Live` process module.
   - Agents can declare themselves as online/offline in live view.
-  - If there are no agents online when a user enters the Live Process the building block is skipped.
+  - If there are no agents online when a user enters the `Live` process module, the process module is skipped.
 
 
 ## release-2021-01-11
@@ -223,10 +223,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- New Process block: Appointment 📅
-  - You can use this block to let your customers schedule invididual appointments.
+- New process module: `Appointment` 📅
+  - You can use this module to let your customers schedule invididual appointments.
   - Appointments are stored as iCalendar events, which are sent by email and can be integrated as WebCal into calendar tools such as Google Calendar.
-- New Process block: Live chat 💬
+- New process module: `Live` 💬
   - This allows you to directly reply to customer requests
 - New home screen widget: Icon widget
   - Add up to 5 icons linking to experiences.
@@ -254,8 +254,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- New Process block: Language selection
-  - This enables you to ask your customer for her/his language. 
+- New Process module: Language selection
+  - This enables you to ask your customer for her/his language.
   - Possible choices are derived from the languages of the BPMN process.
 - Locales `de` and `de__formal` can now be active at the same time on the same process, enabling customers to choose between `Duzen` and `Siezen`.
 
@@ -264,10 +264,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- 📧 Process module `mail`:
+- 📧 Process module `Mail`:
   - Sends email in the process flow to the current customer.
-- Process module `signal`.
-  - Most process modules emit events. Now you can place a `signal` process module in any process of the bot, which listens for such events in the bot. When an events occurs, the `signal` process module is triggered in a background process execution. E.g. a use case is to listen for newsletter opt-in events in any process of the bot and trigger a background process, which writes the newsletter opt-in to Salesforce.
+- Process module `Signal`.
+  - Most process modules emit events. Now you can place a `Signal` process module in any process of the bot, which listens for such events in the bot. When an events occurs, the `Signal` process module is triggered in a background process execution. E.g. a use case is to listen for newsletter opt-in events in any process of the bot and trigger a background process, which writes the newsletter opt-in to Salesforce.
 - Added the functions [`string_replace`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replace(java.lang.CharSequence,%20java.lang.CharSequence)) and [`string_replace_all`](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#replaceAll(java.lang.String,%20java.lang.String)), which can be used in expressions.
 
 
@@ -275,13 +275,13 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- Reminder process module
+- `Reminder` process module
   - Schedule reminder notifications for Web push, email etc. individually for your customers, which have given a reminder opt-in.
-  - Reminder schedules from menu item "Push" can now be found in the reminder process module, which you can add to any process.
+  - Reminder schedules from menu item "Push" can now be found in the `Reminder` process module, which you can add to any process.
 - Refactured campaigns
   - Campaigns now are more lightweight, focussing on Web push: Simply (1) enter a title, body and URL, (2) optionally select you target customer segment, (3) optionally precalculate the segment size and (4) finally trigger sending of Web push notifications to the selected customer segment. Web push notifications will be sent instantly, without planning overhead.
-- Salesforce process module
-  - Integrate Salesforce into experiences in form of a process module with the new Salesforce process module. You can map arbitrary customer variables to Salesforce data objects and attributes.
+- `Salesforce` process module
+  - Integrate Salesforce into experiences in form of a process module with the new `Salesforce` process module. You can map arbitrary customer variables to Salesforce data objects and attributes.
 - Background BPMN processes
   - Some integrations can now trigger background BPMN processes. E.g. the Salesforce integration now can be configured with a specific BPMN process, which then can contain the new Salesforce process module.
 
@@ -312,12 +312,12 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- 📋📋📋 New process block: 'Decision table' for central evaluation and exection of bpmn process variables and other conditions.
-  - If your process tends to be too complicated with many branches this process block might help you in simplifying your process
+- 📋📋📋 New process module `Decision table` for central evaluation and exection of bpmn process variables and other conditions.
+  - If your process tends to be too complicated with many branches this process module might help you in simplifying your process
   - It is an implementation of the open DMN standard by the [OMG group](https://www.omg.org/)
 - When a new user message arrives, process information such as bot, experience and process module are now stored additionally.
   - This provides you with information about what a user has entered in which context and can be explored in the live menu.
-- 🎞️ Image sharing via new Image Sharing process block:
+- 🎞️ Image sharing via new `Image Sharing` process module:
   - Images sent via Snapshot are pre-selected for sharing
 - 👶🧒👵 A minimum age can be set for the birthdate
   - In the LoyJoy chat UI only years in accordance with this minimum age can be selected
@@ -333,16 +333,16 @@ All notable changes to LoyJoy will be documented in this file.
 
 - Intent groups can now be scoped to a bot
   - This enables you to activate specific Intent groups for specific bots.
-- ⭐⭐⭐⭐⭐ New process block for creating reviews in Yotpo
+- ⭐⭐⭐⭐⭐ New process module for creating reviews in Yotpo
   - Including the ability to use the trusted vendors feature
 - The coin image is now editable for Loyalty programs
-- An image can now be used as a chat background 
+- An image can now be used as a chat background
 
 ## release-2020-09-14
 
 ### Added
 
-- Mini program:
+- `Mini program` process module:
   - Allow for multiple variables to be set at the same time
   - Allow blocking process flow until variables are set from within the mini program
 
@@ -364,14 +364,14 @@ All notable changes to LoyJoy will be documented in this file.
   - The widget type `stories` enables you to build AMP stories e.g. with https://makestories.io/ and publish them in the home view.
   - As customers can jump from stories into experiences, stories are an exciting way to engage your customers to start chats.
 - ✨ Sparkle animation for quiz answer options.
-- Mini-program
+- `Mini program` process module
   - Added action to close Mini-Program via API.
-- 🎟️ Coupon Codes
+- 🎟️ `Coupon Codes` process module
   - Message, if no coupon codes left.
   - Number of uploaded / redeemed coupon codes in analytics.
   - Allow GS-1 Databar Expanded coupon codes.
 - Updated names for sub-processes
-  - Show both type and name of a process building block together.
+  - Show both type and name of a process module together.
 - Added copy option for i18n texts to copy texts of an BPMN process from one locale to another.
 - Beta REST API for reading and writing customer variables and process variables programmatically.
 
@@ -390,14 +390,14 @@ All notable changes to LoyJoy will be documented in this file.
   - Search updates only when search text changes.
   - Search also works on placeholder texts.
   - Adjusted layout.
-- Sign in process building block reworked
-  - Text before login can now be changed at sign in process building block.
+- `Sign in` process module reworked
+  - Text before login can now be changed at sign in process module.
   - PIN-E-Mail reworked.
-- Rewards process building block
+- `Rewards` process module
   - Message if reward is not available
   - Reward redemption counts in analytics
-- Web service process building block
-  - Moved HTTP header authorization details to separate field, which can be configured in the Web service process building block
+- `Web service` process module
+  - Moved HTTP header authorization details to separate field, which can be configured in the Web service process module
 
 
 ## release-2020-07-28
@@ -447,7 +447,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 - Customer referrals.
   - Sharing with customer tokens.
-  - Referring customers get loyalty points for new signups. 
+  - Referring customers get loyalty points for new signups.
 - Added process groups for structuring processes into roster entries. Refactored the bots management UI around those process groups.
 - Added intent groups for structuring intents. Intent groups can be copied between tenants.
 - Integration of Viber REST API for Russian market.
@@ -458,7 +458,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Changed
 
-- Moved coupon codes from experience to process building block.
+- Moved coupon codes from experience to process module.
 
 ### Fixed
 
@@ -496,7 +496,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- 🏆 New loyalty process building block enabling loyalty programs.
+- 🏆 New `Loyalty` process module enabling loyalty programs.
 - Chat can have width in interval XS, SM, MD, LG, XL.
 - External links based on i18n entries, enabling language-specific and date-specific links.
 - Variable picker and link picker in i18n text entry component.
@@ -522,7 +522,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - Persistent chat messages and roster view.
-- Unified jump process building block.
+- Unified jump process module.
 - Variables in I18n messages and emails.
-- Timer process building block for timed push messages.
-- Intro message in proceed process building block.
+- `Timer` process module for timed push messages.
+- Intro message in proceed process module.
