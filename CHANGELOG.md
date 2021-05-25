@@ -23,6 +23,10 @@ All notable changes to LoyJoy will be documented in this file.
   - Footer for closing the webview can now be disabled
   - An optional clickable teaser image can now be added
 
+### Fixed
+- List:
+  - Margin of elements while solely using titles
+
 ## release-2021-05-10
 
 ### Added
