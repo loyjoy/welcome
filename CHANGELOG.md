@@ -23,6 +23,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Can now be opened automatically
   - Footer for closing the mini program can now be hidden
   - An optional clickable teaser image can now be added
+- Callbacks added to JavaScript API
 
 ### Fixed
 
