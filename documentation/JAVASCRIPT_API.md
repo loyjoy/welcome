@@ -231,6 +231,24 @@ LoyJoy('boot', {
 </script>
 ```
 
+### Callback parameters
+
+Similar to parameters you can supply a callback function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
+
+```
+<script>
+LoyJoy('boot', {
+  bot: BOT_ID,
+  callbacks: {
+    foo: () => window.location.href
+  },
+  process: OPTIONAL_PROCESS_ID,
+  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
+  tenant: OPTIONAL_TENANT_ID
+})
+</script>
+```
+
 ## Restart
 
 Tells the chat to restart the process after after a page reload (or after a new `LoyJoy('boot')`).
