@@ -1,4 +1,5 @@
-## Loyalty points
+## Loyalty
+
 Add a loyalty program to your chat experiences. Customers can receive loyalty points for any action in the chat or external applications (through API).
 
 **Points** - Choose how many points the consumer will receive.   

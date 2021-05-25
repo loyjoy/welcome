@@ -1,2 +1,3 @@
-## ProCampaign transaction
-Use this for any data exchange with ProCampaign.
+## ProCampaign
+
+Integrate ProCampaign into your process.

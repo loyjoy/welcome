@@ -1,5 +1,6 @@
 ## Giveaway participation
-Let your customers participate in raffles. 
+
+Let your customers participate in raffles.
 
 **Add giveaway** - Add a new giveaway and choose how often the consumer can participate.    
 **Email** - Confirm the participants by email. Set the email subject and the message body.    

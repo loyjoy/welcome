@@ -1,2 +1,3 @@
-## Salesforce
-Use this for any data exchange with Salesforce Service Cloud.
+## Salesforce Service Cloud
+
+Integrate Salesforce Service Cloud into the process.

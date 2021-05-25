@@ -1,2 +1,3 @@
 ## Simple message
-Just a plain chat message, add an image optionally.
+
+Send a plain chat message. Add an image optionally.

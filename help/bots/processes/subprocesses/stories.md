@@ -1,1 +1,3 @@
-Content will follow.
+## Stories
+
+Display stories in the chat.

@@ -1,4 +1,5 @@
 ## Product gallery
+
 Show your customers one or more products.
 
 **Add product** - Add as many products as you want to by clicking on 'add product'.    

@@ -1,4 +1,5 @@
 ## NPS survey
+
 Ask for the Net Promoter Score, a loyalty score based on recommendations.
 
 **Question** - Choose the question the consumer will be asked.   

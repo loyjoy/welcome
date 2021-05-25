@@ -1,5 +1,6 @@
-## Questionnaire  
-Collect information from your customers. With this full-blown questionnaire solution you can ask for single choice, multiple choice, prioritize, IBAN, phone numbers, sliders, drop-down, addresses (with Google Maps connection), file upload, image select and more. 
+## Questionnaire
+
+Collect information from your customers. With this full-blown questionnaire solution you can ask for single choice, multiple choice, prioritize, IBAN, phone numbers, sliders, drop-down, addresses (with Google Maps connection), file upload, image select and more.
 Store any information as variables and into the database. Also directly into the customer CRM history for later use, e. g. to send personalized push messages.
 
 
@@ -11,7 +12,7 @@ You can choose from a range of different question types according to your object
 
 ### Quick reply
 
-One of the most used question type. This question type creates the famous button design. 
+One of the most used question type. This question type creates the famous button design.
 
 ### Accordion
 
@@ -101,4 +102,4 @@ Ask your customers to pick one out of many answer options.
 
 ### Text input
 
-Ask your customer to type something. 
+Ask your customer to type something.

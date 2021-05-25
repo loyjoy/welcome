@@ -1,4 +1,5 @@
 ## Video gallery
+
 Add up to five videos to your chat, playing in the chat window.
 
 **Upload video** - Upload the video you will show the customers.    
