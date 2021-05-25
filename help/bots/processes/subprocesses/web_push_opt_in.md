@@ -1,3 +1,3 @@
 ## Web push opt-in
 
-Collect opt-ins for push notifications and send personalized push messages to your customers. GDPR compliant.
+Collect opt-ins for Web push notifications to send personalized Web push messages to your customers. GDPR compliant.
