@@ -233,7 +233,7 @@ LoyJoy('boot', {
 
 ### Callback parameters
 
-Similar to parameters you can supply a function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
+Similar to parameters you can supply a callback function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
 
 ```
 <script>
