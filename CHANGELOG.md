@@ -8,22 +8,26 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- 📈 Analytics
-  - Process starts are measured and shown in analytics.
-  - Link clicks are measured in the `External link` and `Product` modules.
 - `External link` process module
   - Titles, descriptions and images are now loaded automatically based on og-tags of respective website
-- All CSV exports are provided as encrypted ZIP files
-- Text inside draggable components is now selectable
+  - Link clicks are measured and displayed in analytics.
 - `List process` module
   - List elements can now be conditioned
-- `Timer` process module
-  - It is now possible to add absolute start and end dates
 - `Mini program` process module
   - Can now be opened automatically
   - Footer for closing the mini program can now be hidden
   - An optional clickable teaser image can now be added
+- `Product` module
+  - Link clicks are measured and displayed in analytics.
+- `Timer` process module
+  - It is now possible to add absolute start and end dates
+- 📈 Analytics
+  - Process starts are measured and shown in analytics.
+  - Link clicks are measured in the `External link` and `Product` modules.
 - Callbacks added to JavaScript API
+- Text inside draggable components is now selectable
+- All CSV exports are provided as encrypted ZIP files
+
 
 ### Fixed
 
