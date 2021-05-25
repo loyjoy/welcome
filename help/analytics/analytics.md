@@ -1,4 +1,4 @@
-# How to Measure Success
+# How to measure success
 
 Track the performance of your live chatbots, better understand your customers' behaviour and see your KPIs skyrocket by using the LoyJoy Analytics Dashboard.
 

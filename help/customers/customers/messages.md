@@ -1,3 +1,3 @@
 # Messages
 
-Further documentation will follow. Please reach out to our [technical support team](mailto:technicalsupport@loyjoy.com).
+In this view recent messages of the customer with chat bots or live agents are displayed.

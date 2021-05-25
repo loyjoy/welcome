@@ -1,3 +1,3 @@
 # Campaigns
 
-Collect opt-ins within the chat and send out campaigns from the LoyJoy backend!
+Set up campaigns to send Web push notifications to customers, which have given a Web push opt-in with the Web push opt-in process module.

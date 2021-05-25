@@ -1,3 +1,3 @@
 # Master data
 
-Further documentation will follow. Please reach out to our [technical support team](mailto:technicalsupport@loyjoy.com).
+A customers has a fixed set of properties such as first name and last name. Those properties are displayed in this view. 

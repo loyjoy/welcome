@@ -3,7 +3,8 @@ We are excited to have you on board of the LoyJoy Conversation Marketing Cloud.
 
 To get the most of the LoyJoy platform, we recommend watching our [LoyJoy Onboarding Video.](https://www.youtube.com/watch?v=yWjV9JyEatY&feature=emb_title)
 
-## How to Log in
+
+## How to log in
 
 Initially, you will receive an email invitation by LoyJoy. Please confirm your account within 24 hours to activate your account.
 To access the LoyJoy backend, simply enter your email address to access your tenant on [cloud.loyjoy.com](http://cloud.loyjoy.com/).

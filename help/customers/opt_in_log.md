@@ -1,3 +1,3 @@
 # Opt-ins
 
-Further documentation will follow. Please reach out to our [technical support team](mailto:technicalsupport@loyjoy.com).
+The latest opt-ins of all customer are displayed in this view.

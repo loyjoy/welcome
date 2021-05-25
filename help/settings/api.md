@@ -1,3 +1,3 @@
-# LoyJoy API 
+# LoyJoy API
 
-The public API is currently in Beta. It allows you to interact with the processes you set up in LoyJoy. Further documentation will follow. Please reach out to our [technical support team](mailto:technicalsupport@loyjoy.com).
+LoyJoy offers an API for executing processes programmatically and accessing variables. For the API an access token is required which can be generated in this view.

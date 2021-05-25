@@ -1,13 +1,13 @@
-# Set up the Home View
+# Set up the home view
 
 This app-like view enables you to combine multiple chatbot experiences and create a rich conversational environment.  
 
-Here you can see an example home view: 
+Here you can see an example home view:
 
 ![homeview-example](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/bot/homeview.png)  
 
-[Learn more about how to build a Home View](https://github.com/loyjoy/welcome/blob/master/documentation/introduction/HOMEVIEW.md) 
- 
+[Learn more about how to build a Home View](https://github.com/loyjoy/welcome/blob/master/documentation/introduction/HOMEVIEW.md)
+
 
 You can add several different widgets, but you should start by adding a background and a logo for your navigation bar. Whenever you want to check how your changes look, just click 'Refresh Preview' and open the chat preview.
 Now there are several widgets that you can add to your Home View, by clicking the plus sign of the widget of your choice.
@@ -26,7 +26,7 @@ This widget shows a card with an icon, an avatar with a name and you can add lab
 Provide enjoyable content by adding short animated sequences in form of stories to your Home View.
 Create your stories with any AMP story tool (e.g. the free tool https://makestories.io/) and simply add the URL of your story to the story components in LoyJoy.
 
-Back in the LoyJoy backend, you can add an avatar image and a logo for your stories. 
+Back in the LoyJoy backend, you can add an avatar image and a logo for your stories.
 
 Let your customer jump directly into one of your experiences by choosing a CTA and linking an experience to your story.
 
@@ -42,8 +42,5 @@ This widget presents a message for the customer. Call out for action, excite you
 
 ### Roster widget
 
-The roster shows the customer's previous chats and interactions with your chat experiences. 
+The roster shows the customer's previous chats and interactions with your chat experiences.
 Let your customers go back to previous conversations just like they would do while chatting with a friend.
-
-
-
