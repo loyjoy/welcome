@@ -13,6 +13,15 @@ All notable changes to LoyJoy will be documented in this file.
 - External-Link Process brick
   - Titles, Descriptions and Image are now proposed based on og-tags of respective website
 - All CSV exports are provided in encrypted ZIP files
+- Text inside draggable components is now selectable
+- List process brick:
+  - Elements can now be conditioned
+- Timer:
+  - It is now possible to add start- and enddate
+- Miniprogram:
+  - Can now be opened automatically
+  - Footer for closing the webview can now be disabled
+  - An optional clickable teaser image can now be added
 
 ## release-2021-05-10
 
@@ -25,8 +34,6 @@ All notable changes to LoyJoy will be documented in this file.
   - Analytics for decision jump process module
   - Analytics for live chats
   - Analytics for home view
-- List process brick:
-  - Elements can now be conditioned
 - Policy user add:
   - suitable greeting, if no first name known
   - new welcome email to the added user
@@ -35,7 +42,6 @@ All notable changes to LoyJoy will be documented in this file.
   - Animation subprocess
 - Questionnaire:
   - new Questiontype: Email
-- Text inside draggable components is now selectable
 
 ### Fixed
 
