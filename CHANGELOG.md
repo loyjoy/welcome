@@ -3,29 +3,31 @@
 
 All notable changes to LoyJoy will be documented in this file.
 
-## unreleased
+
+## release-2021-05-25
 
 ### Added
 
 - 📈 Analytics:
   - Event counting process starts is shown in analytics.
   - Link clicks are measured in the external link and product modules.
-- External-Link Process brick
-  - Titles, Descriptions and Image are now proposed based on og-tags of respective website
-- All CSV exports are provided in encrypted ZIP files
+- External-Link process module
+  - Titles, descriptions and images are now loaded automatically based on og-tags of respective website
+- All CSV exports are provided as encrypted ZIP files
 - Text inside draggable components is now selectable
 - List process brick:
-  - Elements can now be conditioned
+  - List elements can now be conditioned
 - Timer:
-  - It is now possible to add start- and enddate
-- Miniprogram:
+  - It is now possible to add absolute start and end dates
+- Mini program:
   - Can now be opened automatically
-  - Footer for closing the webview can now be disabled
+  - Footer for closing the mini program can now be hidden
   - An optional clickable teaser image can now be added
 
 ### Fixed
 - List:
   - Margin of elements while solely using titles
+
 
 ## release-2021-05-10
 
