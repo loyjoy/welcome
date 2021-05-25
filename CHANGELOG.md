@@ -8,7 +8,7 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-- 📈 Analytics:
+- 📈 Analytics
   - Event counting process starts is shown in analytics.
   - Link clicks are measured in the external link and product modules.
 - `External link` process module
@@ -25,7 +25,8 @@ All notable changes to LoyJoy will be documented in this file.
   - An optional clickable teaser image can now be added
 
 ### Fixed
-- List:
+
+- `List` process module
   - Margin of elements while solely using titles
 
 
@@ -34,7 +35,7 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - `SMS opt-in` process module now supports Twilio
-- Chat "send message" button icon can now be adjusted via image upload in Branding.
+- Chat "send message" button icon can now be adjusted via image upload in branding.
 - 📅 `Appointment` process module: Option to add a lead time
 - 📈 Analytics
   - Analytics for decision jump process module
@@ -44,7 +45,7 @@ All notable changes to LoyJoy will be documented in this file.
   - suitable greeting, if no first name known
   - new welcome email to the added user
 - Animations
-  - new Animations: Autumn Leaves, Santa, Cheese, Christmas balls, Easter eggs, Gift boxes, Pine cones, Pumpkins, Raining stars
+  - New animations: Autumn Leaves, Santa, Cheese, Christmas balls, Easter eggs, Gift boxes, Pine cones, Pumpkins, Raining stars
   - Animation subprocess
 - `Questionnaire` process module
   - new question type: email
@@ -53,8 +54,8 @@ All notable changes to LoyJoy will be documented in this file.
 
 - Stochastic timeout on image upload in Firefox Android
 - BPMN variable select popover
-  - underlying dialog no longer closes on any click
-  - resize to fit to screen
+  - Underlying dialog no longer closes on any click
+  - Resize to fit to screen
 
 ## release-2021-04-13
 
