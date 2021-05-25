@@ -9,8 +9,8 @@ All notable changes to LoyJoy will be documented in this file.
 ### Added
 
 - 📈 Analytics
-  - Event counting process starts is shown in analytics.
-  - Link clicks are measured in the external link and product modules.
+  - Process starts are measured and shown in analytics.
+  - Link clicks are measured in the `External link` and `Product` modules.
 - `External link` process module
   - Titles, descriptions and images are now loaded automatically based on og-tags of respective website
 - All CSV exports are provided as encrypted ZIP files
