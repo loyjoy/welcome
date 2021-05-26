@@ -17,6 +17,8 @@ All notable changes to LoyJoy will be documented in this file.
     - Proceed confirmed
     - Intent matching
   - Optimization
+- List process brick
+  - Added jump functionality to elements
 
 
 ## release-2021-05-25
