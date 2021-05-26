@@ -3,6 +3,21 @@
 
 All notable changes to LoyJoy will be documented in this file.
 
+## Unreleased
+
+### Added
+
+- 📈 Analytics
+  - New events are counted
+    - Customer data entered (birthdate, name, ...)
+    - Opt-in rejected
+    - Auto-jump
+    - Questionnaire question answered
+    - Mail sent 
+    - Proceed confirmed
+    - Intent matching
+  - Optimization
+
 
 ## release-2021-05-25
 
