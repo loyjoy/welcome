@@ -34,6 +34,9 @@ All notable changes to LoyJoy will be documented in this file.
   - Can now be opened automatically
   - Footer for closing the mini program can now be hidden
   - An optional clickable teaser image can now be added
+- `Notification` module
+  - Notifications can now be sent via SMS with help of Twilio.
+  - For this to work, customer must have given an SMS opt-in with `SMS opt-in` module and entered their phone number with `Phone number` module.
 - `Product` module
   - Link clicks are measured and displayed in analytics.
 - `Timer` process module
