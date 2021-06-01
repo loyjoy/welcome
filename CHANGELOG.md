@@ -21,6 +21,14 @@ All notable changes to LoyJoy will be documented in this file.
   - Added jump functionality to elements
 
 
+### Fixes
+- Questionnaire:
+  - Placeholder for numerical inputs is now editable
+- Image Gallery:
+  - Indicator of the active item has color
+- Added Auto translation on bot level
+
+
 ## release-2021-05-25
 
 ### Added
