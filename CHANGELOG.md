@@ -19,7 +19,10 @@ All notable changes to LoyJoy will be documented in this file.
   - Optimization
 - List process brick
   - Added jump functionality to elements
-
+- ChatUI
+  - Inverted colors of header: The header of new processes has now a white background and the font color is the primary color
+  - However, this can be inverted back to the traditional design under the `branding`-tab
+  - Increased size of the header-title
 
 ### Fixes
 - Questionnaire:
