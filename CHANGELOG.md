@@ -11,10 +11,10 @@ All notable changes to LoyJoy will be documented in this file.
   - New events are counted
     - Customer data entered (birthdate, name, ...; cf. [screenshot](changelog/2021-06-07-customer_data.png))
     - Opt-in rejected (cf. [screenshot](changelog/2021-06-07-opt_in_rejected.png))
-    - Auto-jump
+    - Auto-jump (cf. [screenshot](changelog/2021-06-07-automatic_jump.png))
     - Questionnaire question answered (cf. [screenshot](changelog/2021-06-07-questionnaire.png))
     - Mail sent (cf. [screenshot](changelog/2021-06-07-email.png))
-    - Proceed confirmed
+    - Proceed confirmed (cf. [screenshot](changelog/2021-06-07-proceed.png))
     - Intent matching (cf. [screenshot](changelog/2021-06-07-intents.png))
   - Optimization
   - Heatmap showing how of certain process blocks are reached (cf. [screenshot](changelog/2021-06-07-heatmap.png))
