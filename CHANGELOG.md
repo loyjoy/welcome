@@ -16,8 +16,8 @@ All notable changes to LoyJoy will be documented in this file.
     - Mail sent (cf. [screenshot](changelog/2021-06-07-email.png))
     - Proceed confirmed (cf. [screenshot](changelog/2021-06-07-proceed.png))
     - Intent matching (cf. [screenshot](changelog/2021-06-07-intents.png))
-  - Optimization
-  - Heatmap showing how of certain process blocks are reached (cf. [screenshot](changelog/2021-06-07-heatmap.png))
+  - Heatmap showing how many of certain process blocks are reached (cf. [screenshot](changelog/2021-06-07-heatmap.png))
+  - Optimizations
 - List process brick
   - Added jump functionality to elements
 - ChatUI
