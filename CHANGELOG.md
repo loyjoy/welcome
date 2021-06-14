@@ -7,6 +7,12 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+
+
+### release-2021-06-14
+
+### Added
+
 - 📈 Analytics
   - New events are counted
     - Customer data entered (birthdate, name, ...; cf. [screenshot](changelog/2021-06-07-customer_data.png))
