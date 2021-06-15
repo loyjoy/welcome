@@ -12,7 +12,7 @@ All notable changes to LoyJoy will be documented in this file.
   - Filtering subprocesses by name, group, tags
   - Fullscreen palette shows subprocess messages
 
-### release-2021-06-14
+### release-2021-06-15
 
 ### Added
 
