@@ -7,7 +7,10 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
-
+- Palette
+  - Grouping of subprocesses, groups are ordered by priority
+  - Filtering subprocesses by name, group, tags
+  - Fullscreen palette shows subprocess messages
 
 ### release-2021-06-14
 
