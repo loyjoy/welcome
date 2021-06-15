@@ -33,6 +33,13 @@ All notable changes to LoyJoy will be documented in this file.
   - Inverted colors of header: The header of new processes has now a white background and the font color is the primary color
   - However, this can be inverted back to the traditional design under the `branding`-tab
   - Increased size of the header-title
+- Audio recording
+  - Customers can record and send an Audio in the Chat. (Not supported in `ie11`)
+  - If the customer is logged in, the Audio will be saved in the history.
+- Audio player: depending on the browser the following functionality is available
+  - display of audio duration and progressbar (not supoprted in `safari`)
+  - jump forwards and backwards in current playtime (`firefox`(all files), `chrome, edge-chromium, ie11`(for files approx. smaller than 3 MB), not supported in `safari`
+  
 
 ### Fixes
 - Questionnaire:
