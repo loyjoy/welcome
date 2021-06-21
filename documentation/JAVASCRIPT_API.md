@@ -188,7 +188,7 @@ LoyJoy('boot', {
 
 ## Authentication token
 
-An authentication JSON Web token (JWT), that provides the chat with an authentication context. The JWT issuer is "customer iss" (cf. https://cloud.loyjoy.com/sites/test/jwt.html). The JWT claim "email" is mandatory, the JWT claims "firstname" and "lastname" are optional. The JWT secret is provided in the manager in the tenant settings.
+An authentication JSON Web token (JWT), that provides the chat with an authentication context. The JWT issuer is "customer iss" (cf. https://sites.loyjoy.com/test/jwt.html). The JWT claim "email" is mandatory, the JWT claims "firstname" and "lastname" are optional. The JWT secret is provided in the manager in the tenant settings.
 
 ```
 <script>
