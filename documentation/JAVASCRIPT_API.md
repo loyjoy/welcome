@@ -173,7 +173,7 @@ LoyJoy('boot', {
 
 ## Locale
 
-A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the user’s language and region.
+A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the customer’s language and region.
 
 ```
 <script>
@@ -220,7 +220,7 @@ LoyJoy('boot', {
 
 ### Callback parameters
 
-Similar to parameters you can supply a callback function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
+Similar to freely selected parameters you can supply a callback function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
 
 ```
 <script>
