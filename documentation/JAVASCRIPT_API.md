@@ -235,7 +235,7 @@ LoyJoy('boot', {
 
 ## Restart
 
-Tells the chat to restart the process after after a page reload (or after a new `LoyJoy('boot')`).
+Tells the chat to restart the process after after a page reload (or after a new `LoyJoy('boot')`). This keeps the chat history, however restarts the experience from the beginning.
 
 ```
 <script>
@@ -243,6 +243,20 @@ LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
   restart: true
+})
+</script>
+```
+
+## Reset
+
+Tells the chat to reset the process after after a page reload (or after a new `LoyJoy('boot')`). This removes the chat history and restarts the experience from the beginning.
+
+```
+<script>
+LoyJoy('boot', {
+  bot: BOT_ID,
+  process: OPTIONAL_PROCESS_ID,
+  reset: true
 })
 </script>
 ```
