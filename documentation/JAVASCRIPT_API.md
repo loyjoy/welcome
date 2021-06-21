@@ -94,7 +94,7 @@ Events can include a `token` field. This token is a JSON web token with the issu
 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtYXAgaXNzIiwiZW1haWwiOiJ0ZXN0QGxveWpveS5jb20ifQ.CjH4UxbVkCLfZ19Tz7_9_gjRCaFf6fkYbuUtnDPFmOw
 ```
 
-The secret for this token can be set in the tenant settings in the tenant tab in the field `Secret JWT key`.
+The secret for this token can be set in "Bot" > "Cookies" in the field `Secret JWT key`.
 
 A full event object looks like this:
 
@@ -188,7 +188,8 @@ LoyJoy('boot', {
 
 ## Authentication token
 
-An authentication JSON Web token (JWT), that provides the chat with an authentication context. The JWT issuer is "customer iss" (cf. https://sites.loyjoy.com/test/jwt.html). The JWT claim "email" is mandatory, the JWT claims "firstname" and "lastname" are optional. The JWT secret is provided in the manager in the tenant settings.
+An authentication JSON Web token (JWT), that provides the chat with an authentication context. The JWT issuer is "customer iss" (cf. https://sites.loyjoy.com/test/jwt.html). The JWT claim "email" is mandatory, the JWT claims "firstname" and "lastname" are optional. The JWT secret can be set in "Bot" > "Cookies" in the field `Secret JWT key`.
+
 
 ```
 <script>
