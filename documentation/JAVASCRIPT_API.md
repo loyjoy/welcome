@@ -21,7 +21,6 @@ Injects LoyJoy elements into the DOM and shows the chat bubble as configured in 
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -38,7 +37,6 @@ LoyJoy('boot', {
   bot: BOT_ID,
   eventListeners: [function (evt, obj) {}],
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -86,7 +84,6 @@ LoyJoy('boot', {
     ]
   },
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -172,7 +169,6 @@ LoyJoy('boot', {
     // e.g. return ('; ' + document.cookie).split('; ' + 'MarketingCookiesEnabled' + '=').pop().split(';').shift() == '1'
   },
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -189,7 +185,6 @@ LoyJoy('boot', {
   bot: BOT_ID,
   locale: 'en_US',
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -205,7 +200,6 @@ An authentication JSON Web token (JWT), that provides the chat with an authentic
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID,
   token: TOKEN
 })
@@ -225,7 +219,6 @@ LoyJoy('boot', {
     foo: 'bar'
   },
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -243,7 +236,6 @@ LoyJoy('boot', {
     foo: () => window.location.href
   },
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
@@ -258,7 +250,6 @@ Tells the chat to restart the process after after a page reload (or after a new 
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   restart: true,
   tenant: OPTIONAL_TENANT_ID
 })
@@ -275,7 +266,6 @@ LoyJoy('boot', {
   bot: BOT_ID,
   open: true,
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
   tenant: OPTIONAL_TENANT_ID
 })
 </script>
