@@ -20,8 +20,7 @@ Injects LoyJoy elements into the DOM and shows the chat bubble as configured in 
 <script>
 LoyJoy('boot', {
   bot: BOT_ID,
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -36,8 +35,7 @@ The chat emits events for chat events (open, close, sign-up, etc.) that can be r
 LoyJoy('boot', {
   bot: BOT_ID,
   eventListeners: [function (evt, obj) {}],
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -83,8 +81,7 @@ LoyJoy('boot', {
       function (obj) {}
     ]
   },
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -168,8 +165,7 @@ LoyJoy('boot', {
     return true
     // e.g. return ('; ' + document.cookie).split('; ' + 'MarketingCookiesEnabled' + '=').pop().split(';').shift() == '1'
   },
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -184,8 +180,7 @@ A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-c
 LoyJoy('boot', {
   bot: BOT_ID,
   locale: 'en_US',
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -200,7 +195,6 @@ An authentication JSON Web token (JWT), that provides the chat with an authentic
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID,
   token: TOKEN
 })
 </script>
@@ -218,8 +212,7 @@ LoyJoy('boot', {
   params: {
     foo: 'bar'
   },
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -235,8 +228,7 @@ LoyJoy('boot', {
   callbacks: {
     foo: () => window.location.href
   },
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -250,8 +242,7 @@ Tells the chat to restart the process after after a page reload (or after a new 
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  restart: true,
-  tenant: OPTIONAL_TENANT_ID
+  restart: true
 })
 </script>
 ```
@@ -265,8 +256,7 @@ Tells the chat to open the messenger window independent of other configuration s
 LoyJoy('boot', {
   bot: BOT_ID,
   open: true,
-  process: OPTIONAL_PROCESS_ID,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
