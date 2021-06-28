@@ -11,6 +11,9 @@ All notable changes to LoyJoy will be documented in this file.
   - Grouping of subprocesses, groups are ordered by priority
   - Filtering subprocesses by name, group, tags
   - Fullscreen palette shows subprocess messages
+- Webcomponents can now be used in footer
+- Webcomponents can now be used inside the chatflow
+- Webcomponents can now be parameterized
 
 ### release-2021-06-15
 
