@@ -11,17 +11,24 @@ All notable changes to LoyJoy will be documented in this file.
   - Grouping of subprocesses, groups are ordered by priority
   - Filtering subprocesses by name, group, tags
   - Fullscreen palette shows subprocess messages
-- Webcomponents can now be used in footer
-- Webcomponents are now available inside the chatflow
-- Webcomponents can now be parameterized
+
+
+### release-2021-06-30
+
+### Added
+
 - Widgets in Home are now hidden if they do not contain content
-- New Process brick: Salesforce Interaction Studio
-- Notifications are now stackable
+- New process module: Salesforce Interaction Studio
+- Web components are now available inside the chatflow
+- Web components can now be used in footer
+- Web components can now be parameterized
+- Notifications in the home view notifications widget are now stacked if more than one
 
 ### Fixes
 - Fixed a bug that caused web components to be included only once
 
-### release-2021-06-15
+
+### release-2021-06-16
 
 ### Added
 
