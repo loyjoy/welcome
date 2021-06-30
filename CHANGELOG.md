@@ -23,6 +23,7 @@ All notable changes to LoyJoy will be documented in this file.
 - Web components can now be used in footer
 - Web components can now be parameterized
 - Notifications in the home view notifications widget are now stacked if more than one
+- Live chat messages are now stored either in database or in-memory. In-memory is for financial institution tenants such as banks, database for other tenants.
 
 ### Fixes
 - Fixed a bug that caused web components to be included only once
