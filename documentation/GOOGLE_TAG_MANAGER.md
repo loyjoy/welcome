@@ -2,9 +2,28 @@
 
 With a LoyJoy chat on your site you can connect with your customers in a great way. You can watch how your customers use the chat in the LoyJoy backend. You can also extract a lot of data from LoyJoy and integrate it directly into your own website tracking solution to collect all analytics data in one place.
 
-## Tracking integration
+## Connect LoyJoy in JavaScript to Google Tag Manager
 
-The tracking integration is based on the LoyJoy JavaScript API. Through the JavaScript API, events are triggered for various events in the chat:
+The tracking integration is based on the LoyJoy JavaScript API. Using the following code to integrate a LoyJoy chat in your site, LoyJoy events can be pushed to an existing Google Tag Manager data layer:
+
+```
+<script>
+LoyJoy('boot', {
+  bot: BOT_ID,
+  eventListeners: [function (evt, obj) {
+    dataLayer && dataLayer.push({ 'evt': evt, 'bot_id': obj && obj.bot_id, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })  
+  }],
+  process: OPTIONAL_PROCESS_ID,
+  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
+  tenant: OPTIONAL_TENANT_ID
+})
+</script>
+```
+
+
+## Events
+
+Through the JavaScript API, following events are triggered for various events in the chat:
 
 
 | Event name          | Event description |
@@ -159,21 +178,3 @@ The tracking integration is based on the LoyJoy JavaScript API. Through the Java
 | win_participant_bpmn_sub_process | A customer has participated for the first time in a win process brick. |
 | win_participation | A customer has participated in a win process brick. |
 | win_won | A customer has won in a win process brick. |
-
-
-Using the following code to integrate a LoyJoy chat in your site, LoyJoy events can be pushed to an existing Google Tag Manager data layer:
-
-```
-<script>
-LoyJoy('boot', {
-  bot: BOT_ID,
-  eventListeners: [function (evt, obj) {
-    dataLayer && dataLayer.push({ 'evt': evt, 'bot_id': obj && obj.bot_id, 'process_id': obj && obj.process_id, 'process_name': obj && obj.process_name })  
-  }],
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
-})
-</script>
-```
-
