@@ -7,6 +7,32 @@ All notable changes to LoyJoy will be documented in this file.
 
 ### Added
 
+- Palette
+  - Grouping of subprocesses, groups are ordered by priority
+  - Filtering subprocesses by name, group, tags
+  - Fullscreen palette shows subprocess messages
+
+
+### release-2021-06-30
+
+### Added
+
+- Widgets in Home are now hidden if they do not contain content
+- New process module: Salesforce Interaction Studio
+- Web components are now available inside the chatflow
+- Web components can now be used in footer
+- Web components can now be parameterized
+- Notifications in the home view notifications widget are now stacked if more than one
+- Live chat messages are now stored either in database or in-memory. In-memory is for financial institution tenants such as banks, database for other tenants.
+
+### Fixes
+- Fixed a bug that caused web components to be included only once
+
+
+### release-2021-06-16
+
+### Added
+
 - 📈 Analytics
   - New events are counted
     - Customer data entered (birthdate, name, ...; cf. [screenshot](changelog/2021-06-07-customer_data.png))
@@ -16,14 +42,21 @@ All notable changes to LoyJoy will be documented in this file.
     - Mail sent (cf. [screenshot](changelog/2021-06-07-email.png))
     - Proceed confirmed (cf. [screenshot](changelog/2021-06-07-proceed.png))
     - Intent matching (cf. [screenshot](changelog/2021-06-07-intents.png))
-  - Optimization
-  - Heatmap showing how of certain process blocks are reached (cf. [screenshot](changelog/2021-06-07-heatmap.png))
+  - Heatmap showing how many of certain process blocks are reached (cf. [screenshot](changelog/2021-06-07-heatmap.png))
+  - Optimizations
 - List process brick
   - Added jump functionality to elements
 - ChatUI
   - Inverted colors of header: The header of new processes has now a white background and the font color is the primary color
   - However, this can be inverted back to the traditional design under the `branding`-tab
   - Increased size of the header-title
+- Audio recording
+  - Customers can record and send an Audio in the Chat. (Not supported in `ie11`)
+  - If the customer is logged in, the Audio will be saved in the history.
+- Audio player: depending on the browser the following functionality is available
+  - display of audio duration and progressbar (not supoprted in `safari`)
+  - jump forwards and backwards in current playtime (`firefox`(all files), `chrome, edge-chromium, ie11`(for files approx. smaller than 3 MB), not supported in `safari`
+  
 
 ### Fixes
 - Questionnaire:

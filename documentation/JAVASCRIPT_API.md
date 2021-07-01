@@ -20,9 +20,7 @@ Injects LoyJoy elements into the DOM and shows the chat bubble as configured in 
 <script>
 LoyJoy('boot', {
   bot: BOT_ID,
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -37,9 +35,7 @@ The chat emits events for chat events (open, close, sign-up, etc.) that can be r
 LoyJoy('boot', {
   bot: BOT_ID,
   eventListeners: [function (evt, obj) {}],
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -85,9 +81,7 @@ LoyJoy('boot', {
       function (obj) {}
     ]
   },
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -100,7 +94,7 @@ Events can include a `token` field. This token is a JSON web token with the issu
 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtYXAgaXNzIiwiZW1haWwiOiJ0ZXN0QGxveWpveS5jb20ifQ.CjH4UxbVkCLfZ19Tz7_9_gjRCaFf6fkYbuUtnDPFmOw
 ```
 
-The secret for this token can be set in the tenant settings in the tenant tab in the field `Secret JWT key`.
+The secret for this token can be set in "Bot" > "Cookies" in the field `Secret JWT key`.
 
 A full event object looks like this:
 
@@ -171,9 +165,7 @@ LoyJoy('boot', {
     return true
     // e.g. return ('; ' + document.cookie).split('; ' + 'MarketingCookiesEnabled' + '=').pop().split(';').shift() == '1'
   },
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -181,16 +173,14 @@ LoyJoy('boot', {
 
 ## Locale
 
-A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the user’s language and region.
+A string in in the format `<language-iso-6391>_<region-iso-31662>` (two-letter-codes). Overwrites the user’s settings regarding language and region. This language and region will be saved as the customer’s language and region.
 
 ```
 <script>
 LoyJoy('boot', {
   bot: BOT_ID,
   locale: 'en_US',
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
@@ -198,15 +188,14 @@ LoyJoy('boot', {
 
 ## Authentication token
 
-An authentication JSON Web token (JWT), that provides the chat with an authentication context. The JWT issuer is "customer iss" (cf. https://cloud.loyjoy.com/sites/test/jwt.html). The JWT claim "email" is mandatory, the JWT claims "firstname" and "lastname" are optional. The JWT secret is provided in the manager in the tenant settings.
+An authentication JSON Web token (JWT), that provides the chat with an authentication context. The JWT issuer is "customer iss" (cf. https://sites.loyjoy.com/test/jwt.html). The JWT claim "email" is mandatory, the JWT claims "firstname" and "lastname" are optional. The JWT secret can be set in "Bot" > "Cookies" in the field `Secret JWT key`.
+
 
 ```
 <script>
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID,
   token: TOKEN
 })
 </script>
@@ -224,16 +213,14 @@ LoyJoy('boot', {
   params: {
     foo: 'bar'
   },
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
 
 ### Callback parameters
 
-Similar to parameters you can supply a callback function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
+Similar to freely selected parameters you can supply a callback function that will be evaluated dynamically. The callback also results in a parameter that can be used in the BPMN process via `GetParam`.
 
 ```
 <script>
@@ -242,25 +229,35 @@ LoyJoy('boot', {
   callbacks: {
     foo: () => window.location.href
   },
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```
 
 ## Restart
 
-Tells the chat to restart the process after after a page reload (or after a new `LoyJoy('boot')`).
+Tells the chat to restart the process after after a page reload (or after a new `LoyJoy('boot')`). This keeps the chat history, however restarts the experience from the beginning.
 
 ```
 <script>
 LoyJoy('boot', {
   bot: BOT_ID,
   process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  restart: true,
-  tenant: OPTIONAL_TENANT_ID
+  restart: true
+})
+</script>
+```
+
+## Reset
+
+Tells the chat to reset the process after after a page reload (or after a new `LoyJoy('boot')`). This removes the chat history and restarts the experience from the beginning.
+
+```
+<script>
+LoyJoy('boot', {
+  bot: BOT_ID,
+  process: OPTIONAL_PROCESS_ID,
+  reset: true
 })
 </script>
 ```
@@ -274,9 +271,7 @@ Tells the chat to open the messenger window independent of other configuration s
 LoyJoy('boot', {
   bot: BOT_ID,
   open: true,
-  process: OPTIONAL_PROCESS_ID,
-  serviceWorkerPath: OPTIONAL_SERVICE_WORKER_PATH,
-  tenant: OPTIONAL_TENANT_ID
+  process: OPTIONAL_PROCESS_ID
 })
 </script>
 ```

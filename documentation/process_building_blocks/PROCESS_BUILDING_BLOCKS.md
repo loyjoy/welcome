@@ -171,6 +171,9 @@ Set or modify a variable in the chat. This is very useful to design personalized
 ## Video gallery
 Add videos to your chat, playing in the chat window.
 
+## Web Component
+Display a component within the chat.
+
 ## Web push opt-in
 Collect opt-ins for push notifications and send personalized push messages to your customers. GDPR compliant.
 

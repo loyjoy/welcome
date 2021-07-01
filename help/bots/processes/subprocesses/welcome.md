@@ -7,4 +7,5 @@ Welcome customers, returning customers and use the customer name anywhere.
 **Returning customers with name** - Add a message that will be sent when the customer is signed in and you know the name.    
 **Second welcoming message** - This message will be sent to all of the customers as a second message.   
 
+![welcoming_demo](https://raw.githubusercontent.com/loyjoy/welcome/master/help/bots/processes/subprocesses/welcoming_demo.png)
 
