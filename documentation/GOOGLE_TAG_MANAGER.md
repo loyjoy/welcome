@@ -13,7 +13,7 @@ The tracking integration is based on the LoyJoy JavaScript API. Through the Java
 | load                | The chat was loaded. |
 | open                | The chat was opened. |
 | show                | The chat was displayed / no longer hidden. |
-|---------------------|------------------|
+|-- |-- |
 | advent_calendar_door_asked | A customer was asked whether to open an advent calendar door. |
 | advent_calendar_door_opened | A customer has confirmed to open an advent calendar door. |
 | appointment_created | An appointment was created in the appointment process brick. |
