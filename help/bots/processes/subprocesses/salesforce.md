@@ -11,6 +11,9 @@ You can create new objects in SFSC or update existing ones. Use mappings to conf
 
 You will need to create a Connected App in SFSC for the connection to work.
 
+From this connected app, you can then copy the client ID and secret:
+![grafik](https://user-images.githubusercontent.com/8091176/125081888-d5337d80-e0c6-11eb-879a-610b84afe0cd.png)
+
 LoyJoy needs the `api` and `refresh_token` OAuth Scopes. Additionally you need to set the Callback URL in the OAuth settings:
 ![grafik](https://user-images.githubusercontent.com/8091176/125076203-ec22a180-e0bf-11eb-981c-b8bd87df5211.png)
 
